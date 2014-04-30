@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-  <title></title>
+  <meta name="author" content="Karl Benedict" />
+  <meta name="author" content="Director, Earth Data Analysis Center" />
+  <meta name="author" content="Associate Professor, College of University Libraries &amp; Learning Sciences" />
+  <meta name="author" content="University of New Mexico" />
+  <meta name="author" content="kbene@unm.edu" />
+  <title>The Google Maps API and OpenLayers Javascript Framework: a NMGIC Workshop</title>
   <style type="text/css">code{white-space: pre;}</style>
   <style type="text/css">
 table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
@@ -26,7 +31,16 @@ code > span.er { color: #ff0000; font-weight: bold; }
   <link rel="stylesheet" href="slidesSpecific.css" />
 </head>
 <body>
-<section id="google-maps-api" class="titleslide slide level1"><h1>Google Maps API</h1></section><section id="outline" class="slide level3">
+<section class="title">
+  <h1 class="title">The Google Maps API and OpenLayers Javascript Framework: a NMGIC Workshop</h1>
+  <h2 class="author"><strong>Karl Benedict</strong></h2>
+  <h2 class="author">Director, Earth Data Analysis Center</h2>
+  <h2 class="author">Associate Professor, College of University Libraries &amp; Learning Sciences</h2>
+  <h2 class="author"><em>University of New Mexico</em></h2>
+  <h2 class="author">kbene@unm.edu</h2>
+  <h3 class="date">May 1, 2014</h3>
+</section>
+<section id="google-maps-api" class="titleslide slide level1"><h1>Google Maps API</h1></section><section id="introduction" class="titleslide slide level2"><h1>Introduction</h1></section><section id="outline" class="slide level3">
 <h1>Outline</h1>
 <ul>
 <li>What is an API</li>
@@ -82,9 +96,7 @@ code > span.er { color: #ff0000; font-weight: bold; }
 </dl>
 </section><section id="key-components" class="slide level3">
 <h1>Key Components</h1>
-<ul>
-<li>Map <a href="http://tinyurl.com/mlsj3ar">object options</a></li>
-</ul>
+<p>Map <a href="http://tinyurl.com/mlsj3ar">object options</a></p>
 <dl>
 <dt>Types (required)</dt>
 <dd><p>ROADMAP</p>
@@ -182,10 +194,11 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <li>Displaying additional information outside the map when the user clicks a location in the map</li>
 <li>Synchronizing the behavior of multiple maps as the user interacts with one map</li>
 </ul></li>
-<li>Requires higher-level Javascript that we will cover in this course</li>
+<li>Requires higher-level Javascript that we will cover here</li>
 </ul>
-</section><section id="examples" class="titleslide slide level2"><h1>Examples</h1></section><section id="simple---roadmap-code" class="slide level3">
-<h1>Simple - Roadmap (Code)</h1>
+</section><section id="examples" class="titleslide slide level2"><h1>Examples</h1></section><section id="simple---roadmap" class="slide level3">
+<h1>Simple - Roadmap</h1>
+<p><img src="images/google_01.jpg" alt="Simple Google ROADMAP Map" /> </p>
 <p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps01.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps01.html</a></p>
 <table class="sourceCode html numberLines" id="roadmap"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
@@ -267,6 +280,7 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
 </section><section id="simple---satellite" class="slide level3">
 <h1>Simple - Satellite</h1>
+<p><img src="images/google_02.jpg" alt="Simple Google SATELLITE Map" /> </p>
 <p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps02.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps02.html</a></p>
 <table class="sourceCode html numberLines" id="satellite"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
@@ -350,6 +364,8 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
 </section><section id="simple---hybrid" class="slide level3">
 <h1>Simple - Hybrid</h1>
+<p><img src="images/google_03.jpg" alt="Simple Google HYBRID Map" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html</a></p>
 <table class="sourceCode html numberLines" id="hybrid"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -430,9 +446,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html</a></p>
 </section><section id="simple---terrain" class="slide level3">
 <h1>Simple - Terrain</h1>
+<p><img src="images/google_04.jpg" alt="Simple Google TERRAIN Map" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html</a></p>
 <table class="sourceCode html numberLines" id="terrain"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -513,9 +530,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html</a></p>
 </section><section id="simple---hybrid---zoomed" class="slide level3">
 <h1>Simple - Hybrid - Zoomed</h1>
+<p><img src="images/google_05.jpg" alt="Simple Google HTBRID zoomed Map" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html</a></p>
 <table class="sourceCode html numberLines" id="hybridZoomed"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -596,9 +614,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html</a></p>
 </section><section id="simple---zoomed---modified-controls" class="slide level3">
 <h1>Simple - Zoomed - Modified Controls</h1>
+<p><img src="images/google_06.jpg" alt="Simple Google HYBRID zoomed Map with modified controls" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html</a></p>
 <table class="sourceCode html numberLines" id="hybridZoomedControls"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -691,9 +710,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html</a></p>
 </section><section id="markers" class="slide level3">
 <h1>Markers</h1>
+<p><img src="images/google_07.jpg" alt="Simple Google HYBRID zoomed Map with markers" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html</a></p>
 <table class="sourceCode html numberLines" id="markers"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -800,9 +820,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html</a></p>
 </section><section id="polyline" class="slide level3">
 <h1>Polyline</h1>
+<p><img src="images/google_08.jpg" alt="Simple Google HYBRID zoomed Map with markers and a polyline" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html</a></p>
 <table class="sourceCode html numberLines" id="polyline"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -939,9 +960,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     &lt;<span class="ot">/body&gt;</span>
 
 <span class="ot">&lt;/html</span>&gt;</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html</a></p>
 </section><section id="polygon" class="slide level3">
 <h1>Polygon</h1>
+<p><img src="images/google_09.jpg" alt="Simple Google HYBRID zoomed Map with markers and a polygon" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html</a></p>
 <table class="sourceCode html numberLines" id="polygon"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -1088,9 +1110,10 @@ code > span.er { color: #ff0000; font-weight: bold; }
     &lt;<span class="ot">/body&gt;</span>
 
 <span class="ot">&lt;/html</span>&gt;</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html</a></p>
 </section><section id="adding-an-info-window" class="slide level3">
 <h1>Adding an Info Window</h1>
+<p><img src="images/google_10.jpg" alt="Simple Google HYBRID zoomed Map with markers, a polygon and an Info Window" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html</a></p>
 <table class="sourceCode html numberLines" id="infoWindow"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -1257,15 +1280,14 @@ code > span.er { color: #ff0000; font-weight: bold; }
     &lt;<span class="ot">/body&gt;</span>
 
 <span class="ot">&lt;/html</span>&gt;</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html</a></p>
 </section><section id="getting-started-with-styled-maps---video" class="slide level3">
 <h1><em>Getting Started with Styled Maps</em> - Video</h1>
-<p><a href="https://developers.google.com/maps/documentation/javascript/styling">Styled Maps Documentation</a> | <a href="http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html">Styled Maps Wizard</a></p>
-<figure>
-<img src="./images/styledMapsWizard.png" alt="Google Maps Styled Maps Wizard link" /><figcaption>Google Maps Styled Maps Wizard <a href="http://youtu.be/0hhiEjf7_NA">link</a></figcaption>
-</figure>
+<p><a href="https://developers.google.com/maps/documentation/javascript/styling">Styled Maps Documentation</a> | <a href="http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html">Styled Maps Wizard</a> | <a href="http://youtu.be/0hhiEjf7_NA">YouTube Introductory Video</a></p>
+<p><img src="./images/styledMapsWizard.png" alt="Google Maps Styled Maps Wizard" /> </p>
 </section><section id="map-example-simple---styled" class="slide level3">
 <h1>Map Example: Simple - Styled</h1>
+<p><img src="images/google_11.jpg" alt="Styled Google ROADMAP with POIs emphasized" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html</a></p>
 <table class="sourceCode html numberLines" id="styledMap"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -1428,16 +1450,16 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <span class="kw">&lt;/body&gt;</span>
 
 <span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html</a></p>
 </section><section id="google-io-2011-managing-and-visualizing-your-geospatial-data-with-fusion-tables---video" class="slide level3">
 <h1><em>Google I/O 2011: Managing and visualizing your geospatial data with Fusion Tables</em> - Video</h1>
-<p>Some particularly relevant sections: <a href="http://youtu.be/Z2o0mtnF1Bg">Introduction (0:00 - 10:30)</a> | <a href="http://youtu.be/Z2o0mtnF1Bg?t=21m40s">Google Maps API Integration (21:40 - 34:42)</a> | <a href="http://youtu.be/Z2o0mtnF1Bg?t=52m">Summary and Links (52:00 52:40)</a></p>
+<p><a href="http://youtu.be/Z2o0mtnF1Bg">Fusion Tables Introduction Video</a> - Some particularly relevant sections: <a href="http://youtu.be/Z2o0mtnF1Bg">Introduction (0:00 - 10:30)</a> | <a href="http://youtu.be/Z2o0mtnF1Bg?t=21m40s">Google Maps API Integration (21:40 - 34:42)</a> | <a href="http://youtu.be/Z2o0mtnF1Bg?t=52m">Summary and Links (52:00 - 52:40)</a></p>
 <p><a href="http://tinyurl.com/nxlgcwq">Fusion Tables Documentation/Help</a></p>
-<figure>
-<img src="./images/fusionTablesVideo.png" alt="Google Fusion Tables Introduction Video link" /><figcaption>Google Fusion Tables Introduction Video <a href="http://youtu.be/Z2o0mtnF1Bg">link</a></figcaption>
-</figure>
+<p><img src="./images/fusionTablesVideo.png" alt="Google Fusion Tables Introduction Video" /> </p>
 </section><section id="bringing-it-all-together" class="slide level3">
 <h1>Bringing It All Together</h1>
+<p><img src="images/nawrs.jpg" alt="NAWRS Mapper" /> </p>
+<p><a href="http://karlbenedict.com/nawrs/">http://karlbenedict.com/nawrs/</a></p>
+<p>Fusion Tables: <a href="http://tinyurl.com/npx2q6g">Merged document info</a>, <a href="http://tinyurl.com/qyy4kew">State bounding boxes</a>, <a href="http://tinyurl.com/or5xuxc">HUC bounding boxes</a></p>
 <table class="sourceCode html numberLines" id="complexMap"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -1486,321 +1508,54 @@ code > span.er { color: #ff0000; font-weight: bold; }
 46
 47
 48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-128
-129
-130
-131
-132
-133
-134
-135
-136
-137
-138
-139
-140
-141
-142
-143
-144
-145
-146
-147
-148
-149
-150
-151
-152
-153
-154
-155
-156
-157
-158
-159
-160
-161
-162
-163
-164
-165
-166
-167
-168
-169
-170
-171
-172
-173
-174
-175
-176
-177
-178
-179
-180
-181
 </pre></td><td class="sourceCode"><pre><code class="sourceCode html"><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span>
-
 <span class="kw">&lt;html&gt;</span>
-    <span class="kw">&lt;head&gt;</span>
-        <span class="kw">&lt;meta</span><span class="ot"> charset=</span><span class="st">&quot;utf-8&quot;</span> <span class="kw">/&gt;</span>
-        <span class="kw">&lt;title&gt;</span>Karl&#39;s Event Diary<span class="kw">&lt;/title&gt;</span>
-        <span class="kw">&lt;link</span><span class="ot"> rel=</span><span class="st">&quot;stylesheet&quot;</span><span class="ot"> href=</span><span class="st">&quot;./styles/base.css&quot;</span><span class="ot"> media=</span><span class="st">&quot;screen&quot;</span><span class="kw">&gt;</span>
-        <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> src=</span><span class="st">&quot;http://maps.google.com/maps/api/js?sensor=false&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
-        <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> src=</span><span class="st">&quot;./js/base.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
-        <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="kw">&gt;</span>
-            <span class="co">// Define a set of global coordinates for use throughout the web site</span>
-            <span class="co">// Place coordinates derived from GNIS database: http://geonames.usgs.gov/pls/gnispublic</span>
-            <span class="kw">var</span> eventPlaces = [
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;Albuquerque&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">35.0889356</span>,-<span class="fl">106.5747462</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;Albuquerque: Duke City Half Marathon&quot;</span>
-                }, 
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;Durango&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">37.2752800</span>,-<span class="fl">107.8800667</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;Durango: Animas Valley/Steamworks Half Marathon&quot;</span>
-                },
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;San Diego&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">32.7153292</span>,-<span class="fl">117.1572551</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;San Diego: San Diego Rock &#39;n&#39; Roll Marathon&quot;</span>
-                },
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;San Francisco&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">37.7749295</span>,-<span class="fl">122.4194155</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;San Francisco: Nike Women&#39;s Marathon&quot;</span>
-                },
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;Orlando&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">28.5383355</span>,-<span class="fl">81.3792365</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;Orlando: Walt Disney World half- and full-marathon&quot;</span>
-                },
-                {
-                    <span class="dt">name</span>: <span class="st">&quot;Anaheim&quot;</span>, 
-                    <span class="dt">point</span>: <span class="kw">new</span> <span class="ot">google</span>.<span class="ot">maps</span>.<span class="fu">LatLng</span>(<span class="fl">33.8352932</span>,-<span class="fl">117.9145036</span>),
-                    <span class="dt">label</span>: <span class="st">&quot;Anaheim: Disneyland Half Marathon&quot;</span>
-                }
-            ]
-        &lt;<span class="ot">/script&gt;</span>
-<span class="ot">    &lt;/head</span>&gt;
-    
-    &lt;body onload=<span class="st">&quot;initialize()&quot;</span>&gt;
-        &lt;h1&gt;
-            My diary of endurance events that I<span class="st">&#39;ve participated in since joining Team in Training</span>
-        &lt;<span class="ot">/h1&gt;</span>
-<span class="ot">        </span>
-<span class="ot">        &lt;p&gt;In 2008 Cynthia and I joined the Leukemia and Lymphoma Society&#39;s </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;http://www.lls.org/</span><span class="st">&quot;&gt;LLS&lt;/a&gt;) Team in Training (&lt;a href=&quot;</span>http:<span class="co">//www.teamintraining.org/&quot;&gt;TNT&lt;/a&gt;, &lt;a href=&quot;http://youtu.be/GMSKG8L6K78&quot;&gt;info video&lt;/a&gt;) program as </span>
-        participants to train <span class="kw">for</span> the Animas Valley/Steamworks Half Marathon and raise money <span class="kw">for</span> blood cancer
-<span class="er">        research and patient services. In spite of our not having any direct connection to blood cancer (at that time), </span>
-        we found the goals of LLS admirable,  the combined training and fund-raising program of TNT a great idea, and have made many
-        <span class="kw">new</span> friends over the many seasons that we<span class="st">&#39;ve been involved with TNT.&lt;/p&gt;</span>
-        
-        &lt;p&gt;Since <span class="dv">2008</span> we have continued to volunteer <span class="kw">with</span> TNT, as participants, mentors, and since <span class="dv">2010</span> I have been a coach 
-<span class="er">        (check out my &lt;a href=&quot;http://youtu.be/GMSKG8L6K78#t=2m13s&quot;&gt;half-second&lt;/a&gt; of fame in the info video)</span>
-        <span class="kw">for</span> TNT <span class="kw">with</span> an emphasis on training walkers <span class="kw">for</span> full- or half-<span class="ot">marathons</span>. <span class="fu">This</span> <span class="fu">page</span> <span class="fu">provides</span> <span class="fu">a</span> <span class="fu">summary</span> <span class="fu">of</span> <span class="fu">the</span> 
-        <span class="fu">events</span> <span class="fu">that</span> <span class="fu">I</span><span class="st">&#39;ve participated in in some capacity since we became involved with TNT. &lt;/p&gt;</span>
-        
-        &lt;div id=<span class="st">&quot;event-map&quot;</span> name=<span class="st">&quot;event-map&quot;</span>&gt;&lt;<span class="ot">/div&gt;</span>
+<span class="kw">&lt;head&gt;</span>
+<span class="kw">&lt;link</span><span class="ot"> rel=</span><span class="st">&quot;stylesheet&quot;</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span><span class="ot"> href=</span><span class="st">&quot;styles.css&quot;</span><span class="kw">&gt;</span>
 
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span> 
+<span class="ot">    src=</span><span class="st">&quot;http://maps.google.com/maps/api/js?v=3.2</span><span class="er">&amp;</span><span class="st">sensor=false&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span> 
+<span class="ot">    src=</span><span class="st">&quot;//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> src=</span><span class="st">&quot;http://www.google.com/jsapi&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> charset=</span><span class="st">&quot;utf-8&quot;</span><span class="ot"> src=</span><span class="st">&quot;./core.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
 
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;9/1/2013&lt;/span</span>&gt; 
-            Disneyland Half Marathon 
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">2</span>:<span class="dv">56</span>:<span class="dv">57</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[5]</span><span class="ot">.point, 12</span><span class="fl">)</span><span class="ot">&quot;&gt;approx. map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
+<span class="co">&lt;!-- DataTables and DataTables CSS --&gt;</span>
+<span class="kw">&lt;link</span><span class="ot"> rel=</span><span class="st">&quot;stylesheet&quot;</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span> 
+<span class="ot">  href=</span><span class="st">&quot;http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/</span>
+<span class="st">  media/css/jquery.dataTables.css&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;link</span><span class="ot"> rel=</span><span class="st">&quot;stylesheet&quot;</span><span class="ot"> type=</span><span class="st">&quot;text/css&quot;</span> 
+<span class="ot">  href=</span><span class="st">&quot;http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/extras/TableTools/</span>
+<span class="st">  media/css/TableTools.css&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> charset=</span><span class="st">&quot;utf8&quot;</span> 
+<span class="ot">  src=</span><span class="st">&quot;http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/media/js/</span>
+<span class="st">  jquery.dataTables.min.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
+<span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> charset=</span><span class="st">&quot;utf8&quot;</span> 
+<span class="ot">  src=</span><span class="st">&quot;http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/extras/TableTools/media/js/</span>
+<span class="st">  TableTools.min.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
 
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">1</span>/<span class="dv">13</span>/<span class="dv">2013</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Disney World  Marathon </span><span class="fl">(</span><span class="ot">Goofy - Day 2</span><span class="fl">)</span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;6:46:57&lt;/span</span>&gt; 
-            (&lt;a href=<span class="st">&quot;#event-map&quot;</span> onclick=<span class="st">&quot;recenter(map, eventPlaces[4].point, 10)&quot;</span>&gt;<span class="ot">approx</span>. <span class="fu">map</span>&lt;<span class="ot">/a&gt;</span><span class="fl">)</span>
-<span class="ot">        &lt;/h2</span>&gt;
-        &lt;p <span class="kw">class</span>=<span class="st">&quot;eventDescription&quot;</span>&gt;blah, blah, <span class="ot">blah</span> ...&lt;<span class="ot">/p&gt;</span>
+<span class="kw">&lt;/head&gt;</span>
 
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;1/12/2013&lt;/span</span>&gt; 
-<span class="er">            Disney World Half Marathon (Goofy - Day 1)</span>
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">3</span>:<span class="dv">22</span>:<span class="dv">48</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[4]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;approx. map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-    
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">9</span>/<span class="dv">29</span>/<span class="dv">2012</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Hot Chocolate 15k </span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;1:56:46&lt;/span</span>&gt; 
-            (no map available)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
+<span class="kw">&lt;body</span><span class="ot"> onload=</span><span class="st">&quot;initialize()&quot;</span><span class="kw">&gt;</span>
+  <span class="kw">&lt;h1&gt;</span>NAWRS Mapper<span class="kw">&lt;/h1&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsReservations&quot;</span><span class="kw">&gt;</span>Reservations with Documents<span class="kw">&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsReservationsPopUp&quot;</span><span class="kw">&gt;&lt;ul</span><span class="ot"> id=</span><span class="st">&quot;docsReservationsList&quot;</span><span class="kw">&gt;&lt;/ul&gt;&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsStates&quot;</span><span class="kw">&gt;</span>States with Documents<span class="kw">&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsStatesPopUp&quot;</span><span class="kw">&gt;&lt;ul</span><span class="ot"> id=</span><span class="st">&quot;docsStatesList&quot;</span><span class="kw">&gt;&lt;/ul&gt;&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsHucs&quot;</span><span class="kw">&gt;</span>Hydrologic Regions with Documents<span class="kw">&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsHucsPopUp&quot;</span><span class="kw">&gt;&lt;ul</span><span class="ot"> id=</span><span class="st">&quot;docsHucsList&quot;</span><span class="kw">&gt;&lt;/ul&gt;&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsType&quot;</span><span class="kw">&gt;</span>Documents by Type<span class="kw">&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docsTypePopUp&quot;</span><span class="kw">&gt;&lt;ul</span><span class="ot"> id=</span><span class="st">&quot;docsTypeList&quot;</span><span class="kw">&gt;&lt;/ul&gt;&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;map_canvas&quot;</span><span class="kw">&gt;&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docListHandle&quot;</span><span class="kw">&gt;</span>Document List<span class="kw">&lt;/div&gt;</span>
+  <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;docList&quot;</span><span class="kw">&gt;</span>
+    <span class="kw">&lt;table</span><span class="ot"> id=</span><span class="st">&quot;docListTable&quot;</span><span class="kw">&gt;</span>
+  <span class="kw">&lt;/table&gt;</span>
+  <span class="kw">&lt;/div&gt;</span>
+  
+<span class="kw">&lt;/body&gt;</span>
 
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">6</span>/<span class="dv">9</span>/<span class="dv">2012</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Animas Valley/Steamworks</span> Half Marathon 
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;no time: coached&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[1]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">1</span>/<span class="dv">9</span>/<span class="dv">2012</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Disney World  Marathon </span><span class="fl">(</span><span class="ot">Goofy - Day 2</span><span class="fl">)</span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;6:56:28&lt;/span</span>&gt; 
-            (&lt;a href=<span class="st">&quot;#event-map&quot;</span> onclick=<span class="st">&quot;recenter(map, eventPlaces[4].point, 10)&quot;</span>&gt;map&lt;<span class="ot">/a&gt;</span><span class="fl">)</span>
-<span class="ot">        &lt;/h2</span>&gt;
-        &lt;p <span class="kw">class</span>=<span class="st">&quot;eventDescription&quot;</span>&gt;blah, blah, <span class="ot">blah</span> ...&lt;<span class="ot">/p&gt;</span>
-
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;1/8/2011&lt;/span</span>&gt; 
-<span class="er">            Disney World Half Marathon (Goofy - Day 1)</span>
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">3</span>:<span class="dv">29</span>:<span class="dv">00</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[4]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">6</span>/<span class="dv">19</span>/<span class="dv">2010</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Animas Valley/Steamworks</span> Half Marathon 
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;no time: coached&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[1]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">6</span>/<span class="dv">6</span>/<span class="dv">2010</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            San Diego Rock &#39;n&#39; Roll Marathon </span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;no time: coached&lt;/span</span>&gt; 
-            (&lt;a href=<span class="st">&quot;#event-map&quot;</span> onclick=<span class="st">&quot;recenter(map, eventPlaces[2].point, 11)&quot;</span>&gt;map&lt;<span class="ot">/a&gt;</span><span class="fl">)</span>
-<span class="ot">        &lt;/h2</span>&gt;
-        &lt;p <span class="kw">class</span>=<span class="st">&quot;eventDescription&quot;</span>&gt;blah, blah, <span class="ot">blah</span> ...&lt;<span class="ot">/p&gt;</span>
-
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;10/18/09&lt;/span</span>&gt; 
-            Nike Women<span class="st">&#39;s Marathon </span>
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">7</span>:<span class="dv">13</span>:<span class="dv">05</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[3]</span><span class="ot">.point, 12</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">9</span>/<span class="dv">6</span>/<span class="dv">2009</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Disneyland Half Marathon </span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;3:43:05&lt;/span</span>&gt; 
-            (&lt;a href=<span class="st">&quot;#event-map&quot;</span> onclick=<span class="st">&quot;recenter(map, eventPlaces[5].point, 12)&quot;</span>&gt;map&lt;<span class="ot">/a&gt;</span><span class="fl">)</span>
-<span class="ot">        &lt;/h2</span>&gt;
-        &lt;p <span class="kw">class</span>=<span class="st">&quot;eventDescription&quot;</span>&gt;blah, blah, <span class="ot">blah</span> ...&lt;<span class="ot">/p&gt;</span>
-
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;1/11/2009&lt;/span</span>&gt; 
-            Disney World Marathon 
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">6</span>:<span class="dv">57</span>:<span class="dv">42</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[4]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-        &lt;h2&gt;
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;date&quot;</span>&gt;<span class="dv">10</span>/<span class="dv">19</span>/<span class="dv">2008</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            Duke City Half Marathon </span>
-<span class="ot">            &lt;span class=&quot;time&quot;&gt;3:09:42&lt;/span</span>&gt; 
-            (&lt;a href=<span class="st">&quot;#event-map&quot;</span> onclick=<span class="st">&quot;recenter(map, eventPlaces[0].point, 11)&quot;</span>&gt;map&lt;<span class="ot">/a&gt;</span><span class="fl">)</span>
-<span class="ot">        &lt;/h2</span>&gt;
-        &lt;p <span class="kw">class</span>=<span class="st">&quot;eventDescription&quot;</span>&gt;blah, blah, <span class="ot">blah</span> ...&lt;<span class="ot">/p&gt;</span>
-
-<span class="ot">        &lt;h2&gt;</span>
-<span class="ot">            &lt;span class=&quot;date&quot;&gt;6/21/2008&lt;/span</span>&gt; 
-            Animas Valley/Steamworks Half Marathon 
-            &lt;span <span class="kw">class</span>=<span class="st">&quot;time&quot;</span>&gt;<span class="dv">3</span>:<span class="dv">14</span>:<span class="dv">52</span>&lt;<span class="ot">/span&gt; </span>
-<span class="ot">            </span><span class="fl">(</span><span class="ot">&lt;a href=&quot;#event-map&quot; onclick=&quot;recenter</span><span class="fl">(</span><span class="ot">map, eventPlaces</span><span class="bn">[1]</span><span class="ot">.point, 10</span><span class="fl">)</span><span class="ot">&quot;&gt;map&lt;/a</span>&gt;)
-        &lt;<span class="ot">/h2&gt;</span>
-<span class="ot">        &lt;p class=&quot;eventDescription&quot;&gt;blah, blah, blah ...&lt;/p</span>&gt;
-
-    &lt;<span class="ot">/body&gt;</span>
-
-<span class="ot">&lt;/html</span>&gt;</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/tnt/index.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/tnt/index.html</a></p>
+<span class="kw">&lt;/html&gt;</span></code></pre></td></tr></table>
 </section>
 <section id="openlayers-javascript-framework" class="titleslide slide level1"><h1>OpenLayers Javascript Framework</h1></section><section id="outline-1" class="slide level3">
 <h1>Outline</h1>
@@ -1834,6 +1589,7 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <p><a href="http://openlayers.org/dev/examples/">Examples</a></p>
 </section><section id="demonstrations-and-examples" class="slide level3">
 <h1>Demonstrations and Examples</h1>
+<p><img src="images/OpenLayers_01.jpg" alt="Basic OpenLayers map using OpenStreetMap basemap" /> </p>
 <ul>
 <li><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers01_osm.html">Basic Mapper</a> (with OpenStreetMaps [OSM] base map)</li>
 </ul>
@@ -1877,6 +1633,7 @@ code > span.er { color: #ff0000; font-weight: bold; }
 38
 39
 40
+41
 </pre></td><td class="sourceCode"><pre><code class="sourceCode html"><span class="kw">&lt;html</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.w3.org/1999/xhtml&quot;</span><span class="kw">&gt;</span>
   <span class="kw">&lt;head&gt;</span>
     <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;text/javascript&quot;</span><span class="ot"> src=</span><span class="st">&quot;http://openlayers.org/api/OpenLayers.js&quot;</span><span class="kw">&gt;&lt;/script&gt;</span>
@@ -1912,7 +1669,8 @@ code > span.er { color: #ff0000; font-weight: bold; }
   <span class="kw">&lt;/head&gt;</span>
   <span class="kw">&lt;body</span><span class="ot"> onload=</span><span class="st">&quot;init()&quot;</span><span class="kw">&gt;</span>
     <span class="kw">&lt;h1&gt;</span>Basic OpenLayers Map<span class="kw">&lt;/h1&gt;</span>
-    <span class="kw">&lt;p&gt;</span>Shows the basic use of OpenLayers with the <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://www.openstreetmap.org/&quot;</span><span class="kw">&gt;</span>OpenStreetmap<span class="kw">&lt;/a&gt;</span> basemap<span class="kw">&lt;/p&gt;</span> 
+    <span class="kw">&lt;p&gt;</span>Shows the basic use of OpenLayers with the 
+    <span class="kw">&lt;a</span><span class="ot"> href=</span><span class="st">&quot;http://www.openstreetmap.org/&quot;</span><span class="kw">&gt;</span>OpenStreetmap<span class="kw">&lt;/a&gt;</span> basemap<span class="kw">&lt;/p&gt;</span>   
     <span class="co">&lt;!-- Map DIV --&gt;</span>
     <span class="kw">&lt;div</span><span class="ot"> id=</span><span class="st">&quot;map&quot;</span><span class="kw">&gt;&lt;/div&gt;</span>    
   <span class="kw">&lt;/body&gt;</span>
@@ -2114,6 +1872,8 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <li>Other WMS parameters may be provided as well to &quot;adjust&quot; the request automatically generated by OpenLayers</li>
 </ul>
 <p>Sample WMS Layer Object Creation</p>
+<p><img src="images/OpenLayers_02.jpg" alt="OpenLayers map with multiple OGC WMS layers" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html</a></p>
 <table class="sourceCode html numberLines" id="OpenLayers_02_WmsLayer_options"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
 3
@@ -2128,7 +1888,6 @@ code > span.er { color: #ff0000; font-weight: bold; }
         {isBaseLayer: false, visibility: false, opacity: .8}
     );
     map.addLayer(countiesLayer);</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html">Example</a></p>
 </section><section id="vector-layer-configuration" class="slide level3">
 <h1>Vector Layer Configuration</h1>
 <p>Vector layers support</p>
@@ -2150,6 +1909,8 @@ code > span.er { color: #ff0000; font-weight: bold; }
 <dd><p>A specification of how OpenLayers should request the data from the server, and also handle the data within the client (browser).</p>
 </dd>
 </dl>
+<p><img src="images/OpenLayers_03.jpg" alt="OpenLayers map with multiple OGC WMS layers, vector overlays and KML layers" /> </p>
+<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html">http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html</a></p>
 <p>Sample Point Feature Object creation</p>
 <table class="sourceCode html numberLines" id="OpenLayers_02_VectorLayer_options01"><tr class="sourceCode"><td class="lineNumbers"><pre>1
 2
@@ -2180,8 +1941,8 @@ code > span.er { color: #ff0000; font-weight: bold; }
         })
     });
     map.addLayer(Layers.counties)</code></pre></td></tr></table>
-<p><a href="http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html">Example</a></p>
 </section>
+<section id="questions" class="titleslide slide level1"><h1>Questions?</h1></section>
 <!-- {{{{ dzslides core
 #
 #

@@ -1,4 +1,14 @@
+% The Google Maps API and OpenLayers Javascript Framework: a NMGIC Workshop
+% **Karl Benedict**
+  Director, Earth Data Analysis Center
+  Associate Professor, College of University Libraries & Learning Sciences
+  *University of New Mexico*
+  kbene@unm.edu
+% May 1, 2014
+
 # Google Maps API #
+
+## Introduction ##
 
 ### Outline ###
 
@@ -49,7 +59,7 @@ Javascript API v3 Tutorial Page
 
 ### Key Components ###
 
-* Map [object options](http://tinyurl.com/mlsj3ar) 
+Map [object options](http://tinyurl.com/mlsj3ar) 
 
 Types (required)
 :	ROADMAP
@@ -82,7 +92,7 @@ Zoom Level (required)
 
 
 
-### Overlays ###
+### Overlays ### 
 
 Overlay Types [documentation](http://code.google.com/apis/maps/documentation/javascript/overlays.html)
 
@@ -133,7 +143,7 @@ Custom Overlays
 	* Changing items in the interface as the user zooms in on a map
 	* Displaying additional information outside the map when the user clicks a location in the map
 	* Synchronizing the behavior of multiple maps as the user interacts with one map
-* Requires higher-level Javascript that we will cover in this course
+* Requires higher-level Javascript that we will cover here
 
 
 
@@ -141,7 +151,9 @@ Custom Overlays
 ## Examples ##
 
 
-### Simple - Roadmap (Code) ###
+### Simple - Roadmap ###
+
+![Simple Google `ROADMAP` Map](images/google_01.jpg)\ 
 
 [http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps01.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps01.html)
 
@@ -190,6 +202,8 @@ Custom Overlays
 
 
 ### Simple - Satellite ###
+
+![Simple Google `SATELLITE` Map](images/google_02.jpg)\ 
 
 [http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps02.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps02.html)
 
@@ -242,6 +256,9 @@ Custom Overlays
 
 ### Simple - Hybrid ###
 
+![Simple Google `HYBRID` Map](images/google_03.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html)
 
 ~~~~~~~~~~ {#hybrid .html .numberLines}
 <!DOCTYPE html>
@@ -287,11 +304,14 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps03.html)
 
 
 
 ### Simple - Terrain ###
+
+![Simple Google `TERRAIN` Map](images/google_04.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html)
 
 ~~~~~~~~~~ {#terrain .html .numberLines}
 <!DOCTYPE html>
@@ -337,10 +357,12 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps04.html)
-
 
 ### Simple - Hybrid - Zoomed ###
+
+![Simple Google `HTBRID` zoomed Map](images/google_05.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html)
 
 
 ~~~~~~~~~~ {#hybridZoomed .html .numberLines}
@@ -387,11 +409,13 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps05.html)
-
 
 
 ### Simple - Zoomed - Modified Controls ###
+
+![Simple Google `HYBRID` zoomed Map with modified controls](images/google_06.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html)
 
 
 ~~~~~~~~~~ {#hybridZoomedControls .html .numberLines}
@@ -444,10 +468,12 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps06.html)
-
 
 ### Markers ###
+
+![Simple Google `HYBRID` zoomed Map with markers](images/google_07.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html)
 
 
 ~~~~~~~~~~ {#markers .html .numberLines}
@@ -507,12 +533,14 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps07.html)
-
 
 
 
 ### Polyline ###
+
+![Simple Google `HYBRID` zoomed Map with markers and a polyline](images/google_08.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html)
 
 
 ~~~~~~~~~~ {#polyline .html .numberLines}
@@ -587,12 +615,14 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps08.html)
-
 
 
 
 ### Polygon ###
+
+![Simple Google `HYBRID` zoomed Map with markers and a polygon](images/google_09.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html)
 
 
 ~~~~~~~~~~ {#polygon .html .numberLines}
@@ -672,12 +702,14 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps09.html)
-
 
 
 
 ### Adding an Info Window ###
+
+![Simple Google `HYBRID` zoomed Map with markers, a polygon and an Info Window](images/google_10.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html)
 
 
 ~~~~~~~~~~ {#infoWindow .html .numberLines}
@@ -767,18 +799,19 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps10.html)
-
 
 ### *Getting Started with Styled Maps* - Video ###
 
-[Styled Maps Documentation](https://developers.google.com/maps/documentation/javascript/styling) | [Styled Maps Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
+[Styled Maps Documentation](https://developers.google.com/maps/documentation/javascript/styling) | [Styled Maps Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html) | [YouTube Introductory Video](http://youtu.be/0hhiEjf7_NA)
 
-![Google Maps Styled Maps Wizard [link](http://youtu.be/0hhiEjf7_NA)](./images/styledMapsWizard.png) 
+![Google Maps Styled Maps Wizard](./images/styledMapsWizard.png)\  
 
 
 ### Map Example: Simple - Styled ###
 
+![Styled Google `ROADMAP` with POIs emphasized](images/google_11.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html)
 
 ~~~~~~~~~~ {#styledMap .html .numberLines}
 <!DOCTYPE html>
@@ -865,207 +898,77 @@ Custom Overlays
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/gmaps_styled.html)
 
 
 
 ### *Google I/O 2011: Managing and visualizing your geospatial data with Fusion Tables* - Video ###
 
-Some particularly relevant sections: [Introduction (0:00 - 10:30)](http://youtu.be/Z2o0mtnF1Bg) | [Google Maps API Integration (21:40 - 34:42)](http://youtu.be/Z2o0mtnF1Bg?t=21m40s) | [Summary and Links (52:00 52:40)](http://youtu.be/Z2o0mtnF1Bg?t=52m)
+[Fusion Tables Introduction Video](http://youtu.be/Z2o0mtnF1Bg) - Some particularly relevant sections: [Introduction (0:00 - 10:30)](http://youtu.be/Z2o0mtnF1Bg) | [Google Maps API Integration (21:40 - 34:42)](http://youtu.be/Z2o0mtnF1Bg?t=21m40s) | [Summary and Links (52:00 - 52:40)](http://youtu.be/Z2o0mtnF1Bg?t=52m)
 
 [Fusion Tables Documentation/Help](http://tinyurl.com/nxlgcwq)
 
-![Google Fusion Tables Introduction Video [link](http://youtu.be/Z2o0mtnF1Bg)](./images/fusionTablesVideo.png)
+![Google Fusion Tables Introduction Video](./images/fusionTablesVideo.png)\ 
 
 ### Bringing It All Together ###
 
+![NAWRS Mapper](images/nawrs.jpg)\ 
+
+[http://karlbenedict.com/nawrs/](http://karlbenedict.com/nawrs/)
+
+Fusion Tables: [Merged document info](http://tinyurl.com/npx2q6g), [State bounding boxes](http://tinyurl.com/qyy4kew), [HUC bounding boxes](http://tinyurl.com/or5xuxc)
 
 ~~~~~~~~~~ {#complexMap .html .numberLines}
 <!DOCTYPE html>
-
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Karl's Event Diary</title>
-		<link rel="stylesheet" href="./styles/base.css" media="screen">
-		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-		<script type="text/javascript" src="./js/base.js"></script>
-		<script type="text/javascript">
-			// Define a set of global coordinates for use throughout the web site
-			// Place coordinates derived from GNIS database: http://geonames.usgs.gov/pls/gnispublic
-			var eventPlaces = [
-				{
-					name: "Albuquerque", 
-					point: new google.maps.LatLng(35.0889356,-106.5747462),
-					label: "Albuquerque: Duke City Half Marathon"
-				}, 
-				{
-					name: "Durango", 
-					point: new google.maps.LatLng(37.2752800,-107.8800667),
-					label: "Durango: Animas Valley/Steamworks Half Marathon"
-				},
-				{
-					name: "San Diego", 
-					point: new google.maps.LatLng(32.7153292,-117.1572551),
-					label: "San Diego: San Diego Rock 'n' Roll Marathon"
-				},
-				{
-					name: "San Francisco", 
-					point: new google.maps.LatLng(37.7749295,-122.4194155),
-					label: "San Francisco: Nike Women's Marathon"
-				},
-				{
-					name: "Orlando", 
-					point: new google.maps.LatLng(28.5383355,-81.3792365),
-					label: "Orlando: Walt Disney World half- and full-marathon"
-				},
-				{
-					name: "Anaheim", 
-					point: new google.maps.LatLng(33.8352932,-117.9145036),
-					label: "Anaheim: Disneyland Half Marathon"
-				}
-			]
-		</script>
-	</head>
-	
-	<body onload="initialize()">
-		<h1>
-			My diary of endurance events that I've participated in since joining Team in Training
-		</h1>
-		
-		<p>In 2008 Cynthia and I joined the Leukemia and Lymphoma Society's (<a href="http://www.lls.org/">LLS</a>) Team in Training (<a href="http://www.teamintraining.org/">TNT</a>, <a href="http://youtu.be/GMSKG8L6K78">info video</a>) program as 
-		participants to train for the Animas Valley/Steamworks Half Marathon and raise money for blood cancer
-		research and patient services. In spite of our not having any direct connection to blood cancer (at that time), 
-		we found the goals of LLS admirable,  the combined training and fund-raising program of TNT a great idea, and have made many
-		new friends over the many seasons that we've been involved with TNT.</p>
-		
-		<p>Since 2008 we have continued to volunteer with TNT, as participants, mentors, and since 2010 I have been a coach 
-		(check out my <a href="http://youtu.be/GMSKG8L6K78#t=2m13s">half-second</a> of fame in the info video)
-		for TNT with an emphasis on training walkers for full- or half-marathons. This page provides a summary of the 
-		events that I've participated in in some capacity since we became involved with TNT. </p>
-		
-		<div id="event-map" name="event-map"></div>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
 
+<script type="text/javascript" 
+	src="http://maps.google.com/maps/api/js?v=3.2&sensor=false"></script>
+<script type="text/javascript" 
+	src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" charset="utf-8" src="./core.js"></script>
 
-		<h2>
-			<span class="date">9/1/2013</span> 
-			Disneyland Half Marathon 
-			<span class="time">2:56:57</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[5].point, 12)">approx. map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
+<!-- DataTables and DataTables CSS -->
+<link rel="stylesheet" type="text/css" 
+  href="http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/
+  media/css/jquery.dataTables.css">
+<link rel="stylesheet" type="text/css" 
+  href="http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/extras/TableTools/
+  media/css/TableTools.css">
+<script type="text/javascript" charset="utf8" 
+  src="http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/media/js/
+  jquery.dataTables.min.js"></script>
+<script type="text/javascript" charset="utf8" 
+  src="http://kkb-projects.s3.amazonaws.com/nawrs/js/DataTables-1.9.4/extras/TableTools/media/js/
+  TableTools.min.js"></script>
 
-		<h2>
-			<span class="date">1/13/2013</span> 
-			Disney World  Marathon (Goofy - Day 2)
-			<span class="time">6:46:57</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[4].point, 10)">approx. map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
+</head>
 
-		<h2>
-			<span class="date">1/12/2013</span> 
-			Disney World Half Marathon (Goofy - Day 1)
-			<span class="time">3:22:48</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[4].point, 10)">approx. map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-	
-		<h2>
-			<span class="date">9/29/2012</span> 
-			Hot Chocolate 15k 
-			<span class="time">1:56:46</span> 
-			(no map available)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">6/9/2012</span> 
-			Animas Valley/Steamworks Half Marathon 
-			<span class="time">no time: coached</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[1].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">1/9/2012</span> 
-			Disney World  Marathon (Goofy - Day 2)
-			<span class="time">6:56:28</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[4].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">1/8/2011</span> 
-			Disney World Half Marathon (Goofy - Day 1)
-			<span class="time">3:29:00</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[4].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">6/19/2010</span> 
-			Animas Valley/Steamworks Half Marathon 
-			<span class="time">no time: coached</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[1].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">6/6/2010</span> 
-			San Diego Rock 'n' Roll Marathon 
-			<span class="time">no time: coached</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[2].point, 11)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">10/18/09</span> 
-			Nike Women's Marathon 
-			<span class="time">7:13:05</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[3].point, 12)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">9/6/2009</span> 
-			Disneyland Half Marathon 
-			<span class="time">3:43:05</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[5].point, 12)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">1/11/2009</span> 
-			Disney World Marathon 
-			<span class="time">6:57:42</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[4].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">10/19/2008</span> 
-			Duke City Half Marathon 
-			<span class="time">3:09:42</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[0].point, 11)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-		<h2>
-			<span class="date">6/21/2008</span> 
-			Animas Valley/Steamworks Half Marathon 
-			<span class="time">3:14:52</span> 
-			(<a href="#event-map" onclick="recenter(map, eventPlaces[1].point, 10)">map</a>)
-		</h2>
-		<p class="eventDescription">blah, blah, blah ...</p>
-
-	</body>
+<body onload="initialize()">
+  <h1>NAWRS Mapper</h1>
+  <div id="docsReservations">Reservations with Documents</div>
+  <div id="docsReservationsPopUp"><ul id="docsReservationsList"></ul></div>
+  <div id="docsStates">States with Documents</div>
+  <div id="docsStatesPopUp"><ul id="docsStatesList"></ul></div>
+  <div id="docsHucs">Hydrologic Regions with Documents</div>
+  <div id="docsHucsPopUp"><ul id="docsHucsList"></ul></div>
+  <div id="docsType">Documents by Type</div>
+  <div id="docsTypePopUp"><ul id="docsTypeList"></ul></div>
+  <div id="map_canvas"></div>
+  <div id="docListHandle">Document List</div>
+  <div id="docList">
+  	<table id="docListTable">
+  </table>
+  </div>
+  
+</body>
 
 </html>
 ~~~~~~~~~~
 
 
-[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/tnt/index.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/tnt/index.html)
 
 # OpenLayers Javascript Framework#
 
@@ -1106,6 +1009,9 @@ Some particularly relevant sections: [Introduction (0:00 - 10:30)](http://youtu.
 
 ### Demonstrations and Examples ###
 
+![Basic OpenLayers map using OpenStreetMap basemap](images/OpenLayers_01.jpg)\ 
+
+
 * [Basic Mapper](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers01_osm.html) (with OpenStreetMaps [OSM] base map)
 
 ~~~~~~~~~~ {#OpenLayers_01_demo .html .numberLines}
@@ -1144,7 +1050,8 @@ Some particularly relevant sections: [Introduction (0:00 - 10:30)](http://youtu.
   </head>
   <body onload="init()">
     <h1>Basic OpenLayers Map</h1>
-    <p>Shows the basic use of OpenLayers with the <a href="http://www.openstreetmap.org/">OpenStreetmap</a> basemap</p>	
+    <p>Shows the basic use of OpenLayers with the 
+    <a href="http://www.openstreetmap.org/">OpenStreetmap</a> basemap</p>	
 	<!-- Map DIV -->
 	<div id="map"></div>	
   </body>
@@ -1337,6 +1244,11 @@ Some key issues to be aware of when using the [WMS Layer Class](http://dev.openl
 
 Sample WMS Layer Object Creation
 
+![OpenLayers map with multiple OGC WMS layers](images/OpenLayers_02.jpg)\ 
+
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html)
+
 ~~~~~~~~~~  {#OpenLayers_02_WmsLayer_options .html .numberLines}
     countiesLayer = new OpenLayers.Layer.WMS( 
         "US Counties", 
@@ -1347,7 +1259,6 @@ Sample WMS Layer Object Creation
     map.addLayer(countiesLayer);
 ~~~~~~~~~~
 
-[Example](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers10_wms01.html)
 
 
 ### Vector Layer Configuration ###
@@ -1372,7 +1283,12 @@ Vector Layer Objects are Typically Defined using three OpenLayers classes
 :	A specification of how OpenLayers should request the data from the server, and also handle the data within the client (browser). 
 
 
+![OpenLayers map with multiple OGC WMS layers, vector overlays and KML layers](images/OpenLayers_03.jpg)\ 
+
+[http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html)
+
 Sample Point Feature Object creation
+
 
 ~~~~~~~~~~  {#OpenLayers_02_VectorLayer_options01 .html .numberLines}
 	var Coord_classroom = new OpenLayers.Geometry.Point(-106.624073,35.084280);
@@ -1396,4 +1312,4 @@ Sample KML Layer Object creation
 	map.addLayer(Layers.counties)
 ~~~~~~~~~~
 		
-[Example](http://karlbenedict.com/presentations/2014-04-NMGIC/examples/openLayers11_vectorData_KML.html)
+# Questions? #
