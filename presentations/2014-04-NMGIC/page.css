@@ -19,17 +19,9 @@ div#TOC {
 	margin-top: 20px;
 }
 
-div#TOC > ul:first-child > li:first-child   {
-	list-style-image: none;
-	list-style-type: none;
-	list-style-position: outside;
-	text-shadow: #000000 0 0 0;
-}
 
-div#TOC > ul:first-child > li:first-child > a:first-child  {
-	font-size: xx-large;
-	color: #ebebeb;
-}
+
+
 
 div.license {
 	margin-top: 30px;
