@@ -1,0 +1,33 @@
+/* @override data:text/css,%0A */
+
+body {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h1 {
+	font-size: 18px;
+	margin-bottom:  4px;
+}
+
+h2 {
+	font-size: 14px;
+	margin-bottom: 4px;
+}
+
+h3 {
+	font-size: 12px;
+	font-style: italic;
+	margin-bottom: 4px;
+}
+
+p {
+	font-size: 12px;
+}
+
+ul {
+	margin-top: 4px;
+}
+
+li {
+	font-size: 12px;
+}
