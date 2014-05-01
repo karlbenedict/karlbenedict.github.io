@@ -10,9 +10,9 @@
 
 ### Presentation Copy Links ###
   
-* HTML Version: [http://karlbenedict.com/presentations/2014-04-NMGIC](http://karlbenedict.com/presentations/2014-04-NMGIC)
-* PDF Version: [http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf](http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf)
-* Example files (GitHub): [http://tinyurl.com/lm3almv](http://tinyurl.com/lm3almv)
+* HTML Version: [http://karlbenedict.com/presentations/2014-04-NMGIC](http://karlbenedict.com/presentations/2014-04-NMGIC) ([http://tinyurl.com/nmgic2014-html](http://tinyurl.com/nmgic2014-html))
+* PDF Version: [http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf](http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf) ([http://tinyurl.com/nmgic2014-pdf](http://tinyurl.com/nmgic2014-pdf))
+* Example files (GitHub): [https://github.com/karlbenedict/karlbenedict.github.io/tree/master/presentations/2014-04-NMGIC/examples](https://github.com/karlbenedict/karlbenedict.github.io/tree/master/presentations/2014-04-NMGIC/examples) ([http://tinyurl.com/nmgic2014-examples](http://tinyurl.com/nmgic2014-examples))
 
 # Google Maps API #
 
