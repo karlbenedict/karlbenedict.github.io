@@ -15,3 +15,7 @@ echo "Lecture LATeX";find . -iname "*.md" | sort -r | xargs -I \{\} /usr/local/b
 
 date
 echo
+
+git add .
+git commit -a --allow-empty-message -m $1
+git push origin
