@@ -1325,3 +1325,14 @@ Sample KML Layer Object creation
 ### License Information ###
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="height:30px; border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NMGIC Spring 2014 - Google Maps & OpenLayers Workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://karlbenedict.com/presentations/2014-04-NMGIC/index.html" property="cc:attributionName" rel="cc:attributionURL">Karl Benedict</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50555934-1', 'karlbenedict.com');
+  ga('send', 'pageview');
+
+</script>
