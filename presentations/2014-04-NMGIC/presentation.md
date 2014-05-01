@@ -12,7 +12,7 @@
   
 * HTML Version: [http://karlbenedict.com/presentations/2014-04-NMGIC](http://karlbenedict.com/presentations/2014-04-NMGIC)
 * PDF Version: [http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf](http://karlbenedict.com/presentations/2014-04-NMGIC/presentation.md.pdf)
-
+* Example files (GitHub): [http://tinyurl.com/lm3almv](http://tinyurl.com/lm3almv)
 
 # Google Maps API #
 
