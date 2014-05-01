@@ -17,5 +17,11 @@ date
 echo
 
 git add .
-git commit -a --allow-empty-message -m $1
+
+if [ -z "$1" ]; then
+    git commit -a -m "no message"
+else
+    git commit -a -m "$1"
+fi
+
 git push origin
