@@ -2,24 +2,12 @@
 
 ## Contact Information
 
-Earth Data Analysis Center / Department of Geography    
-MSC01 1110    
-1 University of New Mexico    
-Albuquerque, NM 87131-0001    
-(o) (505) 277-3622 x234     
-(f) (505) 277-3614    
-(m) (505) 239-4115    
-kbene@edac.unm.edu
-
-
-
 Centennial Science and Engineering Library    
 MSC05 3020    
 1 University of New Mexico    
 Albuquerque, NM 87131-0001    
 (o) (505) 277-5256    
 kbene@unm.edu
-
 
 
 (Google Voice) (505) 926-1324    
@@ -38,9 +26,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## Employment/Professional Experience
 
-3/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Geospatial and Environmental Data Scientist*
+7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Director of Research Data Services* 
 
-7/08-Present, University of New Mexico, Earth Data Analysis Center: *Director*
+3/14-6/14, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Geospatial and Environmental Data Scientist*
+
+7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director*
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
@@ -314,6 +304,10 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+#. Benedict, Karl Kent. 2014. 'Data Management Primer'. A workshop presented in conjunction with a 'Responsible Conduct of Research' training session held at New Mexico Tech. Socorro, NM. April 4, 2014. 
+
+#. Benedict, Karl Kent. 2014. 'The Google Maps API and OpenLayers Javascript Framework: a NMGIC Workshop'. Invited workshop for the New Mexico Geographic Information Council Spring Meeting. Albuquerque, NM. May 1, 2014.
 
 #. Benedict, Karl Kent. 2014. 'Network Enabled Data Access and Analysis '. Invited paper for New Mexico Cyberinfrastructure Day. Albuquerque, NM. April 25, 2014. 
 
@@ -632,6 +626,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
+Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In Process. 
+
 Lijuan Jia, Ph.D, Civil Engineering, University of New Mexico. Committee Member. In process. 
 
 Jigar Patel, PhD., Computer Science, University of Nevada, Reno. In process. 
@@ -645,7 +641,7 @@ Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member
 Lisa Arnold, MA, Geography. University of New Mexico. Committee Member. Completed 5/2009. Thesis Title: “Positional Accuracy of the Wide Area Augmentation System”
 
 
-* revised: 2014-04-02
+* revised: 2014-06-23
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
