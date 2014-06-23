@@ -527,11 +527,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014 (scheduled)
+#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014
 
-#. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013
+#. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-#. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (scheduled, hybrid)
+#. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid)
 
 #. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
