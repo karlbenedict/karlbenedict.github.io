@@ -36,7 +36,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
 
-4/08-3/14, University of New Mexico, Geography Department: *Research Assistant Professor*
+4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
 
 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
@@ -110,6 +110,8 @@ American Association of Geographers
 
 ## University Service
 
+2013 - Present, *Planning Committee*, CI-Day/D2K Planning Committee
+
 2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
@@ -145,11 +147,15 @@ American Association of Geographers
 
 ### Elected/Appointed Positions
 
-2011 - present, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
+2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
+
+2014 - Present, *President* of the Foundation for Earth Science Board of Directors
 
 2010 - Present, *Board Member*, Foundation for Earth Science Board of Directors
 
 2008 - Present, *Working Group Chair*, Tri-State NSF EPSCoR Cyberinfrastructure Working Group
+
+2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
 
 2012 - 2014, *President*, Federation of Earth Science Information Partners (ESIP Federation). 
 
@@ -169,8 +175,30 @@ American Association of Geographers
 
 2000, *Western Regional Coordinator*, National Association of Graduate and Professional Students
 
+### Proposal Review Panels
+
+2014, NASA Earth Science Applications: Health and Air Quality Review Panel
+
+2014, NM EPSCoR Diversity Innovation Working Group Review Panel
+
+2013, NSF EPSCoR Reverse Site Visit Panel
+
+2012, NSF Big Data Review Panel
+
+2012, NASA SERVIR Applied Sciences
+
+### Journal Peer Review
+
+2013, Computers, Environment and Urban Systems
+
+2008, 2011, International Journal of Geographical Information Science
+
 
 ### Symposia Organized
+
+#. 'Summer ESIP Federation Meeting, 2014'. Copper Mountain, CO. July 8-10, 2014. Session Organizer - *Data Lifecycle Interoperability - Broadening our Perspective on What it Means to be Interoperable*. http://commons.esipfed.org/node/2408
+
+#. 'Summer ESIP Federation Meeting, 2014'. Copper Mountain, CO. July 8-10, 2014. Session Co-Organizer - *Linked Open Data, Provenance, Metadata and Standards-based Services - Strategies for Discovery, Fusion and Use*. http://commons.esipfed.org/node/2407
 
 #. ‘American Geophysical Union Fall Meeting, 2013’ held in San Francisco, CA, December 9-13, 2013. Co-convener of session (oral and poster) *IN014. Emerging Technologies in Earth and Space Science Informatics (ESSI)*
 
@@ -224,12 +252,13 @@ American Association of Geographers
 #. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 #. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
-
-#. *Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing environments on health and disease*. Funding Agency: NASA. Performance Period: 1/12-12/13 (Award extended to 9/14). Award Amount: $204,215 (EDAC’s portion of the total project budget of $668,233). Institutional PI, Deanna Pennington (UTEP) PI. 
-
-#. *Collaborative Research: CI-Team Diff: The Virtual Learning Commons: STEM Research Communities Learning about Data Management, Geospatial Informatics, and Scientific Visualization*. Funding Agency: National Science foundation. Performance Period 9/15/11-9/30/14. Award Amount: $133,923 (EDAC’s portion: $20,000/year). Co-I, Marjorie McConnell (UNM) PI. 
+ 
 
 ### Completed
+
+#. *Collaborative Research: CI-Team Diff: The Virtual Learning Commons: STEM Research Communities Learning about Data Management, Geospatial Informatics, and Scientific Visualization*. Funding Agency: National Science foundation. Performance Period 9/15/11-9/30/14. Award Amount: $133,923 (EDAC’s portion: $20,000/year). Co-I, Marjorie McConnell (UNM) PI. Co-I Role transferred to EDAC with Dr. Benedict's transfer into the College of University Libraries and Learning Sciences on 7/1/14. 
+
+#. *Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing environments on health and disease*. Funding Agency: NASA. Performance Period: 1/12-12/13 (Award extended to 9/14). Award Amount: $204,215 (EDAC’s portion of the total project budget of $668,233). Institutional PI, Deanna Pennington (UTEP) PI. 
 
 #. *Collaborative Research: Cyberinfrastructure Development for the Western Consortium of Idaho, Nevada, and New Mexico*. Funding Agency: National Science Foundation. Performance Period 9/18/09-8/31/12. Award Amount: $316,161 (EDAC’s portion of the total project budget of $2,000,000).  Co-I, Gayle Dana (Desert Research Institute) PI. 
 
@@ -304,6 +333,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+#. Young, Joshua, W. Christopher Lenhardt, Mark Parsons, Karl Benedict. 2014. 'Taking Another Look at the Data Management Life Cycle: Deconstruction, Agile, and Community'. Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 19, 2014.
 
 #. Benedict, Karl Kent. 2014. 'Data Management Primer'. A workshop presented in conjunction with a 'Responsible Conduct of Research' training session held at New Mexico Tech. Socorro, NM. April 4, 2014. 
 
@@ -493,6 +524,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Technical Reports/Manuscripts/White Papers
 
+#. Benedict, Karl Kent, Deana D. Pennington. 2014. 'Final Report: Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing climate on ecosystems and human/environmental health systems'. Manuscript submitted to NASA under Grant/Cooperative Agreement ACCESS-110018 NNX12AF52A. 
+
 #. Del Rio, Nicholas, Natalia Villanueva-Rosales, Deana Pennington, Karl Benedict, Aimee Stewart, C. J. Grady. 2013. 'ELSEWeb Meets SADI: Supporting Data-to-Model Integration for Biodiversity Forecasting'. Paper presented at the Association for the Advancement of Artificial Intelligence Fall Symposium. Arlington, VA. November 15-17, 2013. [http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488](http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488)
 
 #. Benedict, Karl Kent, Yang, P., Huang, Q. 2010. ‘Project Final Report & Feasibility Report’.  Manuscript submitted to NASA under Grant/Cooperative Agreement Number: NNX09AN53G on 11/30/2010. Project title: Feasibility of Development and Deployment into Public Health Decision Support systems of a Multi-resolution Nested Dust Forecast System Enabled by Open Standards Based Model and Data Interoperability.
@@ -527,7 +560,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014
+#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (scheduled)
 
 #. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
