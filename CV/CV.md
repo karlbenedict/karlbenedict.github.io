@@ -196,6 +196,8 @@ American Association of Geographers
 
 ### Symposia Organized
 
+#.  'Research Data Alliance, Fifth Plenary Meeting'. San Diego, CA. March 10, 2015. Session Co-Organizer - *Deconstructing the Data Life Cycle - P5 BOF session*.
+
 #. 'Summer ESIP Federation Meeting, 2014'. Copper Mountain, CO. July 8-10, 2014. Session Organizer - *Data Lifecycle Interoperability - Broadening our Perspective on What it Means to be Interoperable*. http://commons.esipfed.org/node/2408
 
 #. 'Summer ESIP Federation Meeting, 2014'. Copper Mountain, CO. July 8-10, 2014. Session Co-Organizer - *Linked Open Data, Provenance, Metadata and Standards-based Services - Strategies for Discovery, Fusion and Use*. http://commons.esipfed.org/node/2407
@@ -295,6 +297,8 @@ American Association of Geographers
 
 ### Journal Articles
 
+#. Wheeler, Jonathan, Karl Benedict. in press. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. Paper accepted for publication in the *Journal of Map and Geography Libraries*
+
 #. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: http://dx.doi.org/10.1894/0038-4909-58.2.150. URL: [http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150][1]
 
 #. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2013. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
@@ -334,7 +338,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
+#. Benedict, Karl, Joshua Young, W. Christopher Lenhardt, Mark Parsons. 2015. 'Deconstructing the Data Lifecycle BoF' Paper presented at the Research Data Alliance, Fifth Plenary Meeting. San Diego, CA. March 10, 2015.
+
 #. Young, Joshua, W. Christopher Lenhardt, Mark Parsons, Karl Benedict. 2014. 'Taking Another Look at the Data Management Life Cycle: Deconstruction, Agile, and Community'. Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 19, 2014.
+
+#. Benedict, Karl Kent. 2015. 'Data@UNM'. Invited panelist as part of the 'Data@UNM' session for the 2015 *Data to Knowledge* Conference. Albuquerque, NM. February 20, 2014. 
 
 #. Benedict, Karl Kent. 2014. 'Data Management Primer'. A workshop presented in conjunction with a 'Responsible Conduct of Research' training session held at New Mexico Tech. Socorro, NM. April 4, 2014. 
 
@@ -674,7 +682,7 @@ Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member
 Lisa Arnold, MA, Geography. University of New Mexico. Committee Member. Completed 5/2009. Thesis Title: “Positional Accuracy of the Wide Area Augmentation System”
 
 
-* revised: 2014-06-23
+* revised: 2015-04-01
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
