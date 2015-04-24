@@ -1,5 +1,5 @@
 #!/bin/bash
-pandoc -s --template endFloat.latex -o cv.pdf CV.md
+pandoc -s --template=endFloat.latex -o cv.pdf CV.md
 pandoc -s  -o cv.pdf CV.md
 pandoc -s --self-contained --css=cv.css -o cv.html CV.md
 pandoc -s --reference-docx=template.docx -o cv.docx CV.md
