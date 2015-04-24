@@ -314,7 +314,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
-#. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. in press. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 266-275. [http://karlbenedict.com/pubs/2015_Watson_et_al.pdf][20] 
+#. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. in press. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 266-275. [http://karlbenedict.com/pubs/2015_Watson_et_al.pdf] 
 
 #. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
