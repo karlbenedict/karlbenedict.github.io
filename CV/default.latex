@@ -1,13 +1,13 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\documentclass[letterpaper,11pt]{amsart}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\usepackage{endfloat}
-\usepackage{authoraftertitle}
-\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\setdescription{leftmargin=\parindent,labelindent=\parindent}
 
+\usepackage{fixltx2e} % provides \textsubscript
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -119,7 +119,8 @@ $endif$
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 
 \oddsidemargin = 0pt
-\topmargin = -36pt
+\evensidemargin = 0pt
+\topmargin = -36pt 
 \textwidth = 468pt
 \textheight = 648pt
 
@@ -149,14 +150,13 @@ $endif$
 $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
-\author{$for(author)$$author.name$$sep$ \and $endfor$}
+\author{$for(author)$$author$$sep$ \and $endfor$}
 \date{$date$}
 
 \begin{document}
 $if(title)$
 \maketitle
 $endif$
-
 
 $for(include-before)$
 $include-before$
