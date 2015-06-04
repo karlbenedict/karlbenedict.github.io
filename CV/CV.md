@@ -28,15 +28,15 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Director of Research Data Services* 
 
+7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
+
+4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
+
 3/14-6/14, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Geospatial and Environmental Data Scientist*
 
 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director*
 
-7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
-
 9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
-
-4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
 
 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
@@ -196,7 +196,7 @@ American Association of Geographers
 
 ### Symposia Organized
 
-#.  'Research Data Alliance, Fifth Plenary Meeting'. San Diego, CA. March 10, 2015. Session Co-Organizer - *Deconstructing the Data Life Cycle - P5 BOF session*.
+#. 'Research Data Alliance, Fifth Plenary Meeting'. San Diego, CA. March 10, 2015. Session Co-Organizer - *Deconstructing the Data Life Cycle - P5 BOF session*.
 
 #. 'Summer ESIP Federation Meeting, 2014'. Copper Mountain, CO. July 8-10, 2014. Session Organizer - *Data Lifecycle Interoperability - Broadening our Perspective on What it Means to be Interoperable*. http://commons.esipfed.org/node/2408
 
@@ -254,7 +254,8 @@ American Association of Geographers
 #. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 #. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
- 
+
+#. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 ### Completed
 
@@ -313,6 +314,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
+#. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. in press. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 266-275. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
+
 #. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
 #. Watson, Richard, Manfred Ehlers, Thomas K. Budge, and Karl Kent Benedict. 2006. 'New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements'. Chapter 12 in *Remote Sensing of Human Settlements*. Manual of Remote Sensing, 3rd ed., Volume 5. Merrill Ridd and James D. Hipple eds. American Society for Photogrammetry and Remote Sensing, Bethesda, Maryland. pp. 713-738. [http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf][7]
@@ -337,6 +340,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+#. Benedict, Karl. 2015. 'The Promise and Perils of Big Data in Research'. Invited Paper presented at the *Things We Worry About* session within the 2015 UNM Shared Knowledge Conference. Albuquerque, NM. April 23, 2015. 
 
 #. Benedict, Karl, Joshua Young, W. Christopher Lenhardt, Mark Parsons. 2015. 'Deconstructing the Data Lifecycle BoF' Paper presented at the Research Data Alliance, Fifth Plenary Meeting. San Diego, CA. March 10, 2015.
 
