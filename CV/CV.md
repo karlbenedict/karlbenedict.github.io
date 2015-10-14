@@ -26,7 +26,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## Employment/Professional Experience
 
-7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Director of Research Data Services* 
+7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*
+
+* Director of Research Data Services (7/14-Present)
+* Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
+* Subject Librarian for Geography, Earth & Planetary Sciences, Life Sciences (7/15-Present)
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
@@ -108,15 +112,30 @@ American Geophysical Union
 American Association of Geographers
 
 
+## College Service
+
+### UNM - College of University Libraries and Learning Sciences
+
+2015 - Present, *Presiding Officer Elect*; *Faculty Search Committee* (Chair) for the Research Support Librarian for the Life Sciences 
+
+2014 - Present, *Promotion & Tenure Committee* (Chair, 2015-Present); *Faculty Search Committee* for three faculty positions: Research Support Librarians for Engineering, Physical Sciences and Life Sciences
+
+2014 - 2015, *Committee on Committees*
+
+### UNM - College of Arts & Sciences
+
+2010, *Committee Member* (as a representative of UNM’s College of Arts and Sciences) of UNM’s Enterprise Email Steering Committee
+  
+
 ## University Service
+
+2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
 2013 - Present, *Planning Committee*, CI-Day/D2K Planning Committee
 
 2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
-
-2010, *Committee Member* (as a representative of UNM’s College of Arts and Sciences) of UNM’s Enterprise Email Steering Committee
 
 2001 - 2004, *Committee Member*, University of New Mexico Student Health Center Advisory Committee
 
@@ -145,9 +164,16 @@ American Association of Geographers
 
 ## Professional Service
 
-### Elected/Appointed Positions
+### Advisory/Steering Committee Appointments
 
 2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
+
+2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
+
+2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
+
+
+### Elected Positions
 
 2014 - Present, *President* of the Foundation for Earth Science Board of Directors
 
@@ -155,15 +181,11 @@ American Association of Geographers
 
 2008 - Present, *Working Group Chair*, Tri-State NSF EPSCoR Cyberinfrastructure Working Group
 
-2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
-
 2012 - 2014, *President*, Federation of Earth Science Information Partners (ESIP Federation). 
 
 2012 - 2014, *Chair* of the Foundation for Earth Science Board of Directors
 
 2011 - 2012, *Vice President*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
-
-2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
 
 2010 - 2011, *Type III Representative*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
 
@@ -174,6 +196,7 @@ American Association of Geographers
 2000, *Western Regional Fundraising Coordinator*, National Association of Graduate and Professional Students
 
 2000, *Western Regional Coordinator*, National Association of Graduate and Professional Students
+
 
 ### Proposal Review Panels
 
@@ -187,6 +210,7 @@ American Association of Geographers
 
 2012, NASA SERVIR Applied Sciences
 
+
 ### Journal Peer Review
 
 2013, Computers, Environment and Urban Systems
@@ -195,6 +219,12 @@ American Association of Geographers
 
 
 ### Symposia Organized
+
+#. ‘American Geophysical Union Fall Meeting, 2015’ held in San Francisco, CA, December 14-18, 2015. Co-convener of session *Agile Curation, Data Access and Infrastructure, and Data Layers: Maximizing the Value of Research Data III*
+
+#. ‘American Geophysical Union Fall Meeting, 2015’ held in San Francisco, CA, December 14-18, 2015. Co-convener of session *Agile Curation, Data Access and Infrastructure, and Data Layers: Maximizing the Value of Research Data I Posters*
+
+#. 'Research Data Alliance, Sixth Plenary Meeting'. Paris, France. September 23, 2015. Session Co-Organizer - *BoF on Agile Curation - Part 2*.
 
 #. 'Research Data Alliance, Fifth Plenary Meeting'. San Diego, CA. March 10, 2015. Session Co-Organizer - *Deconstructing the Data Life Cycle - P5 BOF session*.
 
@@ -298,7 +328,7 @@ American Association of Geographers
 
 ### Journal Articles
 
-#. Wheeler, Jonathan, Karl Benedict. in press. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. Paper accepted for publication in the *Journal of Map and Geography Libraries*
+#. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
 
 #. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: http://dx.doi.org/10.1894/0038-4909-58.2.150. URL: [http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150][1]
 
@@ -340,6 +370,10 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+#. Powers, Lindsay, Karl Benedict, Mairi Best, Sue Fyfe, Clifford Jacobs, William Michener, Jay Pearlman. 2015. 'Staying in the Light: Evaluating Sustainability Models for Brokering Software'. Oral paper accepted for presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 18, 2015.
+
+#. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster accepted for presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015.
 
 #. Benedict, Karl. 2015. 'The Promise and Perils of Big Data in Research'. Invited Paper presented at the *Things We Worry About* session within the 2015 UNM Shared Knowledge Conference. Albuquerque, NM. April 23, 2015. 
 
@@ -569,11 +603,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 #. Benedict, Karl Kent. 2006. EDAC: Interoperability and multi-application (sic). *Invited OGC Column* for *GIM International*. January 2006, 20(1). p. 17
 
-## Courses Taught
+## Instruction
+
+### Invited Lectures
+
+#. *Social Responsibility & Research Data: a Framework and some Concepts*. Invited lecture for OILS 500. October 13, 2015. University of New Mexico. URL: [http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html](http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html)
 
 ### Credit Courses
 
-#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (scheduled)
+#. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students)
 
 #. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
@@ -592,6 +630,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 #. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
 #. *Library Instruction* - single session classes\: first year Library Introduction, spatial data management, Geographic Information Systems
+
 
 
 ## Technical Skills
@@ -687,7 +726,7 @@ Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member
 Lisa Arnold, MA, Geography. University of New Mexico. Committee Member. Completed 5/2009. Thesis Title: “Positional Accuracy of the Wide Area Augmentation System”
 
 
-* revised: 2015-04-01
+* revised: 2015-10-14
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
