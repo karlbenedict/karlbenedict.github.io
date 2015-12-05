@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="styles_poster.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<section id="title" class="level1 titleContent">
+<h1>Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces</h1>
+</section>
+<section id="posterID" class="level1 titleContent">
+<h1>IN13A-1821</h1>
+</section>
+<section id="authors" class="level1 titleContent">
+<h1>Karl Benedict<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>, Mark Stephen Servilla<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>, Kristin Vanderbilt<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>, Jonathan Wheeler<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></h1>
+</section>
+<section id="submittedAbstract" class="level1 hidden titleContent">
+<h1>Submitted Abstract</h1>
+<p>The growing volume, variety and velocity of production of Earth science data magnifies the impact of inefficiencies in data acquisition, processing, analysis, and sharing workflows, potentially to the point of impairing the ability of researchers to accomplish their desired scientific objectives. The adaptation of agile software development principles to data curation processes has significant potential to lower barriers to effective scientific data discovery and reuse - barriers that otherwise may force the development of new data to replace existing but unusable data, or require substantial effort to make data usable in new research contexts. This paper outlines a data curation process that was developed at the University of New Mexico that provides a cross-walk of data and associated documentation between the data archive developed by the Long Term Ecological Research (LTER) Network Office (PASTA) and UNM's institutional repository (LoboVault). The developed automated workflow enables the replication of versioned data objects and their associated standards-based metadata between the LTER system and LoboVault - providing long-term preservation for those data/metadata packages within LoboVault while maintaining the value-added services that the PASTA platform provides. The relative ease with which this workflow was developed is a product of the capabilities independently developed on both platforms - including the simplicity of providing a well-documented application programming interface (API) for each platform enabling scripted interaction and the use of well-established documentation standards (EML in the case of PASTA, Dublin Core in the case of LoboVault) by both systems. These system characteristics, when combined with an iterative process of interaction between the Data Curation Librarian (on the LoboVault side of the process), the Sevilleta LTER Information Manager and the LTER Network Information System developer, yielded a rapid and relatively streamlined process for targeted replication of data and metadata between the two systems - increasing the discoverability and usability of the LTER data assets.</p>
+</section>
+<section id="abstract" class="level1">
+<h1>Problem</h1>
+<p>The replication of data and associated documentation between systems for data security, enhanced discovery and access, or use on the secondary system is increasingly difficult as the number and variety of data objects increases. The development of data management and archiving systems and workflows that lower the barriers to automated movement of data and documentation between systems can enable efficient and scalable replication/migration of data assets between systems and between systems and users. Conceptually, this model of streaminled data management and curation based on sound system design principles may be described as agile data curation.</p>
+<p>When confronted with the planned discontinuation of funding for the Sevilleta LTER research site, the LTER Network Infomation Information System designer (Servilla) and the Sevilleta Information Manager (Vanderbilt) approached the research data services team in the UNM Libraries (Benedict &amp; Wheeler) to discuss the options for replication of the Sevilleta data and metadata assets currently managed within the LTER data management system (known as PASTA) into UNM’s institutional repository - LoboVault. The workflow that was developed to complete this replication is an excellent example of how efficient data transfer, management and reuse can be facilitated through the development of independent systems that are based upon design principles that enable well-structured machine-to-machine communication (via well documented Application Programming Interfaces - APIs), support of standards based documentation models, and effective communication between project participants throughout the development, testing, and implementation process. While not specifically intended to do so, the process used (and described in this poster) illustrates a number of core principles of agile data curation.</p>
+</section>
+<section id="principles" class="level1">
+<h1>Mapping of Agile Software Development Principles into Data Curation</h1>
+</section>
+<section id="agile-software-development-principles" class="level1">
+<h1>Agile Software Development Principles<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></h1>
+<ul>
+<li>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</li>
+<li>Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</li>
+<li>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</li>
+<li>Business people and developers must work together daily throughout the project.</li>
+<li>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</li>
+<li>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</li>
+<li>Working software is the primary measure of progress.</li>
+<li>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</li>
+<li>Continuous attention to technical excellence and good design enhances agility.</li>
+<li>Simplicity--the art of maximizing the amount of work not done--is essential.</li>
+<li>The best architectures, requirements, and designs emerge from self-organizing teams. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</li>
+</ul>
+</section>
+<section id="agile-data-curation-principles" class="level1">
+<h1>Agile Data Curation Principles</h1>
+<ul>
+<li>Maximize the impact of research data through accelerated capacity for discovery, access and use of valuable data</li>
+<li>Expect unanticipated needs for and uses of research data (and documentation) and develop flexible systems to support new uses and users without significant modifications</li>
+<li>Facilitate automated interaction with data and metadata assets through well documented public web services that enable disintermediated use and reuse of research data</li>
+<li>Data creators and data curators should work closely throughout planning, research and preservation activities to ensure the most efficient and streamlined process</li>
+<li>Identify key individuals in a data curation project that have the requisite knowledge and motivation to do the job and get out of their way</li>
+<li>Identify the most effective method(s) for maintaining close communication and <em>use</em> them</li>
+<li>Delivery, access, use and citation of research data are the primary measures of success</li>
+<li>Design principles that enable steady delivery of incremental improvements to research data discovery, access and use should be consistent with a sustainable level of effort and funding from sponsors, data creators and curators, and users</li>
+<li>Continuous attention to technical excellence and good design enhances agility</li>
+<li>Start with the basics and only make systems more complex as needed, while maintaining a low bar to entry</li>
+<li>Continuously work to develop and evolve a community of data providers, curators and users that all participate in the ongoing evolution of the research data systems that they interact with</li>
+</ul>
+</section>
+<section id="pastaDesign" class="level1">
+<h1>Design Goals and Attributes of the Provenance Aware Synthesis Tracking Architecture (PASTA)</h1>
+<p>The PASTA platform was designed as part of the LTER Network Information System<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a> to support the data discovery, access and use needs of the community of Long Term Ecological Research sites and the users of the data that they produce. It has been developed with a well documented Application Programming Interface (API<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a> ) that enables create, evaluate, read, update, delete, list, and search for data package resources in the PASTA system. In particular it has the following characteristics:</p>
+<ul>
+<li>Use of the Ecological Metadata Language<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a> as its metadata standard</li>
+<li>Employs the Metacat XML database to support metadata search</li>
+<li>Uses data warehousing methods to provide a uniform representation of the heterogeneous data managed within the system</li>
+<li>Provides a web interface<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a> for browsing, searching, and viewing the contents of the PASTA system</li>
+</ul>
+</section>
+<section id="LTERcomponentDiagram" class="level1 graphic">
+<h1> </h1>
+<figure>
+<img src="images/PASTA-service.png" alt="Figure 1. PASTA Conceptual Diagram" /><figcaption><em>Figure 1</em>. PASTA Conceptual Diagram</figcaption>
+</figure>
+</section>
+<section id="lobovaultDesign" class="level1">
+<h1>Design Goals and Attributes of the DSpace Digital Repository Platform (LoboVault)</h1>
+<p>The University of New Mexico Libraries' DSpace<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a> based institutional repository, LoboVault, is an open access portal to the scholarly publications and research data of UNM faculty, graduate student theses and dissertations, and university administrative records. As a general purpose repository, LoboVault has been developed to provide an easy to use access and discovery resource for the full array of scholarly content and data types produced at UNM. The recent implementation of collection-scale batch ingest procedures is further designed to facilitate efficient publication of research output subject to federal publication and data sharing requirements. Relevant features include:</p>
+<ul>
+<li>An extensible metadata model based on qualified Dublin Core<a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></li>
+<li>Metadata federation and integration with external systems via OAI-PMH<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></li>
+<li>Batch ingest, editing, and cross-registration of content and metadata</li>
+<li>As of DSpace v5, a RESTful API supporting search, create, read, update, and delete functions.</li>
+<li>The development of a <em>sandbox</em> version of the repository for development and testing of workflows before execution of bulk ingest processes</li>
+</ul>
+</section>
+<section id="DSpaceDiagram" class="level1 graphic">
+<h1> </h1>
+<figure>
+<img src="images/DSpace_Diagram_0.png" alt="Figure 2. DSpace Conceptual Diagram" /><figcaption><em>Figure 2</em>. DSpace Conceptual Diagram<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a></figcaption>
+</figure>
+</section>
+<section id="workflowProcess" class="level1">
+<h1>Integration Workflow Development Process</h1>
+<p>The integration of the PASTA data packages for the Sevilleta LTER site leveraged the API's of both PASTA and DSpace to automate the process in a way that would meet the immediate needs for the Sevelleta collection while being extensible to all of the collections within PASTA. The specific capabilities of the developed workflow include:</p>
+<ul>
+<li>Leveraging the extensibility of the DSpace metadata model to integrate location data within the PASTA EML metadata into the structured metadata within LoboVault using the Darwin Core extension to the Dublin Core standard</li>
+<li>Maintaining dataset version information provided by PASTA within the LoboVault records</li>
+<li>Conversion of the EML metadata content into corresponding DSpace Dublin Core or Darwin Core elements for search and presentation</li>
+<li>Providing access to the source EML metadata and data objects housed within LoboVault</li>
+<li>Providing an interactive data location map based on information extracted from the source EML metadata</li>
+</ul>
+</section>
+<section id="PASTAscreenShot" class="level1 graphic">
+<h1> </h1>
+<figure>
+<img src="images/PASTAscreenshot.png" alt="Figure 3. Sample data package view from the LTER Network Data Portal" /><figcaption><em>Figure 3</em>. Sample data package view from the LTER Network Data Portal<a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a></figcaption>
+</figure>
+</section>
+<section id="LoboVaultScreenShot" class="level1 graphic">
+<h1> </h1>
+<figure>
+<img src="images/LoboVaultSceenshot.png" alt="Figure 4. Sample data package view from the LoboVault LTER collection" /><figcaption><em>Figure 4</em>. Sample data package view from the LoboVault LTER collection<a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></figcaption>
+</figure>
+</section>
+<section id="Lessons" class="level1">
+<h1>Lessons Learned</h1>
+<p>This data and metadata integration project provides both an illustration of many of the agile data curation principles outlined below, but it also highlighted a number of ongoing challenges in addition to the benefits:</p>
+<p>Benefits:</p>
+<ul>
+<li>The availability of robust APIs in both PASTA and LoboVault enabled a high degree of automation that provides the promise of significantly streamlined ingest of additional PASTA collections if/when needed</li>
+<li>The detailed and consistent EML metadata standard used in PASTA provided a rich resource of machine-readable documentation that could easily be mapped into LoboVault's metadata model</li>
+<li>The project provided a concrete project around which the LTER and Library data management teams could collaborate - reinforcing the development of a growing research data management community of practice at UNM</li>
+<li>Core PASTA data products are now safely replicated in a complementary system for long-term preservation and access</li>
+</ul>
+<p>Challenges:</p>
+<ul>
+<li>The different versioning models implemented within PASTA and LoboVault introduce a step in the processing of materials that hasn't been fully automated yet. This poses a challenge in maintaining synchronization between the systems.</li>
+<li>The communication model based primarily on email exchanges introduced some delays in developing shared understanding that could have been achieved more quickly through in-person interactions.</li>
+<li>Both PASTA and LoboVault support permanent identifiers but the identifiers used in the systems differ in that PASTA uses DOIs and LoboVault (currently) uses Handles. The specification of identifying the canonical identifier remains to be done.</li>
+</ul>
+</section>
+<section id="resources" class="level1">
+<h1>Resources</h1>
+<p><img src="images/AgileManifestoPrinciples.png" alt="QR Code for the Agile Manifesto Principles" /> Agile Manifesto Principles: <a href="http://agilemanifesto.org/principles.html" class="uri">http://agilemanifesto.org/principles.html</a></p>
+<p><img src="images/LTER-PASTA.png" alt="QR Code for the LTER PASTA System Page" /> LTER PASTA System: <a href="http://lno.lternet.edu/content/network-information-system" class="uri">http://lno.lternet.edu/content/network-information-system</a></p>
+<p><img src="images/LoboVaultLTERcollecton.png" alt="QR Code for the LoboVault LTER Collection" /> LoboVault (LTER Data Collection): <a href="http://repository.unm.edu/handle/1928/29608" class="uri">http://repository.unm.edu/handle/1928/29608</a></p>
+</section>
+<section id="acknowledgements" class="level1">
+<h1>Acknowledgements</h1>
+<p>The research reported here has been supported through funding from the National Science Foundation Cooperative Agreement DEB#0832652 (5/1/09 - 4/30/15), DEB#1440478 (4/1/2015 – 3/31/2017: Sevilleta LTER grant) and the College of Univerity Libraries and Learning Sciences at the University of New Mexico</p>
+</section>
+<section id="arrow" class="level1">
+<h1> </h1>
+<figure>
+<img src="images/arrow.png" alt="" />
+</figure>
+</section>
+<section id="DontDuck" class="level1">
+<h1> </h1>
+<figure>
+<img src="images/DontDuckMetadata.png" alt="" />
+</figure>
+</section>
+<section id="license" class="level1">
+<h1> </h1>
+<p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License   </a><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></p>
+</section>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>University of New Mexico, University Libraries - kbene@unm.edu<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>University of New Mexico, LTER Network Office<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>University of New Mexico, Sevilleta LTER Office<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>University of New Mexico, University Libraries<a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p><a href="http://agilemanifesto.org/principles.html" class="uri">http://agilemanifesto.org/principles.html</a><a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p><a href="http://lno.lternet.edu/content/network-information-system" class="uri">http://lno.lternet.edu/content/network-information-system</a><a href="#fnref6">↩</a></p></li>
+<li id="fn7"><p><a href="https://pasta.lternet.edu/package/docs/api" class="uri">https://pasta.lternet.edu/package/docs/api</a><a href="#fnref7">↩</a></p></li>
+<li id="fn8"><p><a href="https://knb.ecoinformatics.org/#external//emlparser/docs/index.html" class="uri">https://knb.ecoinformatics.org/#external//emlparser/docs/index.html</a><a href="#fnref8">↩</a></p></li>
+<li id="fn9"><p><a href="https://portal.lternet.edu/nis/home.jsp" class="uri">https://portal.lternet.edu/nis/home.jsp</a><a href="#fnref9">↩</a></p></li>
+<li id="fn10"><p><a href="http://www.dspace.org/" class="uri">http://www.dspace.org/</a><a href="#fnref10">↩</a></p></li>
+<li id="fn11"><p><a href="http://dublincore.org/" class="uri">http://dublincore.org/</a><a href="#fnref11">↩</a></p></li>
+<li id="fn12"><p><a href="http://www.openarchives.org/OAI/openarchivesprotocol.html" class="uri">http://www.openarchives.org/OAI/openarchivesprotocol.html</a><a href="#fnref12">↩</a></p></li>
+<li id="fn13"><p><a href="http://www.dspace.org/sites/dspace.org/files/media/DSpace%20Diagram_0.pdf">http://www.dspace.org/sites/dspace.org/files/media/DSpace%20Diagram_0.pdf</a> - published by <a href="http://www.dspace.org/introducing">dspace.org</a> and shared under a Creative Commons BY-SA <a href="http://creativecommons.org/licenses/by-sa/3.0/">license</a><a href="#fnref13">↩</a></p></li>
+<li id="fn14"><p><a href="https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-sev.129.258317" class="uri">https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-sev.129.258317</a><a href="#fnref14">↩</a></p></li>
+<li id="fn15"><p><a href="https://repository.unm.edu/handle/1928/30068" class="uri">https://repository.unm.edu/handle/1928/30068</a><a href="#fnref15">↩</a></p></li>
+</ol>
+</section>
+</body>
+</html>
