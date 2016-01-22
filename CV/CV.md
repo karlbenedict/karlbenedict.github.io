@@ -217,9 +217,11 @@ American Association of Geographers
 
 ### Journal Peer Review
 
-2013, Computers, Environment and Urban Systems
+2015, *Earth Science Informatics*
 
-2008, 2011, International Journal of Geographical Information Science
+2013, *Computers, Environment and Urban Systems*
+
+2008, 2011, *International Journal of Geographical Information Science*
 
 
 ### Symposia Organized
