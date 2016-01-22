@@ -1,0 +1,339 @@
+html {
+	font-family: "Helvetica Neue";
+	background: url(images/5x3_150ppi_background.png);
+	background-repeat: no-repeat;
+	/* background-color: #b4cde4;
+	border-style: solid;
+	background-size: 9000px 5400px;*/
+}
+
+body {
+	position: absolute;
+	width: 9000px;
+	height: 5400px;
+}
+
+
+/* Elements */
+
+section {
+	position:absolute;
+	padding:0px;
+	margin:0px;
+	border-style: none;
+	border-width: 1px;
+	width:1500px
+}
+
+h1 {
+	margin:0px;
+	padding: 0px;
+	font-size:48pt;
+}
+
+p {
+	font-size: 36pt;
+}
+
+a:link {
+	text-decoration:none;
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: yellow;
+}
+
+sup {
+	font-size:60%;
+	font-style:italic
+}
+
+li {
+	font-size: 36pt;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+ol {
+	list-style-position: inside;
+}
+
+figcaption {
+	font-size: 45px;
+}
+
+
+
+/* Blocks */
+
+
+#title {
+	top:50px;
+	left:50px;
+	width: 8000px;
+}
+
+#title h1{
+	font-size:120px;
+}
+
+#posterID {
+	top:50px;
+	left:8200px;
+	width:750px	;
+	text-align:right
+}
+
+#authors {
+	top:230px;
+	right:50px;
+	text-align: right;
+	width: 4000px;
+}
+
+
+#authors h1 {
+	font-size:90px;
+	font-style: italic;
+}
+
+
+
+
+#submittedAbstract {
+	display:none;
+}
+
+
+
+
+#abstract {
+	top:400px;
+	left:50px;
+	width: 2000px;
+}
+
+
+
+
+#principles {
+	top:3350px;
+	left:3000px;
+	width: 3000px;
+}
+
+#principles h1 {
+	text-align: center;
+}
+
+#principles h2 {
+	font-size: 50px;
+}
+
+#agile-software-development-principles,#agile-data-curation-principles {
+	top: 3450px;
+	width: 1500px;
+}
+
+#agile-software-development-principles {
+	left: 3000px;
+}
+
+#agile-data-curation-principles {
+	left: 4500px;
+}
+
+#agile-software-development-principles ul,#agile-data-curation-principles ul{
+	list-style-type: none;
+	list-style-position: inside;
+	margin: 0px;
+	padding: 0px;
+}
+
+#agile-software-development-principles li,#agile-data-curation-principles li {
+	height: 140px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin: 0px;
+	font-size: 24pt;
+	text-align: center;
+}
+
+#agile-software-development-principles li:nth-child(odd),#agile-data-curation-principles li:nth-child(odd) {
+	background-color: #dadada;
+}
+
+#agile-software-development-principles li:nth-child(even),#agile-data-curation-principles li:nth-child(even) {
+	background-color: #9a9a9a;
+}
+
+
+#agile-software-development-principles h1,#agile-data-curation-principles h1 {
+	text-align: center;
+	font-size: 50px;
+	height: 60px;
+}
+
+#agile-software-development-principles sup {
+	vertical-align: top;
+}
+
+
+#pastaDesign {
+	top: 3450px;
+	left:50px;
+	width: 2900px;
+}
+
+#LTERcomponentDiagram {
+	top:2000px;
+	left:200px;
+}
+
+#LTERcomponentDiagram figure img {
+	height: 1200px;
+	width: auto;
+}
+
+#lobovaultDesign {
+	top: 3450px;
+	right:50px;
+	width: 2900px;
+}
+
+#DSpaceDiagram {
+top:2250px;
+right:450px;
+}
+
+#DSpaceDiagram figure img {
+	height: 950px;
+	width: auto;
+}
+
+#workflowProcess {
+	width: 3000px;
+	top:400px;
+	left:3000px;
+}
+
+#PASTAscreenShot {
+	top:1200px;
+	left:2200px;
+}
+
+#PASTAscreenShot figure img {
+	height: 1900px;
+	width: auto;
+}
+
+
+#LoboVaultScreenShot {
+top:1200px;
+right:2200px;
+}
+
+#LoboVaultScreenShot figure img {
+	height: 1900px;
+	width: auto;
+}
+
+
+#Lessons {
+top:400px;
+right:50px;
+width: 2000px;
+}
+
+#resources {
+	display: none;
+}
+
+
+#acknowledgements {
+	bottom:150px;
+	right:50px;
+	width: 2900px;
+}
+
+
+#license {
+	top: auto;
+	bottom:10px;
+	right:50px;
+	width: 3000px;
+}
+
+#license p {
+	font-size: 36px;
+	text-align: right;
+}
+
+.footnotes {
+	top: auto;
+	bottom: 150px;
+	width: 2900px;
+	left: 50px;;
+}
+
+.footnotes li {	
+	font-size: 36px;
+}
+
+.footnotes li p {
+	padding: 0px;
+	margin: 0px;
+	font-size: 36px;
+}
+
+.footnotes hr {
+-webkit-column-span: all;
+column-span: all;
+text-align: center;	
+}
+
+.footnotes ol {
+	margin: 0px;
+	padding: 0px;
+	list-style-position: inside;
+}
+
+#DontDuck {
+	top: 2000px;
+	left: 4300px;
+}
+
+#DontDuck figure img {
+	width: 400px;
+	height: auto;
+}
+
+#arrow {
+	top: 1700px;
+	left: 4150px;
+}
+
+#arrow figure img {
+	width: 700px;
+	height: auto;
+}
+
+
+
+/* Other items */
+
+
+.graphic figure img{
+	width: 500px;
+}
+
+
