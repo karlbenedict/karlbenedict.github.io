@@ -116,9 +116,13 @@ American Association of Geographers
 
 ### UNM - College of University Libraries and Learning Sciences
 
-2015 - Present, *Presiding Officer Elect*; *Faculty Search Committee* (Chair) for the Research Support Librarian for the Life Sciences 
+2015 - Present, *Presiding Officer Elect*
 
-2014 - Present, *Promotion & Tenure Committee* (Chair, 2015-Present); *Faculty Search Committee* for three faculty positions: Research Support Librarians for Engineering, Physical Sciences and Life Sciences
+2015 - 2016, *Faculty Search Committee (Chair)* for the Research Support Librarian for the Life Sciences position 
+
+2014 - Present, *Promotion & Tenure Committee* (Chair, 2015-Present)
+
+2014 - 2015, *Faculty Search Committee* for three faculty positions: Research Support Librarians for Engineering, Physical Sciences and Life Sciences
 
 2014 - 2015, *Committee on Committees*
 
@@ -287,6 +291,8 @@ American Association of Geographers
 
 #. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
+#. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
+
 ### Completed
 
 #. *Collaborative Research: CI-Team Diff: The Virtual Learning Commons: STEM Research Communities Learning about Data Management, Geospatial Informatics, and Scientific Visualization*. Funding Agency: National Science foundation. Performance Period 9/15/11-9/30/14. Award Amount: $133,923 (EDAC’s portion: $20,000/year). Co-I, Marjorie McConnell (UNM) PI. Co-I Role transferred to EDAC with Dr. Benedict's transfer into the College of University Libraries and Learning Sciences on 7/1/14. 
@@ -344,7 +350,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
-#. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. in press. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 266-275. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
+#. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
 #. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
@@ -371,9 +377,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
-#. Powers, Lindsay, Karl Benedict, Mairi Best, Sue Fyfe, Clifford Jacobs, William Michener, Jay Pearlman. 2015. 'Staying in the Light: Evaluating Sustainability Models for Brokering Software'. Oral paper accepted for presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 18, 2015.
+#. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015.
 
-#. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster accepted for presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015.
+#. Powers, Lindsay, Karl Benedict, Mairi Best, Sue Fyfe, Clifford Jacobs, William Michener, Jay Pearlman. 2015. 'Staying in the Light: Evaluating Sustainability Models for Brokering Software'. Oral paper presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 18, 2015.
+
+#. Young, Joshua, Karl Benedict, and W. Christopher Lenhardt. 2015. 'Agile Data Curation: A conceptual framework and approach for practitioner data management'. Oral paper presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 15, 2015.
+
+#. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. 
+
+#. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.
 
 #. Benedict, Karl. 2015. 'The Promise and Perils of Big Data in Research'. Invited Paper presented at the *Things We Worry About* session within the 2015 UNM Shared Knowledge Conference. Albuquerque, NM. April 23, 2015. 
 
@@ -615,7 +627,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 #. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-#. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid)
+#. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (scheduled)
 
 #. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
@@ -668,7 +680,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * MySQL
 * Microsoft Access
 * dBase
-* Citation management databases: Endnote, Papers
+* Citation management databases: Endnote, Papers, Zotero
 * Google Fusion Tables
 
 ### Geographic Information Technologies
@@ -726,7 +738,7 @@ Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member
 Lisa Arnold, MA, Geography. University of New Mexico. Committee Member. Completed 5/2009. Thesis Title: “Positional Accuracy of the Wide Area Augmentation System”
 
 
-* revised: 2015-10-14
+* revised: 2015-12-7
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
