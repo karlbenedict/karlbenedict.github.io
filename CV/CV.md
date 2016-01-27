@@ -385,13 +385,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 #. Young, Joshua, Karl Benedict, and W. Christopher Lenhardt. 2015. 'Agile Data Curation: A conceptual framework and approach for practitioner data management'. Oral paper presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 15, 2015.
 
-#. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. 
+#. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. [http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
 #. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.
 
 #. Benedict, Karl, Plato Smith II. "Data Management for Collaboration, Access and Interoperability - CLIR Workshop on Research Data Principles & Services". Invited Workshop Presentation for the CLIR Postdoctoral Symposium. Bryn Mawr, PA. July 28, 2015.
 
 #. Harris, Fred, Karl Benedict. 'Data Management'. Invited presentation for GEOS 697 *Interdisciplinary Modeling: Water-Related Issues and Changing Climate* offered in conjunction with the EPSCoR Tri-State meeting. Boise, ID. June 3, 2015. 
+
+#. Benedict, Karl. "Model Integration & Visualization Through Rapid Data and Documentation Access and Assimilation". Invited presentation for the *Integrated Environmental Modeling for Estuarine System Management Workshop*. Davis, CA. May 20-21, 2015. [http://karlbenedict.com/presentations/2015-05-WC-WAVEDemo/index.html](http://karlbenedict.com/presentations/2015-05-WC-WAVEDemo/index.html)
 
 #. Benedict, Karl. 2015. 'The Promise and Perils of Big Data in Research'. Invited Paper presented at the *Things We Worry About* session within the 2015 UNM Shared Knowledge Conference. Albuquerque, NM. April 23, 2015. 
 
