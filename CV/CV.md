@@ -746,7 +746,21 @@ Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member
 Lisa Arnold, MA, Geography. University of New Mexico. Committee Member. Completed 5/2009. Thesis Title: “Positional Accuracy of the Wide Area Augmentation System”
 
 
-* revised: 2015-12-7
+## Professional Associations
+
+International Association for Social Science Information Services & Technology (2016-present, [http://www.iassistdata.org/](http://www.iassistdata.org/))
+
+American Library Association / Association of College and Research Libraries (2015-present, [http://www.ala.org/](http://www.ala.org/)/[http://www.ala.org/acrl/](http://www.ala.org/acrl/))
+
+American Association of Geographers (2010-present, [http://www.aag.org/](http://www.aag.org/))
+
+American Geophysical Union (2008-present, [http://sites.agu.org/](http://sites.agu.org/))
+
+New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](http://nmgic.com/))
+
+Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
+
+* revised: 2016-02-15
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
