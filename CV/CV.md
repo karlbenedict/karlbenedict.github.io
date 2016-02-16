@@ -99,19 +99,6 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 7/97-2/01, Karl Benedict Data Processing and Analysis: Consultant
 
 
-## Professional Affiliations
-
-Society for American Archaeology
-
-New Mexico Geographic Information Council
-
-American Society of Photogrammetry and Remote Sensing
-
-American Geophysical Union
-
-American Association of Geographers
-
-
 ## College Service
 
 ### UNM - College of University Libraries and Learning Sciences
