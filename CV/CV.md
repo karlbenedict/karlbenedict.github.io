@@ -103,6 +103,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### UNM - College of University Libraries and Learning Sciences
 
+2016 - Present, *College Assessment Committee*
+
 2015 - Present, *Presiding Officer Elect*
 
 2015 - 2016, *Faculty Search Committee (Chair)* for the Research Support Librarian for the Life Sciences position 
