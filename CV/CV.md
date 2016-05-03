@@ -30,7 +30,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
-* Subject Librarian for Geography, Earth & Planetary Sciences, Life Sciences (7/15-Present)
+* Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for the Life Sciences (7/15-4/16)
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
