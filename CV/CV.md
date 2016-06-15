@@ -291,7 +291,7 @@ American Association of Geographers
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
-1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
+1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 1. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
 
@@ -733,7 +733,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In Process. 
 
-Lijuan Jia, Ph.D, Civil Engineering, University of New Mexico. Committee Member. In process. 
+Lijuan Jia, Ph.D, Civil Engineering, University of New Mexico. Committee Member. Completed 2014. Dissertation Title: "Toward Improved Evaluation Of Large Scale Hydrologic Models: Estimation And Quantification Of Parameter Uncertainty"
 
 Jigar Patel, PhD., Computer Science, University of Nevada, Reno. In process. 
 
