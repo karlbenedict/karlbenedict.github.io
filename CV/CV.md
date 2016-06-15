@@ -30,7 +30,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
-* Subject Librarian for Geography, Earth & Planetary Sciences, Life Sciences (7/15-Present)
+* Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for the Life Sciences (7/15-4/16)
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
@@ -99,22 +100,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 7/97-2/01, Karl Benedict Data Processing and Analysis: Consultant
 
 
-## Professional Affiliations
-
-Society for American Archaeology
-
-New Mexico Geographic Information Council
-
-American Society of Photogrammetry and Remote Sensing
-
-American Geophysical Union
-
-American Association of Geographers
-
-
 ## College Service
 
 ### UNM - College of University Libraries and Learning Sciences
+
+2016 - Present, *College Assessment Committee*
 
 2015 - Present, *Presiding Officer Elect*
 
