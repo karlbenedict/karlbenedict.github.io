@@ -160,6 +160,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Advisory/Steering Committee Appointments
 
+2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
+
 2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
 
 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
@@ -193,6 +195,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Proposal Review Panels
+
+2016, NASA Earth Science Applications: Health and Air Quality Review Panel
 
 2014, NASA Earth Science Applications: Health and Air Quality Review Panel
 
