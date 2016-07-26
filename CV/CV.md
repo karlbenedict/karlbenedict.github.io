@@ -106,7 +106,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *College Assessment Committee*
 
-2015 - Present, *Presiding Officer Elect*
+2016 - Present, *Presiding Officer*
+
+2015 - 2016, *Presiding Officer Elect*
 
 2015 - 2016, *Faculty Search Committee (Chair)* for the Research Support Librarian for the Life Sciences position 
 
@@ -123,9 +125,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## University Service
 
+2016, *Committee Member*, UNM Research Strategic Planning Committee
+
 2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
-2013 - Present, *Planning Committee*, CI-Day/D2K Planning Committee
+2013 - 2016, *Planning Committee*, CI-Day/D2K Planning Committee
 
 2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium
 
@@ -159,6 +163,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 ## Professional Service
 
 ### Advisory/Steering Committee Appointments
+
+2015 - Present, *Committee Member, Chair*, Digital Preservation Network Technical Advisory Committee
 
 2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
 
@@ -194,6 +200,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Proposal Review Panels
 
+2016, NASA Earth Science Applications: Health and Air Quality Review Panel
+
 2014, NASA Earth Science Applications: Health and Air Quality Review Panel
 
 2014, NM EPSCoR Diversity Innovation Working Group Review Panel
@@ -207,6 +215,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
+2016, *Big Data Research*
+
 2015, *Earth Science Informatics*
 
 2013, *Computers, Environment and Urban Systems*
@@ -215,6 +225,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Symposia Organized
+
+1. 'Federation of Earth Science Information Partners Summer Meeting, 2016' held in Durham, NC, July 19-22. Co-convener of session *Agile Data Curation in the Wild - What’s Your Story?* [http://commons.esipfed.org/node/9112](http://commons.esipfed.org/node/9112)
 
 1. ‘American Geophysical Union Fall Meeting, 2015’ held in San Francisco, CA, December 14-18, 2015. Co-convener of session *Agile Curation, Data Access and Infrastructure, and Data Layers: Maximizing the Value of Research Data III*
 
@@ -344,6 +356,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
+1. Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
+
 1. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
 1. Watson, Richard, Manfred Ehlers, Thomas K. Budge, and Karl Kent Benedict. 2006. 'New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements'. Chapter 12 in *Remote Sensing of Human Settlements*. Manual of Remote Sensing, 3rd ed., Volume 5. Merrill Ridd and James D. Hipple eds. American Society for Photogrammetry and Remote Sensing, Bethesda, Maryland. pp. 713-738. [http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf][7]
@@ -368,6 +382,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
 1. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015.
 
