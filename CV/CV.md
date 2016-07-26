@@ -381,6 +381,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf][11]
 
 
+### Online Resources
+
+"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
+
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the management of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+
+"Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
+
+
 ### Presented Papers
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
