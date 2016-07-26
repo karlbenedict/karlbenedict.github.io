@@ -53,7 +53,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 9/98-2/01, National Park Service, Pecos National Historical Park: *Data Analyst*
 
-5/95-2/01, INFOTEC Research Inc./Applied Earthworks, Inc.: *Data Analyst*
+5/95-2/01, Applied Earthworks, Inc.: *Data Analyst*
 
 6/00-12/00, University of New Mexico, Office of Evaluation: *Project Assistant*
 
@@ -65,7 +65,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 9/93-5/96, University of New Mexico, Computer Information Resources and Technology (CIRT): *Help Desk Liaison*
 
-4/94-3/95, Ebert and Associates, Inc.: *Data Processing Specialist*
+4/94-3/95, Ebert and Associates, Inc.: *Data Analyst*
 
 6/93-1/94, Applied Earthworks, Inc.: *Data Manager (part-time)*
 
