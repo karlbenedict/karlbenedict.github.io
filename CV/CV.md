@@ -166,7 +166,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
-2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
+2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
 
 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
 
@@ -185,9 +185,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2012 - 2014, *Chair* of the Foundation for Earth Science Board of Directors
 
-2011 - 2012, *Vice President*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
+2011 - 2012, *Vice President*, Federation of Earth Science Information Partners (ESIP Federation).
 
-2010 - 2011, *Type III Representative*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
+2010 - 2011, *Type III Representative*, Federation of Earth Science Information Partners (ESIP Federation).
 
 2004 - 2010, *Committee Chair*, Federation of Earth Science Information Partners (ESIP) Information Technology and Interoperability Committee
 
@@ -225,6 +225,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Symposia Organized
+
+1. 'SciDataCon' held in Denver, CO, September 11-13. Co-convener of session *Agile Research Data Curation: Conceptual model, perspectives, and exemplars*. 
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2016' held in Durham, NC, July 19-22. Co-convener of session *Agile Data Curation in the Wild - What’s Your Story?* [http://commons.esipfed.org/node/9112](http://commons.esipfed.org/node/9112)
 
