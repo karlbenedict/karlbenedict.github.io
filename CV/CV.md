@@ -291,15 +291,17 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
+1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
+
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
-1. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
-
 ### Completed
+
+1. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
 
 1. *Collaborative Research: CI-Team Diff: The Virtual Learning Commons: STEM Research Communities Learning about Data Management, Geospatial Informatics, and Scientific Visualization*. Funding Agency: National Science foundation. Performance Period 9/15/11-9/30/14. Award Amount: $133,923 (EDAC’s portion: $20,000/year). Co-I, Marjorie McConnell (UNM) PI. Co-I Role transferred to EDAC with Dr. Benedict's transfer into the College of University Libraries and Learning Sciences on 7/1/14. 
 
