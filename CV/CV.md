@@ -53,7 +53,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 9/98-2/01, National Park Service, Pecos National Historical Park: *Data Analyst*
 
-5/95-2/01, INFOTEC Research Inc./Applied Earthworks, Inc.: *Data Analyst*
+5/95-2/01, Applied Earthworks, Inc.: *Data Analyst*
 
 6/00-12/00, University of New Mexico, Office of Evaluation: *Project Assistant*
 
@@ -65,7 +65,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 9/93-5/96, University of New Mexico, Computer Information Resources and Technology (CIRT): *Help Desk Liaison*
 
-4/94-3/95, Ebert and Associates, Inc.: *Data Processing Specialist*
+4/94-3/95, Ebert and Associates, Inc.: *Data Analyst*
 
 6/93-1/94, Applied Earthworks, Inc.: *Data Manager (part-time)*
 
@@ -168,7 +168,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
-2014 - Present, *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project
+2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
 
 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
 
@@ -187,9 +187,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2012 - 2014, *Chair* of the Foundation for Earth Science Board of Directors
 
-2011 - 2012, *Vice President*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
+2011 - 2012, *Vice President*, Federation of Earth Science Information Partners (ESIP Federation).
 
-2010 - 2011, *Type III Representative*, Federation of Earth Science Information Partners (ESIP Federation). Member of Foundation for Earth Science Board of Directors
+2010 - 2011, *Type III Representative*, Federation of Earth Science Information Partners (ESIP Federation).
 
 2004 - 2010, *Committee Chair*, Federation of Earth Science Information Partners (ESIP) Information Technology and Interoperability Committee
 
@@ -227,6 +227,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Symposia Organized
+
+1. 'SciDataCon' held in Denver, CO, September 11-13. Co-convener of session *Agile Research Data Curation: Conceptual model, perspectives, and exemplars*. 
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2016' held in Durham, NC, July 19-22. Co-convener of session *Agile Data Curation in the Wild - What’s Your Story?* [http://commons.esipfed.org/node/9112](http://commons.esipfed.org/node/9112)
 
@@ -291,15 +293,17 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
+1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
+
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31,610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
-1. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
-
 ### Completed
+
+1. *Assessment in Action - Assessing the Impacts of Research Data Management Training for Graduate Students*. Performance Period 6/1/2015-6/30/2016. Unfunded but sponsored by ACRL. PI. 
 
 1. *Collaborative Research: CI-Team Diff: The Virtual Learning Commons: STEM Research Communities Learning about Data Management, Geospatial Informatics, and Scientific Visualization*. Funding Agency: National Science foundation. Performance Period 9/15/11-9/30/14. Award Amount: $133,923 (EDAC’s portion: $20,000/year). Co-I, Marjorie McConnell (UNM) PI. Co-I Role transferred to EDAC with Dr. Benedict's transfer into the College of University Libraries and Learning Sciences on 7/1/14. 
 
@@ -381,6 +385,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Watson, Richard, Louis A.  Scuderi, Theresa R. Kuntz, and Karl Kent Benedict. 2004. 'Assessing Vegetation Response to Local Rainfall Events Using NEXRAD Weather Radar and MODIS Imagery'. *Proceedings of the ASPRS 2004 Annual Conference*, Denver, CO, May 2004
 
 1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf][11]
+
+
+### Online Resources
+
+"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
+
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the management of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+
+"Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
 
 
 ### Presented Papers

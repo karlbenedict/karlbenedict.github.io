@@ -4,6 +4,10 @@
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
+\usepackage{booktabs}
+\usepackage{setspace}
+
+% \onehalfspacing % reduces spacing following Headings
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
