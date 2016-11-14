@@ -125,7 +125,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## University Service
 
-2016, *Committee Member*, UNM Research Strategic Planning Committee
+2016 - 2017, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
+
+2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
 
 2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
