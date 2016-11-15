@@ -181,7 +181,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2010 - Present, *Board Member*, Foundation for Earth Science Board of Directors
 
-2008 - Present, *Working Group Chair*, Tri-State NSF EPSCoR Cyberinfrastructure Working Group
+2008 - 2017, *Working Group Chair*, Tri-State NSF EPSCoR Cyberinfrastructure Working Group
 
 2012 - 2014, *President*, Federation of Earth Science Information Partners (ESIP Federation). 
 
@@ -216,6 +216,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Journal Peer Review
+
+2016, *International Journal of Geo-Information*
 
 2016, *Big Data Research*
 
@@ -391,16 +393,20 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
-"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the management of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
 
 "Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
 
 
 ### Presented Papers
 
+
+
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
-1. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015.
+1. Benedict, Karl, Jonathan Wheeler. 2016. "Assessment of the Impact of Research Data Services: Building a Foundation for Ongoing Assessment". Poster presented at the American Library Association Annual Conference. Orlando, FL. June 25, 2016. [http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf](http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf) 
+
+1. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015. [http://karlbenedict.com/presentations/2015-12-AGU/AGU2015-Benedict_poster_linked.pdf](http://karlbenedict.com/presentations/2015-12-AGU/AGU2015-Benedict_poster_linked.pdf)
 
 1. Powers, Lindsay, Karl Benedict, Mairi Best, Sue Fyfe, Clifford Jacobs, William Michener, Jay Pearlman. 2015. 'Staying in the Light: Evaluating Sustainability Models for Brokering Software'. Oral paper presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 18, 2015.
 
@@ -408,7 +414,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. [http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
-1. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.
+1. Benedict, Karl. 2015. 'The Network as Instrument'. Invited presentation at the *Connecting Science, Education and Economic Development* workshop. 
+
+1. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.[http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf](http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf)
 
 1. Benedict, Karl, Plato Smith II. "Data Management for Collaboration, Access and Interoperability - CLIR Workshop on Research Data Principles & Services". Invited Workshop Presentation for the CLIR Postdoctoral Symposium. Bryn Mawr, PA. July 28, 2015.
 
