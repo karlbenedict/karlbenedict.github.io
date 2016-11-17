@@ -31,6 +31,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
 * Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for Computer Science (7/15-Present)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
@@ -400,7 +401,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
-
+1. O'Brien, Patrick, Kenning Arlitsch, Jeff Mixter, Susan Borda, Karl Benedict, Jonathan Wheeler, Sue Baughman, Gary Roebuck, Leila Sterman, Scott Young (2016). "Improving the Reported Use and Impact of Your Institutional Repository (IR)". Presentation to the Digital Library Federation Forum.  Milwaukee, Wisconsin. November 8, 2016.
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
@@ -414,7 +415,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. [http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
-1. Benedict, Karl. 2015. 'The Network as Instrument'. Invited presentation at the *Connecting Science, Education and Economic Development* workshop. 
+1. Benedict, Karl. 2015. 'The Network as Instrument'. Invited presentation at the *Connecting Science, Education and Economic Development* workshop. Norther New Mexico College. Española, NM. November 5, 2015. [http://karlbenedict.com/presentations/2015-11-NNMC/2015-11_NetworkAsInstrument.pdf](http://karlbenedict.com/presentations/2015-11-NNMC/2015-11_NetworkAsInstrument.pdf)
 
 1. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.[http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf](http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf)
 
@@ -660,11 +661,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students)
+1. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (scheduled)
+1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid - scheduled)
 
 1. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
@@ -678,7 +679,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
-1. *Library Instruction* - single session classes\: first year Library Introduction, spatial data management, Geographic Information Systems
+1. *Library Instruction* - single session classes\: first year Library Introduction, research data management, Geographic Information Systems
 
 
 
@@ -723,7 +724,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 ### Geographic Information Technologies
 
 * ArcGIS
-* Quantum GIS
+* Quantum GIS/QGIS
 * MapServer
 * GeoServer
 * ArcIMS
@@ -789,7 +790,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2016-02-15
+* revised: 2016-11
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
