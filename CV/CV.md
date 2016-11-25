@@ -304,7 +304,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. *CC\*IIE Networking Infrastructure: Network Expansion to Support Data Intensive Research and Computation at the University of New Mexico*. Funding Agency: National Science Foundation. Award Number: 1440779. Performance Period 9/1/2014-2/28/2017. Award Amount: $498,620.00.  Co-I, Steven Perry (UNM) PI.
 
-1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
+1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
