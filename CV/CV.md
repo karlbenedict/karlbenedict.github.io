@@ -330,6 +330,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. *New Mexico Environment Department, Environmental GIS (eGIS)*. Funding Source: New Mexico Environment Department. Performance Period: 10/06-6/07. Award Amount: $66,166. PI for overall project. 
 
+1. *Project for Internet Networking*. Funding Source: US Department of State (partial) through their *Middle East Partnership Initiative*. Performance Period: 2006-2009. Technical Lead, Richard Wood PI. Project described in doi:10.1111/dome.12061. 
+
 1. *New Mexico EPSCoR (Experimental Program to Stimulate Competitive Research) RII (NM NEW) Grant, Hydrology Program*. Funding Source: National Science Foundation. Performance Period: 2005-2008. Award Amount: $1,984,617, EDAC Portion: $259,060. Served as PI for Earth Data Analysis Center (EDAC) work under the statewide EPSCoR program.
 
 1. *National Science Foundation, Doctoral Dissertation Improvement Grant* 2003-2005. award number 0305103. $4,357 awarded through a peer-reviewed application process. This funding was granted in support of my dissertation research.
