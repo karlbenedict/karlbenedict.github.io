@@ -746,6 +746,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Information management architectures
 * Services-oriented architectures
 * Cloud computing
+* Docker Container Development and Hosting
 * Basic principles of computer network design
 * Windows, Linux and Mac OS X 
 * Core productivity applications: MS Office, Apple iWork applications, Google Drive
