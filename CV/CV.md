@@ -130,11 +130,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
 
+2016 - Present, *External Advisory Committee*, UNM Center for Advanced Research Computing
+
 2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
 2013 - 2016, *Planning Committee*, CI-Day/D2K Planning Committee
 
-2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium
+2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - Present)
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
 
