@@ -231,6 +231,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Symposia Organized
 
+1. 'Research Data Alliance, Eighth Plenary Meeting'. Denver, Colorado. September 15, 2016. Session Co-Organizer - *Planning meeting for Agile Data Curation Interest Group and Associated Working Group(s)*
+
 1. 'SciDataCon' held in Denver, CO, September 11-13. Co-convener of session *Agile Research Data Curation: Conceptual model, perspectives, and exemplars*. 
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2016' held in Durham, NC, July 19-22. Co-convener of session *Agile Data Curation in the Wild - What’s Your Story?* [http://commons.esipfed.org/node/9112](http://commons.esipfed.org/node/9112)
