@@ -31,6 +31,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
 * Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for Computer Science (7/15-Present)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
 7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
@@ -129,11 +130,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
 
+2016 - Present, *External Advisory Committee*, UNM Center for Advanced Research Computing
+
 2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
 2013 - 2016, *Planning Committee*, CI-Day/D2K Planning Committee
 
-2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium
+2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - Present)
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
 
@@ -230,6 +233,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Symposia Organized
 
+1. 'Research Data Alliance, Eighth Plenary Meeting'. Denver, Colorado. September 15, 2016. Session Co-Organizer - *Planning meeting for Agile Data Curation Interest Group and Associated Working Group(s)*
+
 1. 'SciDataCon' held in Denver, CO, September 11-13. Co-convener of session *Agile Research Data Curation: Conceptual model, perspectives, and exemplars*. 
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2016' held in Durham, NC, July 19-22. Co-convener of session *Agile Data Curation in the Wild - What’s Your Story?* [http://commons.esipfed.org/node/9112](http://commons.esipfed.org/node/9112)
@@ -297,7 +302,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
 
-1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016. Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
+1. *CC\*IIE Networking Infrastructure: Network Expansion to Support Data Intensive Research and Computation at the University of New Mexico*. Funding Agency: National Science Foundation. Award Number: 1440779. Performance Period 9/1/2014-2/28/2017. Award Amount: $498,620.00.  Co-I, Steven Perry (UNM) PI.
+
+1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
@@ -324,6 +331,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 1. *Joint Laboratory for Geosciences Interoperability Partnership*. Funding Source: NASA (with EDAC acting as a Subcontractor to George Mason University). Performance Period: 8/07-12/08. Award Amount: $40,000 (EDAC’s subcontract amount). PI for EDAC’s activity for this project.
 
 1. *New Mexico Environment Department, Environmental GIS (eGIS)*. Funding Source: New Mexico Environment Department. Performance Period: 10/06-6/07. Award Amount: $66,166. PI for overall project. 
+
+1. *Project for Internet Networking*. Funding Source: US Department of State (partial) through their *Middle East Partnership Initiative*. Performance Period: 2006-2009. Technical Lead, Richard Wood PI. Project described in doi:10.1111/dome.12061. 
 
 1. *New Mexico EPSCoR (Experimental Program to Stimulate Competitive Research) RII (NM NEW) Grant, Hydrology Program*. Funding Source: National Science Foundation. Performance Period: 2005-2008. Award Amount: $1,984,617, EDAC Portion: $259,060. Served as PI for Earth Data Analysis Center (EDAC) work under the statewide EPSCoR program.
 
@@ -391,16 +400,16 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Online Resources
 
-"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
-
 "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+
+"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
 "Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
 
 
 ### Presented Papers
 
-
+1. O'Brien, Patrick, Kenning Arlitsch, Jeff Mixter, Susan Borda, Karl Benedict, Jonathan Wheeler, Sue Baughman, Gary Roebuck, Leila Sterman, Scott Young (2016). "Improving the Reported Use and Impact of Your Institutional Repository (IR)". Presentation to the Digital Library Federation Forum.  Milwaukee, Wisconsin. November 8, 2016.
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
@@ -414,7 +423,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl. 2015. 'Open Data Resources and Strategies - Efficient Discovery and Use of Global to Local Open Data.' Invited presentation at the Bureau of Business & Economic Research's New Mexico Data Users Conference. November 19, 2015. [http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
-1. Benedict, Karl. 2015. 'The Network as Instrument'. Invited presentation at the *Connecting Science, Education and Economic Development* workshop. 
+1. Benedict, Karl. 2015. 'The Network as Instrument'. Invited presentation at the *Connecting Science, Education and Economic Development* workshop. Norther New Mexico College. Española, NM. November 5, 2015. [http://karlbenedict.com/presentations/2015-11-NNMC/2015-11_NetworkAsInstrument.pdf](http://karlbenedict.com/presentations/2015-11-NNMC/2015-11_NetworkAsInstrument.pdf)
 
 1. Benedict, Karl. 2015. 'Open Data: The Why and How of Contributing to and Benefitting from the Open Data Ecosystem'. Invited paper presented at the New Mexico Geographic Information Council meeting. Albuquerque, NM. October 30, 2015.[http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf](http://karlbenedict.com/presentations/2015-10-NMGIC/2015-NMGIC-Benedict.pdf)
 
@@ -660,11 +669,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students)
+1. *Introduction to Spatial Data Management* (OILS 515, University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (scheduled)
+1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid - scheduled)
 
 1. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
@@ -678,7 +687,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
-1. *Library Instruction* - single session classes\: first year Library Introduction, spatial data management, Geographic Information Systems
+1. *Library Instruction* - single session classes\: first year Library Introduction, research data management, Geographic Information Systems
 
 
 
@@ -723,7 +732,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 ### Geographic Information Technologies
 
 * ArcGIS
-* Quantum GIS
+* Quantum GIS/QGIS
 * MapServer
 * GeoServer
 * ArcIMS
@@ -737,6 +746,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Information management architectures
 * Services-oriented architectures
 * Cloud computing
+* Docker Container Development and Hosting
 * Basic principles of computer network design
 * Windows, Linux and Mac OS X 
 * Core productivity applications: MS Office, Apple iWork applications, Google Drive
@@ -789,7 +799,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2016-02-15
+* revised: 2016-11
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
