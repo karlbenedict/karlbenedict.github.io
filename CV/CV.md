@@ -805,7 +805,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2016-11
+* revised: 2017-01
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
