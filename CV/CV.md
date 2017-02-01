@@ -373,6 +373,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
+1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209). Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
+
+
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
 1. Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
