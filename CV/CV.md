@@ -126,6 +126,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## University Service
 
+2016 - Present, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
+
 2016 - 2017, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
 
 2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
@@ -375,6 +377,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
+1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209). Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
+
+
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
 1. Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
@@ -417,7 +422,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl, Jonathan Wheeler. "Leveraging IR Collections as Distributed Service Layers". Paper presented at the Coalition for Networked Information Spring Meeting. Albuquerque, NM. April 4, 2017. 
 
+1. Benedict, Karl, W. Christopher Lenhardt, Joshua Young. 2016. "Distilling Design Patterns From Agile Curation Case Studies". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 12-16, 2016. [http://karlbenedict.com/presentations/2016-12-AGU/2016-12_AGUPoster.pdf](http://karlbenedict.com/presentations/2016-12-AGU/2016-12_AGUPoster.pdf)
+
 1. O'Brien, Patrick, Kenning Arlitsch, Jeff Mixter, Susan Borda, Karl Benedict, Jonathan Wheeler, Sue Baughman, Gary Roebuck, Leila Sterman, Scott Young (2016). "Improving the Reported Use and Impact of Your Institutional Repository (IR)". Presentation to the Digital Library Federation Forum.  Milwaukee, Wisconsin. November 8, 2016.
+
+1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in SharedValues and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
@@ -807,7 +816,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2016-11
+* revised: 2017-01
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
