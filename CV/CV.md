@@ -10,7 +10,7 @@ Albuquerque, NM 87131-0001
 kbene@unm.edu
 
 (Google Voice) (505) 926-1324    
-http://archaeoworld.com 
+http://archaeoworld.com    
 GitHub: [http://github.com/karlbenedict](http://github.com/karlbenedict)   
 Twitter: @kbene    
 Skype: karlbenedict    
