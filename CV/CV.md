@@ -482,21 +482,25 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl Kent. 2012. ‘Primer on Data Management: Components of a Data Management Plan’. Data management planning workshop presentation based upon original materials developed by Robert Cook, Oak Ridge National Laboratory. American Geophysical Union Fall Meeting. San Francisco, CA. December, 2012. 
 
-1. Benedict, Karl Kent. 2012. ‘Scientific Data Preservation’. Presentation at New Mexico Cyberinfrastructure Day. Albuquerque, NM. September, 2012
-
-1. Benedict, Karl Kent. 2012. ‘New Mexico Resources for Data Sharing and Collaboration’. Paper presented at the fourth annual EPSCoR Tri-State Consortium Meeting. Sun Valley, ID. April 3-6, 2012. 
-
-1. Benedict, Karl Kent. 2012. ‘Architecture Model for OGC Service Integration’. Paper presented at the Federation of Earth Science Information Partners Winter Meeting. Washington, DC. January, 2012. 
-
 1. Benedict, Karl Kent, Deana Pennington. 2012. ‘Necessary but not Sufficient - Closing the Gap Between Data Access and Use by a Broad User Community’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012.
-
-1. Benedict, Karl Kent, and Soren Scott. 2012. ‘Visualization of Observational Data in Google Earth’. Paper/Demonstration presented at the fourth annual EPSCoR Tri-State meeing. Sun Valley, ID. April 3-6, 2012.
 
 1. Benedict, Karl Kent, Soren Scott, William Hudspeth. 2012. ‘Data Management for Flexible Access - Implementation and Lessons Learned from work with Multiple User Communities’ *Invited Paper* for the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012. 
 
 1. Del Rio, Nicholas, Deana D. Pennington, Paulo Pinheiro da Silva, Karl K. Benedict. 2012. ‘Streamlining Data Access Services and Data Analysis Services Integration’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012. 
 
 1. Hudspeth, William, Karl K. Benedict, Soren Scott. 2012. ‘Generation of Multiple Metadata Formats from a Geospatial Data Repository’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012.
+
+1. Benedict, Karl Kent. 2012. ‘Scientific Data Preservation’. Presentation at New Mexico Cyberinfrastructure Day. Albuquerque, NM. September, 2012
+
+1. Jia, Lijuan, Stone, Mark C., and Karl Kent Benedict (2012). 'Improved Dust Forecasts Through Running Soil Moisture Model in San Juan River Basin'. World Water & Environmental Resources Congress, ASCE. Albuquerque, NM. May 2012.  
+
+1. Benedict, Karl Kent. 2012. ‘New Mexico Resources for Data Sharing and Collaboration’. Paper presented at the fourth annual EPSCoR Tri-State Consortium Meeting. Sun Valley, ID. April 3-6, 2012. 
+
+1. Benedict, Karl Kent, and Soren Scott. 2012. ‘Visualization of Observational Data in Google Earth’. Paper/Demonstration presented at the fourth annual EPSCoR Tri-State meeing. Sun Valley, ID. April 3-6, 2012.
+
+1. Benedict, Karl Kent. 2012. ‘Architecture Model for OGC Service Integration’. Paper presented at the Federation of Earth Science Information Partners Winter Meeting. Washington, DC. January, 2012. 
+
+1. Jia, Lijuan, Mark C. Stone, and Karl Kent Benedict (2011). 'Enhanced Dust Production Forecasts Using Soil Moisture Models in the Four Corners Areas'. American Water Resources Association Annual Meeting, Albuquerque, NM. November 7-10, 2011. 
 
 1. Benedict, Karl Kent. 2011. ‘Advanced Cloud Computing for Geospatial Applications’ Paper presented at the meeting of the New Mexico Geographic Information Council. Albuquerque, NM. May 13, 2011. 
 
@@ -808,7 +812,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2017-01
+* revised: 2017-05
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
