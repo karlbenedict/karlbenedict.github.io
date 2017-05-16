@@ -9,7 +9,6 @@ Albuquerque, NM 87131-0001
 (o) (505) 277-5256    
 kbene@unm.edu
 
-
 (Google Voice) (505) 926-1324    
 http://archaeoworld.com    
 Twitter: @kbene    
@@ -30,17 +29,20 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
-* Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for Geography and Environmental Studies (7/15-Present)
+* Subject Librarian for Earth & Planetary Sciences (7/15-Present)
 * Subject Librarian for Computer Science (7/15-Present)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
-7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
-
 4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
+
+7/04-5/17, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
 3/14-6/14, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Geospatial and Environmental Data Scientist*
 
 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director*
+
+7/08-6/14, University of New Mexico, Department of Geography: *Research Assistant Professor*
 
 9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
 
@@ -107,13 +109,15 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *College Assessment Committee*
 
-2016 - Present, *Presiding Officer*
+2017 - 2018, *Past Presiding Officer*
+
+2014 - 2016, 2016 - 2018, *Promotion & Tenure Committee* (Chair, 2015-Present)
+
+2016 - 2017, *Presiding Officer*
 
 2015 - 2016, *Presiding Officer Elect*
 
 2015 - 2016, *Faculty Search Committee (Chair)* for the Research Support Librarian for the Life Sciences position 
-
-2014 - Present, *Promotion & Tenure Committee* (Chair, 2015-Present)
 
 2014 - 2015, *Faculty Search Committee* for three faculty positions: Research Support Librarians for Engineering, Physical Sciences and Life Sciences
 
@@ -128,27 +132,27 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
 
-2016 - 2017, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
-
-2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
+2016 - Present, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
 
 2016 - Present, *External Advisory Committee*, UNM Center for Advanced Research Computing
 
-2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
+2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
+
+2011 - 2017, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - 2017)
 
 2013 - 2016, *Planning Committee*, CI-Day/D2K Planning Committee
 
-2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - Present)
+2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
 
 2001 - 2004, *Committee Member*, University of New Mexico Student Health Center Advisory Committee
 
+1999 - 2004, *Committee Member*, University of New Mexico Student Health Insurance Committee
+
 2000 - 2001, *Committee Member*, University of New Mexico Strategic Planning Task Force
 
 2000, *Committee Member*, University of New Mexico Acceptable Computer Use Policy drafting committee
-
-1999 - 2004, *Committee Member*, University of New Mexico Student Health Insurance Committee
 
 1999, *Committee Member*, University of New Mexico Free Expression Policy Drafting Committee
 
@@ -207,7 +211,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Proposal Review Panels
 
-2017. NASA Advanced Information Systems Technology Review Panel
+2017, NASA Advanced Information Systems Technology Review Panel
 
 2014, 2016, NASA Earth Science Applications: Health and Air Quality Review Panel
 
@@ -222,9 +226,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
-2017. *Computers & Geosciences*
+2017, *Computers & Geosciences*
 
-2017. *Sensors*
+2017, *Sensors*
 
 2016, *International Journal of Geo-Information*
 
@@ -234,7 +238,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2013, *Computers, Environment and Urban Systems*
 
-2007, 2008, 2010, 2011, 2016, *International Journal of Geographical Information Science*
+2007, 2008, 2010, 2011, 2016 *International Journal of Geographical Information Science*
 
 
 ### Symposia Organized
@@ -306,8 +310,6 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
-
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
@@ -315,6 +317,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 ### Completed
+
+1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
 
 1. *CC\*IIE Networking Infrastructure: Network Expansion to Support Data Intensive Research and Computation at the University of New Mexico*. Funding Agency: National Science Foundation. Award Number: 1440779. Performance Period 9/1/2014-2/28/2017. Award Amount: $498,620.00.  Co-I, Steven Perry (UNM) PI.
 
@@ -378,7 +382,6 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 ### Book Chapters
 
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209). Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
-
 
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
@@ -694,7 +697,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid - scheduled)
+1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid)
 
 1. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
@@ -708,8 +711,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
-1. *Library Instruction* - single session classes\: first year Library Introduction, research data management, Geographic Information Systems
-
+1. *Library Instruction* - single session classes\: first year Library Introduction, Biology and Chemistry research databases and strategies, research data management, Geographic Information Systems
 
 
 ## Technical Skills
@@ -719,6 +721,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Python
 * Perl
 * BASH shell
+* Jupyter/IPython notebooks
 
 ### Web Development
 
