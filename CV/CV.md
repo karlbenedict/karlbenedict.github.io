@@ -112,7 +112,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017 - 2018, *Past Presiding Officer*
 
-2014 - 2016, 2016 - 2018, *Promotion & Tenure Committee* (Chair, 2015-Present)
+2014 - 2016, 2016 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
 
 2016 - 2017, *Presiding Officer*
 
