@@ -1,0 +1,27 @@
+<html>
+
+<head>
+	<link rel="stylesheet" href="css/OpenLayers_01.css" type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.0.1/ol.css" type="text/css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.0.1/ol.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<h1>Visualizing our World through Open Data</h1>
+	
+	<div id='map' class='map'><!-- This is where the map will be displayed --></div>
+
+	<select id='layerSelector' name='layers' oninput='setMapType(this.value)'>
+	    <option value="neoBMNG">Blue Marble Next Generation (NASA NEO)</option>
+	    <option value="neoFires1m">Global Active Fires - 1 Month - Feb, 2017 (NASA NEO)</option>
+	    <option value="neoAOD1m">Global Aerosol Optical Thickness - 1 month - March, 2017 (NASA NEO)</option>
+	    <option value="neoSST">Average Sea Surface Temperature 1985-1997 (NASA NEO)</option>
+	    <option value="nwsBaseReflectivity">Radar Base Reflectivity (NOAA NWS)</option>
+	</select>
+
+    	
+	<!-- import the external Javascript file with the map configuration code -->
+	<script src="js/OpenLayers_03_wms.js" type="text/javascript"></script>
+</body>
+
+</html>
