@@ -504,6 +504,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl Kent. 2012. ‘Scientific Data Preservation’. Presentation at New Mexico Cyberinfrastructure Day. Albuquerque, NM. September, 2012
 
+1. Benedict, Karl Kent. 2012. 'Interoperability ... Now What?'. Presentation at the Federation of Earth Science Information Partners Summer Meeting. Madison, Wisconsin. July, 2012. https://vimeo.com/47612641
+
 1. Jia, Lijuan, Stone, Mark C., and Karl Kent Benedict (2012). 'Improved Dust Forecasts Through Running Soil Moisture Model in San Juan River Basin'. World Water & Environmental Resources Congress, ASCE. Albuquerque, NM. May 2012.  
 
 1. Benedict, Karl Kent. 2012. ‘New Mexico Resources for Data Sharing and Collaboration’. Paper presented at the fourth annual EPSCoR Tri-State Consortium Meeting. Sun Valley, ID. April 3-6, 2012. 
