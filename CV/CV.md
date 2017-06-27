@@ -112,7 +112,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017 - 2018, *Past Presiding Officer*
 
-2014 - 2016, 2016 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
+2016 - 2017, *Strategic Planning Steering Committee*
+
+2014 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
 
 2016 - 2017, *Presiding Officer*
 
@@ -186,6 +188,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Elected Positions
+
+2016 - Present, *Nomination Committee* of the Federation of Earth Science Information Partners
 
 2014 - 2017, *President* of the Foundation for Earth Science Board of Directors
 
