@@ -32,7 +32,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
 * Subject Librarian for Geography and Environmental Studies (7/15-Present)
 * Subject Librarian for Earth & Planetary Sciences (7/15-Present)
-* Subject Librarian for Computer Science (7/15-Present)
+* Subject Librarian for Computer Science (5/17-Present)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
 4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
@@ -215,6 +215,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Proposal Review Panels
+
+2017, IMLS National Leadership Grants for Libraries
 
 2017, NASA Advanced Information Systems Technology Review Panel
 
