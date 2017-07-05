@@ -440,6 +440,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
+1. Kalhor, Elmira, Katie Zemlick, Janie Chermak, Karl Benedict. 2016. "Data Management and New Mexico's Water‐Energy Nexus". Paper presented at the American Water Resources Association 2016 Summer Specialty Conference. Sacramento, CA. July 11-13, 2016. 
+
 1. Benedict, Karl, Jonathan Wheeler. 2016. "Assessment of the Impact of Research Data Services: Building a Foundation for Ongoing Assessment". Poster presented at the American Library Association Annual Conference. Orlando, FL. June 25, 2016. [http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf](http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf) 
 
 1. Benedict, Karl, Mark Servilla, Kristin Vanderbilt, Jonathan Wheeler. 2015. "Linking data repositories - an illustration of agile data curation principles through robust documentation and multiple application programming interfaces". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 14, 2015. [http://karlbenedict.com/presentations/2015-12-AGU/AGU2015-Benedict_poster_linked.pdf](http://karlbenedict.com/presentations/2015-12-AGU/AGU2015-Benedict_poster_linked.pdf)
@@ -803,15 +805,17 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
-Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In Process. 
+Jigar Patel, Ph.D., Computer Science, University of Nevada, Reno. In process. 
+
+Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
+
+Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2016. Dissertation Title: "The Influence of Student Characteristics and Culture on the Preferred Ways of Learning of Online College Students"
 
 Lijuan Jia, Ph.D, Civil Engineering, University of New Mexico. Committee Member. Completed 2014. Dissertation Title: "Toward Improved Evaluation Of Large Scale Hydrologic Models: Estimation And Quantification Of Parameter Uncertainty"
 
-Jigar Patel, PhD., Computer Science, University of Nevada, Reno. In process. 
-
 Eric Cox, MS, Geography. University of New Mexico. Completed 5/2013. Thesis Title “The Effect of Airport Delays on the Evolution of the U.S. Air Travel Network”. 
 
-Kelly Monteleone, PhD., Anthropology. University of New Mexico. Completed 5/2013. Dissertation Title “Lost Worlds: Locating submerged archaeological sites in southeast Alaska”
+Kelly Monteleone, Ph.D., Anthropology. University of New Mexico. Completed 5/2013. Dissertation Title “Lost Worlds: Locating submerged archaeological sites in southeast Alaska”
 
 Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member. Completed 5/2012. Thesis Title: “Data Access and Visualization Benefits from Implementation of a Hydrologic Information System”
 
@@ -832,7 +836,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2017-05
+* revised: 2017-07
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
