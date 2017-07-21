@@ -376,7 +376,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: http://dx.doi.org/10.1894/0038-4909-58.2.150. URL: [http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150][1]
 
-1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2013. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
+1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
 
 1. Qunying Huang , Chaowei Yang , Karl Benedict , Songqing Chen, Abdelmounaam Rezgui & Jibo Xie. 2012. 'Utilize cloud computing to support dust storm forecasting', *International Journal of Digital Earth*. 6(4):338-355. DOI:10.1080/17538947.2012.749949. URL: [http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949][3]
 
@@ -392,7 +392,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
-1. Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
+1. Huang, Qunying, Jizhe Xia, Manzhu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
 
 1. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
