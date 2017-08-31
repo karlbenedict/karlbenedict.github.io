@@ -250,6 +250,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Symposia Organized
 
+1. 'Federation of Earth Science Information Partners Summer Meeting, 2017' held in Bloomington, IN, July 22-25, 2017. Co-convener of session *The Institutional Research Data Lifecycle - a Researcher's Gauge of Frustration?* [https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration](https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration)
+
 1. 'Research Data Alliance, Eighth Plenary Meeting'. Denver, Colorado. September 15, 2016. Session Co-Organizer - *Planning meeting for Agile Data Curation Interest Group and Associated Working Group(s)*
 
 1. 'SciDataCon' held in Denver, CO, September 11-13. Co-convener of session *Agile Research Data Curation: Conceptual model, perspectives, and exemplars*. 
