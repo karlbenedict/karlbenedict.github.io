@@ -9,9 +9,9 @@ Albuquerque, NM 87131-0001
 (o) (505) 277-5256    
 kbene@unm.edu
 
-
 (Google Voice) (505) 926-1324    
 http://archaeoworld.com    
+GitHub: [http://github.com/karlbenedict](http://github.com/karlbenedict)   
 Twitter: @kbene    
 Skype: karlbenedict    
 Google+: https://plus.google.com/u/0/+KarlBenedictPlus/posts
@@ -30,17 +30,20 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
-* Subject Librarian for Geography, Earth & Planetary Sciences (7/15-Present)
-* Subject Librarian for Computer Science (7/15-Present)
+* Subject Librarian for Geography and Environmental Studies (7/15-Present)
+* Subject Librarian for Earth & Planetary Sciences (7/15-Present)
+* Subject Librarian for Computer Science (5/17-Present)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
-7/04-Present, University of New Mexico, Department of Anthropology: *Adjunct Professor*
-
 4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
+
+7/04-5/17, University of New Mexico, Department of Anthropology: *Adjunct Professor*
 
 3/14-6/14, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor - Geospatial and Environmental Data Scientist*
 
 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director*
+
+7/08-6/14, University of New Mexico, Department of Geography: *Research Assistant Professor*
 
 9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
 
@@ -107,13 +110,17 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *College Assessment Committee*
 
-2016 - Present, *Presiding Officer*
+2017 - 2018, *Past Presiding Officer*
+
+2016 - 2017, *Strategic Planning Steering Committee*
+
+2014 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
+
+2016 - 2017, *Presiding Officer*
 
 2015 - 2016, *Presiding Officer Elect*
 
 2015 - 2016, *Faculty Search Committee (Chair)* for the Research Support Librarian for the Life Sciences position 
-
-2014 - Present, *Promotion & Tenure Committee* (Chair, 2015-Present)
 
 2014 - 2015, *Faculty Search Committee* for three faculty positions: Research Support Librarians for Engineering, Physical Sciences and Life Sciences
 
@@ -128,27 +135,27 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
 
-2016 - 2017, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
-
-2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
+2016 - Present, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
 
 2016 - Present, *External Advisory Committee*, UNM Center for Advanced Research Computing
 
-2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
+2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
+
+2011 - 2017, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - 2017)
 
 2013 - 2016, *Planning Committee*, CI-Day/D2K Planning Committee
 
-2011 - Present, *Leadership Team Member*, University of New Mexico Research Storage Consortium (Chair, 2016 - Present)
+2015, *Contributor* to the UNM's Draft Data Center and Server Room Standard
 
 1998 - 2000, 2011 - 2013, *Committee Member*, University of New Mexico Faculty Senate Computer/Information Technology Use Committee
 
 2001 - 2004, *Committee Member*, University of New Mexico Student Health Center Advisory Committee
 
+1999 - 2004, *Committee Member*, University of New Mexico Student Health Insurance Committee
+
 2000 - 2001, *Committee Member*, University of New Mexico Strategic Planning Task Force
 
 2000, *Committee Member*, University of New Mexico Acceptable Computer Use Policy drafting committee
-
-1999 - 2004, *Committee Member*, University of New Mexico Student Health Insurance Committee
 
 1999, *Committee Member*, University of New Mexico Free Expression Policy Drafting Committee
 
@@ -182,6 +189,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Elected Positions
 
+2016 - Present, *Nomination Committee* of the Federation of Earth Science Information Partners
+
 2014 - 2017, *President* of the Foundation for Earth Science Board of Directors
 
 2010 - 2017, *Board Member*, Foundation for Earth Science Board of Directors
@@ -207,7 +216,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Proposal Review Panels
 
-2017. NASA Advanced Information Systems Technology Review Panel
+2017, IMLS National Leadership Grants for Libraries
+
+2017, NASA Advanced Information Systems Technology Review Panel
 
 2014, 2016, NASA Earth Science Applications: Health and Air Quality Review Panel
 
@@ -222,9 +233,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
-2017. *Computers & Geosciences*
+2017, *Computers & Geosciences*
 
-2017. *Sensors*
+2017, *Sensors*
 
 2016, *International Journal of Geo-Information*
 
@@ -234,10 +245,12 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2013, *Computers, Environment and Urban Systems*
 
-2007, 2008, 2010, 2011, 2016, *International Journal of Geographical Information Science*
+2007, 2008, 2010, 2011, 2016 *International Journal of Geographical Information Science*
 
 
 ### Symposia Organized
+
+1. 'Federation of Earth Science Information Partners Summer Meeting, 2017' held in Bloomington, IN, July 22-25, 2017. Co-convener of session *The Institutional Research Data Lifecycle - a Researcher's Gauge of Frustration?* [https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration](https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration)
 
 1. 'Research Data Alliance, Eighth Plenary Meeting'. Denver, Colorado. September 15, 2016. Session Co-Organizer - *Planning meeting for Agile Data Curation Interest Group and Associated Working Group(s)*
 
@@ -306,8 +319,6 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
-
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
@@ -315,6 +326,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 ### Completed
+
+1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
 
 1. *CC\*IIE Networking Infrastructure: Network Expansion to Support Data Intensive Research and Computation at the University of New Mexico*. Funding Agency: National Science Foundation. Award Number: 1440779. Performance Period 9/1/2014-2/28/2017. Award Amount: $498,620.00.  Co-I, Steven Perry (UNM) PI.
 
@@ -365,7 +378,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: http://dx.doi.org/10.1894/0038-4909-58.2.150. URL: [http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150][1]
 
-1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2013. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
+1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
 
 1. Qunying Huang , Chaowei Yang , Karl Benedict , Songqing Chen, Abdelmounaam Rezgui & Jibo Xie. 2012. 'Utilize cloud computing to support dust storm forecasting', *International Journal of Digital Earth*. 6(4):338-355. DOI:10.1080/17538947.2012.749949. URL: [http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949][3]
 
@@ -379,10 +392,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209). Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
-
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
-1. Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
+1. Huang, Qunying, Jizhe Xia, Manzhu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
 
 1. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
@@ -429,6 +441,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in SharedValues and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
+
+1. Kalhor, Elmira, Katie Zemlick, Janie Chermak, Karl Benedict. 2016. "Data Management and New Mexico's Water‐Energy Nexus". Paper presented at the American Water Resources Association 2016 Summer Specialty Conference. Sacramento, CA. July 11-13, 2016. 
 
 1. Benedict, Karl, Jonathan Wheeler. 2016. "Assessment of the Impact of Research Data Services: Building a Foundation for Ongoing Assessment". Poster presented at the American Library Association Annual Conference. Orlando, FL. June 25, 2016. [http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf](http://karlbenedict.com/presentations/2016-06_ALA/2016-06-AIA_Poster.pdf) 
 
@@ -490,21 +504,27 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl Kent. 2012. ‘Primer on Data Management: Components of a Data Management Plan’. Data management planning workshop presentation based upon original materials developed by Robert Cook, Oak Ridge National Laboratory. American Geophysical Union Fall Meeting. San Francisco, CA. December, 2012. 
 
-1. Benedict, Karl Kent. 2012. ‘Scientific Data Preservation’. Presentation at New Mexico Cyberinfrastructure Day. Albuquerque, NM. September, 2012
-
-1. Benedict, Karl Kent. 2012. ‘New Mexico Resources for Data Sharing and Collaboration’. Paper presented at the fourth annual EPSCoR Tri-State Consortium Meeting. Sun Valley, ID. April 3-6, 2012. 
-
-1. Benedict, Karl Kent. 2012. ‘Architecture Model for OGC Service Integration’. Paper presented at the Federation of Earth Science Information Partners Winter Meeting. Washington, DC. January, 2012. 
-
 1. Benedict, Karl Kent, Deana Pennington. 2012. ‘Necessary but not Sufficient - Closing the Gap Between Data Access and Use by a Broad User Community’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012.
-
-1. Benedict, Karl Kent, and Soren Scott. 2012. ‘Visualization of Observational Data in Google Earth’. Paper/Demonstration presented at the fourth annual EPSCoR Tri-State meeing. Sun Valley, ID. April 3-6, 2012.
 
 1. Benedict, Karl Kent, Soren Scott, William Hudspeth. 2012. ‘Data Management for Flexible Access - Implementation and Lessons Learned from work with Multiple User Communities’ *Invited Paper* for the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012. 
 
 1. Del Rio, Nicholas, Deana D. Pennington, Paulo Pinheiro da Silva, Karl K. Benedict. 2012. ‘Streamlining Data Access Services and Data Analysis Services Integration’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012. 
 
 1. Hudspeth, William, Karl K. Benedict, Soren Scott. 2012. ‘Generation of Multiple Metadata Formats from a Geospatial Data Repository’ Poster presentation at the American Geophysical Union Fall Meeting. San Francisco, CA. December 2012.
+
+1. Benedict, Karl Kent. 2012. ‘Scientific Data Preservation’. Presentation at New Mexico Cyberinfrastructure Day. Albuquerque, NM. September, 2012
+
+1. Benedict, Karl Kent. 2012. 'Interoperability ... Now What?'. Presentation at the Federation of Earth Science Information Partners Summer Meeting. Madison, Wisconsin. July, 2012. https://vimeo.com/47612641
+
+1. Jia, Lijuan, Stone, Mark C., and Karl Kent Benedict (2012). 'Improved Dust Forecasts Through Running Soil Moisture Model in San Juan River Basin'. World Water & Environmental Resources Congress, ASCE. Albuquerque, NM. May 2012.  
+
+1. Benedict, Karl Kent. 2012. ‘New Mexico Resources for Data Sharing and Collaboration’. Paper presented at the fourth annual EPSCoR Tri-State Consortium Meeting. Sun Valley, ID. April 3-6, 2012. 
+
+1. Benedict, Karl Kent, and Soren Scott. 2012. ‘Visualization of Observational Data in Google Earth’. Paper/Demonstration presented at the fourth annual EPSCoR Tri-State meeing. Sun Valley, ID. April 3-6, 2012.
+
+1. Benedict, Karl Kent. 2012. ‘Architecture Model for OGC Service Integration’. Paper presented at the Federation of Earth Science Information Partners Winter Meeting. Washington, DC. January, 2012. 
+
+1. Jia, Lijuan, Mark C. Stone, and Karl Kent Benedict (2011). 'Enhanced Dust Production Forecasts Using Soil Moisture Models in the Four Corners Areas'. American Water Resources Association Annual Meeting, Albuquerque, NM. November 7-10, 2011. 
 
 1. Benedict, Karl Kent. 2011. ‘Advanced Cloud Computing for Geospatial Applications’ Paper presented at the meeting of the New Mexico Geographic Information Council. Albuquerque, NM. May 13, 2011. 
 
@@ -690,7 +710,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid - scheduled)
+1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid)
 
 1. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
@@ -704,8 +724,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
-1. *Library Instruction* - single session classes\: first year Library Introduction, research data management, Geographic Information Systems
-
+1. *Library Instruction* - single session classes\: first year Library Introduction, Biology and Chemistry research databases and strategies, research data management, Geographic Information Systems
 
 
 ## Technical Skills
@@ -715,6 +734,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Python
 * Perl
 * BASH shell
+* Jupyter/IPython notebooks
 
 ### Web Development
 
@@ -787,15 +807,17 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
-Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In Process. 
+Jigar Patel, Ph.D., Computer Science, University of Nevada, Reno. In process. 
+
+Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
+
+Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2016. Dissertation Title: "The Influence of Student Characteristics and Culture on the Preferred Ways of Learning of Online College Students"
 
 Lijuan Jia, Ph.D, Civil Engineering, University of New Mexico. Committee Member. Completed 2014. Dissertation Title: "Toward Improved Evaluation Of Large Scale Hydrologic Models: Estimation And Quantification Of Parameter Uncertainty"
 
-Jigar Patel, PhD., Computer Science, University of Nevada, Reno. In process. 
-
 Eric Cox, MS, Geography. University of New Mexico. Completed 5/2013. Thesis Title “The Effect of Airport Delays on the Evolution of the U.S. Air Travel Network”. 
 
-Kelly Monteleone, PhD., Anthropology. University of New Mexico. Completed 5/2013. Dissertation Title “Lost Worlds: Locating submerged archaeological sites in southeast Alaska”
+Kelly Monteleone, Ph.D., Anthropology. University of New Mexico. Completed 5/2013. Dissertation Title “Lost Worlds: Locating submerged archaeological sites in southeast Alaska”
 
 Stephen Brown, MA, Civil Engineering, University of New Mexico. Committee Member. Completed 5/2012. Thesis Title: “Data Access and Visualization Benefits from Implementation of a Hydrologic Information System”
 
@@ -816,7 +838,7 @@ New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](ht
 
 Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
 
-* revised: 2017-01
+* revised: 2017-07
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
