@@ -178,6 +178,10 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## Professional Service
 
+### Task Force/Working Group Service
+
+2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management*
+
 ### Advisory/Steering Committee Appointments
 
 2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
@@ -190,6 +194,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Elected Positions
+
+2017 - Present, *Co-Chair* of the DataONE Users Group. 
 
 2016 - Present, *Nomination Committee* of the Federation of Earth Science Information Partners
 
@@ -220,7 +226,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017, IMLS National Leadership Grants for Libraries
 
+2017, NASA Earth Science Technology Office Review Panel
+
 2017, NASA Advanced Information Systems Technology Review Panel
+
+2017, NSF EarthCube Proposal Reviewer
 
 2014, 2016, NASA Earth Science Applications: Health and Air Quality Review Panel
 
@@ -239,7 +249,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017, *Sensors*
 
-2016, *International Journal of Geo-Information*
+2016, 2017 *International Journal of Geo-Information*
 
 2016, *Big Data Research*
 
@@ -247,7 +257,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2013, *Computers, Environment and Urban Systems*
 
-2007, 2008, 2010, 2011, 2016 *International Journal of Geographical Information Science*
+2007, 2008, 2010, 2011, 2016, 2017, *International Journal of Geographical Information Science*
 
 
 ### Symposia Organized
@@ -321,13 +331,14 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
-
 1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
-1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 ### Completed
+
+1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
+
+1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
 1. *Native American Water Rights Document Preservation and Discovery Enhancement Project*. Funding Agency: Bureau of Reclamation (Award to the American Indian Law Center - Sub-award to the University of New Mexico, College of University Libraries and Learning Sciences). Performance Period 5/1/2016-4/30/2017. Award Amount: $43,692 (CUL&LS portion of a total project budget of $53,059). UNM PI. 
 
@@ -432,9 +443,13 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
+1. Karl Benedict, W. Christopher Lenhardt, Joshua Wellzie Young, Larissa Chamley Gordon, Steve Hughes, Suresh Kumar Santhana Vannan, Mark Parsons. "Agile Data Curation Case Studies Leading to the Identification and Development of Data Curation Design Patterns". Poster presented at the American Geophysical Union Fall Meeting. New Orleans, LA. December 13, 2017. [http://karlbenedict.com/presentations/2017-12-AGU/2017-12-AGU_AgileDesignPatterns.pdf](http://karlbenedict.com/presentations/2017-12-AGU/2017-12-AGU_AgileDesignPatterns.pdf) 
+
 1. Comerford, Kevin, Karl Benedict, Antonio Guillermo Martínez Largo. "Building Digital Preservation Infrastructure: Partners, Tools and Services". Paper presented at the Coalition for Networked Information Spring Meeting. Albuquerque, NM. April 4, 2017. 
 
 1. Benedict, Karl, Jonathan Wheeler. "Leveraging IR Collections as Distributed Service Layers". Paper presented at the Coalition for Networked Information Spring Meeting. Albuquerque, NM. April 4, 2017. 
+
+1. Benedict, Karl, Christopher Lenhardt, Joshua Young. 2017. "Community Engagement for Developing the Principles and Practices of Agile Data Curation". Poster presented at the International Digital Curation Conference. Edinburgh, Scotland. February 20-23, 2017. [http://www.dcc.ac.uk/webfm_send/2423](http://www.dcc.ac.uk/webfm_send/2423)
 
 1. Benedict, Karl, W. Christopher Lenhardt, Joshua Young. 2016. "Distilling Design Patterns From Agile Curation Case Studies". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 12-16, 2016. [http://karlbenedict.com/presentations/2016-12-AGU/2016-12_AGUPoster.pdf](http://karlbenedict.com/presentations/2016-12-AGU/2016-12_AGUPoster.pdf)
 
@@ -708,11 +723,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017 (scheduled)
+1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017. 
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
-1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid)
+1. *Internet Mapping* (Geography 485L/585L, University of New Mexico, Department of Geography): Fall 2009 (lecture/lab); Spring 2011 (lecture/lab); Spring 2012 (online); Spring 2013 (online); Spring 2014 (hybrid); Spring 2016 (hybrid); Spring 2017 (hybrid); Spring 2018 (hybrid). 
 
 1. *Women, Water and Work* (Civil Engineering 492 \[Cross-listed with American Studies, Earth & Planetary Sciences and History] - contributed two class sessions relating to spatial data management and analysis): Spring 2012
 
