@@ -337,11 +337,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. *Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing environments on health and disease*. Funding Agency: NASA. Performance Period: 1/12-12/13 (Award extended to 9/14). Award Amount: $204,215 (EDAC’s portion of the total project budget of $668,233). Institutional PI, Deanna Pennington (UTEP) PI. 
 
-1. *Collaborative Research: Cyberinfrastructure Development for the Western Consortium of Idaho, Nevada, and New Mexico*. Funding Agency: National Science Foundation. Performance Period 9/18/09-8/31/12. Award Amount: $316,161 (EDAC’s portion of the total project budget of $2,000,000).  Co-I, Gayle Dana (Desert Research Institute) PI. 
+1. *Collaborative Research: Cyberinfrastructure Development for the Western Consortium of Idaho, Nevada, and New Mexico*. Funding Agency: National Science Foundation. Award Number:0918635. Performance Period 9/18/09-8/31/12. Award Amount: $316,161 (EDAC’s portion of the total project budget of $2,000,000).  Co-I, Gayle Dana (Desert Research Institute) PI. 
 
 1. *Feasibility of Development and Deployment into Public Health Decision Support systems of a Multi-resolution Nested Dust Forecast System Enabled by Open Standards Based Model and Data Interoperability*. Funding Agency: NASA. Performance Period: 7/31/09-1/31/11. Award Amount: $109,575.55. PI.
 
-1. *New Mexico EPSCoR RII3: Climate Change Impacts on New Mexico's Mountain Sources of Water*. Funding Agency: National Science Foundation. Performance Period: 9/08-8/13. Award Amount: $1,578,824 (EDAC’s portion of the total project budget of $15,000,000). Co-I, William Michener (NM EPSCoR State Office) PI.
+1. *New Mexico EPSCoR RII3: Climate Change Impacts on New Mexico's Mountain Sources of Water*. Funding Agency: National Science Foundation. Award Number:0814449. Performance Period: 9/08-8/13. Award Amount: $1,578,824 (EDAC’s portion of the total project budget of $15,000,000). Co-I, William Michener (NM EPSCoR State Office) PI.
 
 1. *Development of a Flexible Pavement Database for Local Calibration of MEPDG*. Funding Agency: NM Department of Transportation. Performance Period: 6/08-5/11. Award Amount: $31,310 (EDAC’s portion of the total project budget of $439,787). Co-I for EDAC’s project component, Rafi Tarifdar (UNM CE Department) PI.
 
