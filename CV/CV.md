@@ -133,6 +133,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## University Service
 
+2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
+
 2016 - Present, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
 
 2016 - Present, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
@@ -390,7 +392,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Book Chapters
 
-1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209). Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
+1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
