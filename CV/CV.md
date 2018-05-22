@@ -331,12 +331,12 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
+1. *Energize New Mexico*. Funding Agency: National Science Foundation. Award Number:1301346. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
 
 ### Completed
 
-1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
+1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Award Number:1329470. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Measuring Up: Assessing Accuracy of Reported Use and Impact of Digital Repositories*. Funding Agency: Institute of Museum and Library Services (IMLS). Performance Period 12/01/2014-11/30/2017. Award Amount: $31610 + $99747 cost share (The University Libraries portion of the total project budget of $500,000). Institutional PI, Kenning Arlitsch (MSU) PI. 
 
