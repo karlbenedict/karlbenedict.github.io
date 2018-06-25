@@ -182,11 +182,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Professional
 
-#### Task Force/Working Group Service
+**Task Force/Working Group Service**
 
 2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management*
 
-#### Advisory/Steering Committee Appointments
+**Advisory/Steering Committee Appointments**
 
 2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
@@ -197,7 +197,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
 
 
-#### Elected Positions
+**Elected Positions**
 
 2017 - Present, *Co-Chair* of the DataONE Users Group. 
 
