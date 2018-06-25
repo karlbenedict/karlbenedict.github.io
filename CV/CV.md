@@ -7,7 +7,7 @@ MSC05 3020
 1 University of New Mexico    
 Albuquerque, NM 87131-0001    
 (o) (505) 277-5256    
-(m) (505) 239-4115
+(m) (505) 239-4115    
 kbene@unm.edu
 
 http://archaeoworld.com    
