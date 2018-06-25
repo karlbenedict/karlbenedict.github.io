@@ -12,7 +12,7 @@ kbene@unm.edu
 
 http://archaeoworld.com    
 GitHub: [karlbenedict](http://github.com/karlbenedict)   
-Twitter: [@kbene](https://twitter.com/kbene)    
+Twitter: [\@kbene](https://twitter.com/kbene)    
 Skype: karlbenedict    
 <!--Google+: https://plus.google.com/u/0/+KarlBenedictPlus/posts-->
 
