@@ -270,7 +270,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ, July 17-20. Co-convener of session *Governance Transition for the Data Management Training Clearinghouse Expansion Project*. [https://tinyurl.com/ydek7b2g](https://tinyurl.com/ydek7b2g)
 
-1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ, July 17-20. Co-convener of session *Research Project Management Principles and Tools; AKA Juggling 101, Parts 1 & 2*. [https://tinyurl.com/y9uu9wgl](https://tinyurl.com/y9uu9wgl)/[https://tinyurl.com/y92h24xh](https://tinyurl.com/y92h24xh)
+1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ, July 17-20. Co-convener of session *Research Project Management Principles and Tools; AKA Juggling 101, Parts 1 & 2*. [Part 1 - https://tinyurl.com/y9uu9wgl](https://tinyurl.com/y9uu9wgl) / [Part 2 - https://tinyurl.com/y92h24xh](https://tinyurl.com/y92h24xh)
 
 1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ, July 17-20. Co-convener of session *Data Management Training Working Group Business Meeting & IMLS Project Launch*. [https://tinyurl.com/y8umxsqy](https://tinyurl.com/y8umxsqy)
 
