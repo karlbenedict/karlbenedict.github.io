@@ -104,7 +104,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 7/97-2/01, Karl Benedict Data Processing and Analysis: Consultant
 
 
-## College Service
+## Service
 
 ### UNM - College of University Libraries and Learning Sciences
 
@@ -135,7 +135,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2010, *Committee Member* (as a representative of UNM’s College of Arts and Sciences) of UNM’s Enterprise Email Steering Committee
   
 
-## University Service
+### University
 
 2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
 
@@ -180,13 +180,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 1995 - 1996, *Vice President*, Anthropology Graduate Student Union
 
 
-## Professional Service
+### Professional
 
-### Task Force/Working Group Service
+#### Task Force/Working Group Service
 
 2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management*
 
-### Advisory/Steering Committee Appointments
+#### Advisory/Steering Committee Appointments
 
 2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
@@ -197,7 +197,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
 
 
-### Elected Positions
+#### Elected Positions
 
 2017 - Present, *Co-Chair* of the DataONE Users Group. 
 
@@ -264,7 +264,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2007, 2008, 2010, 2011, 2016, 2017, *International Journal of Geographical Information Science*
 
 
-### Symposia Organized
+## Symposia Organized
 
 1. 'American Geophysical Union Fall Meeting, 2018' held in Washington, DC, December 10-14, 2018. Co-convener of session *IN020: Data for Our Changing Earth: Impacts of Open Access to Quality Geospatial Data from Trusted Sources*. 
 
