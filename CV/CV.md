@@ -772,14 +772,13 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. *Library Instruction* - single session classes\: first year Library Introduction, Biology and Chemistry research databases and strategies, research data management, Geographic Information Systems
 
 1. Coffee & Code Workshop Series (with Jonathan Wheeler)
-
-* Command Line Basics [https://github.com/unmrds/cc-command-line](https://github.com/unmrds/cc-command-line)
-* Basics of Programming with Python [https://github.com/unmrds/cc-python](https://github.com/unmrds/cc-python)
-* Distributed Version Control with Git, GitHub, and GitLab [https://github.com/unmrds/cc-version-control](https://github.com/unmrds/cc-version-control)
-* Write Once Use Everywhere with Markdown and Pandoc [https://github.com/unmrds/cc-pandoc](https://github.com/unmrds/cc-pandoc)
-* Database Basics [https://github.com/unmrds/cc-database-basics](https://github.com/unmrds/cc-database-basics)
-* Introduction to Jupyter Notebooks [https://github.com/unmrds/cc-jupyter](https://github.com/unmrds/cc-jupyter)
-* Introduction to Containerization with Docker [https://github.com/unmrds/cc-containers](https://github.com/unmrds/cc-containers)
+	a. Command Line Basics [https://github.com/unmrds/cc-command-line](https://github.com/unmrds/cc-command-line)
+	a. Basics of Programming with Python [https://github.com/unmrds/cc-python](https://github.com/unmrds/cc-python)
+	a. Distributed Version Control with Git, GitHub, and GitLab [https://github.com/unmrds/cc-version-control](https://github.com/unmrds/cc-version-control)
+	a. Write Once Use Everywhere with Markdown and Pandoc [https://github.com/unmrds/cc-pandoc](https://github.com/unmrds/cc-pandoc)
+	a. Database Basics [https://github.com/unmrds/cc-database-basics](https://github.com/unmrds/cc-database-basics)
+	a. Introduction to Jupyter Notebooks [https://github.com/unmrds/cc-jupyter](https://github.com/unmrds/cc-jupyter)
+	a. Introduction to Containerization with Docker [https://github.com/unmrds/cc-containers](https://github.com/unmrds/cc-containers)
 
 
 ## Technical Skills
