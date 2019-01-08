@@ -134,6 +134,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### UNM - College of Arts & Sciences
 
+2018-2019, *Faculty Search Committee Member*, UNM Geography and Environmental Studies Department
+
 2010, *Committee Member* (as a representative of UNM’s College of Arts and Sciences) of UNM’s Enterprise Email Steering Committee
   
 
@@ -272,9 +274,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## Symposia Organized
 
-1. 'American Geophysical Union Fall Meeting, 2018' held in Washington, DC, December 10-14, 2018. Co-convener of session *IN020: Data for Our Changing Earth: Impacts of Open Access to Quality Geospatial Data from Trusted Sources*. 
+1. 'American Geophysical Union Fall Meeting, 2018' held in Washington, DC, December 10-14, 2018. Co-convener of session *IN020: Data for Our Changing Earth: Impacts of Open Access to Quality Geospatial Data from Trusted Sources*. [https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60499](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60499)
 
-1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 18, 2018. Co-convener of session *Data Management Training Working Group Business Meeting & IMLS Project Launch*.
+1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 18, 2018. Co-convener of session *Data Management Training Working Group Business Meeting & IMLS Project Launch*. [https://sched.co/EyqP](https://sched.co/EyqP)
 
 1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 17, 2018. Co-convener of session *Governance Transition for the Data Management Training Clearinghouse Expansion Project*. [https://sched.co/Eypd](https://sched.co/Eypd)
 
@@ -482,14 +484,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. William Michener, Karl Benedict, Nancy Maron, Robert J. Sandusky. "DataONE: From DataNet Project to Engaged Global Community in the Contemporary Data Landscape". Project briefing presented at the Coalition for Networked Information Fall Meeting. Washington, DC. December 11, 2018. [http://karlbenedict.com/presentations/2018-12_CNI/CNI_Fall_2018_Membership_Briefing_DataONE_v.6-2.pdf](http://karlbenedict.com/presentations/2018-12_CNI/CNI_Fall_2018_Membership_Briefing_DataONE_v.6-2.pdf)
 
-
 1. Nancy Hoebelheinrich, Karl Benedict, Erin Robinson. "Governance Transition for the Data Management Training Clearinghouse Expansion Project". Session/paper presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. July 18, 2018. [http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf](http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf)
-
 
 1. Karl Benedict, Ward Fleri. "Research Project Management Principles & Tools (Juggling 101)". Workshop presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. Presentation: [https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf](https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf); GitHub repository with all workshop materials: [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
 
 1. Karl Benedict. "Data Management Needs and Opportunities for Hazard Mitigation Plans". Invited presentation to the U.S. Virgin Islands Hazard Mitigation Planning Workshop. St. Thomas, U.S. Virgin Islands. June 15, 2018. [http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf](http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf)
-
 
 1. Karl Benedict, Tim Castillo, Kevin Comerford, and Mary Wise. "Virtual Reality Technologies@UNM". Presentation for UNM Tech Days. Albuquerque, NM. June 7, 2018. [http://karlbenedict.com/presentations/2018-06-TechDays/FINAL_UNM_TECH_DAYS.pdf](http://karlbenedict.com/presentations/2018-06-TechDays/FINAL_UNM_TECH_DAYS.pdf)
 
@@ -800,11 +799,13 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Coffee & Code Workshop Series (with Jonathan Wheeler)
 	a. Command Line Basics [https://github.com/unmrds/cc-command-line](https://github.com/unmrds/cc-command-line)
 	a. Basics of Programming with Python [https://github.com/unmrds/cc-python](https://github.com/unmrds/cc-python)
-	a. Distributed Version Control with Git, GitHub, and GitLab [https://github.com/unmrds/cc-version-control](https://github.com/unmrds/cc-version-control)
+	a. Distributed Version Control with Git, GitHub, and GitLab (introduction and advanced) [https://github.com/unmrds/cc-version-control](https://github.com/unmrds/cc-version-control)
 	a. Write Once Use Everywhere with Markdown and Pandoc [https://github.com/unmrds/cc-pandoc](https://github.com/unmrds/cc-pandoc)
 	a. Database Basics [https://github.com/unmrds/cc-database-basics](https://github.com/unmrds/cc-database-basics)
 	a. Introduction to Jupyter Notebooks [https://github.com/unmrds/cc-jupyter](https://github.com/unmrds/cc-jupyter)
 	a. Introduction to Containerization with Docker [https://github.com/unmrds/cc-containers](https://github.com/unmrds/cc-containers)
+	a. Natural Language Processing with Python [https://github.com/unmrds/cc-nlp](https://github.com/unmrds/cc-nlp)
+	a. Introduction to R and RStudio [https://github.com/unmrds/cc-R-RStudio](https://github.com/unmrds/cc-R-RStudio)
 
 
 ## Technical Skills
