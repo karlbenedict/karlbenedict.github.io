@@ -114,7 +114,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - 2017, *Strategic Planning Steering Committee*
 
-2014 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
+2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2019)
 
 2016 - 2017, *Presiding Officer*
 
@@ -184,7 +184,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Advisory/Steering Committee Appointments
 
-2015 - Present, *Technical Advisory Committee* (Chair), Digital Preservation Network
+2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
 2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
 
@@ -194,6 +194,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Elected Positions
+
+2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
 
 2017 - Present, *Co-Chair* of the DataONE Users Group. 
 
@@ -224,6 +226,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Proposal Review Panels
 
+2018, UNM Native Environmental Health Equity Research Center Pilot Project Grants Program
+
 2017, IMLS National Leadership Grants for Libraries
 
 2017, NASA Earth Science Technology Office Review Panel
@@ -232,7 +236,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017, NSF EarthCube Proposal Reviewer
 
-2014, 2016, NASA Earth Science Applications: Health and Air Quality Review Panel
+2014, 2016, 2018 NASA Earth Science Applications: Health and Air Quality Review Panel
 
 2014, NM EPSCoR Diversity Innovation Working Group Review Panel
 
@@ -245,11 +249,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
-2017, *Computers & Geosciences*
+2017, 2018 *Computers & Geosciences*
 
 2017, *Sensors*
 
-2016, 2017 *International Journal of Geo-Information*
+2016, 2017, 2018 *ISPRS International Journal of Geo-Information*
 
 2016, *Big Data Research*
 
@@ -261,6 +265,12 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ### Symposia Organized
+
+1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 18, 2018. Co-convener of session *Data Management Training Working Group Business Meeting & IMLS Project Launch*.
+
+1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 17, 2018. Co-convener of session *Governance Transition for the Data Management Training Clearinghouse Expansion Project*. [https://sched.co/Eypd](https://sched.co/Eypd)
+
+1. 'DataONE Users Group Meeting, 2018' held in Tucson, AZ. July 16, 2018. Co-organized the annual meeting of the DataONE Users Group. 
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2017' held in Bloomington, IN, July 22-25, 2017. Co-convener of session *The Institutional Research Data Lifecycle - a Researcher's Gauge of Frustration?* [https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration](https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration)
 
@@ -331,10 +341,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-5/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
+1. *New Mexico SMART Grid Center*. Funding Agency: National Science Foundation (Award no. NSF OIA-1757207). Award amoung: $20,000,000. Performance period 9/1/2018-8/31/2023 (estimated). Senior personnel.
 
+1. *Development of an Enhanced and Expanded Data Management Training Clearinghouse*. Funding Agency: Institute of Museum and Library Services (Award no. LG-70-18-0092-18). Performance Period: :July 01, 2018 - June 30, 2021. Award Amount: $ 249,630.00. Project PI. 
 
 ### Completed
+
+1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-11/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
@@ -386,6 +399,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 ## Publications
 
 ### Journal Articles
+
+1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: [https://doi.org/10.1108/OIR-02-2018-0056](https://doi.org/10.1108/OIR-02-2018-0056)
 
 1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
 
@@ -442,6 +457,31 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers
+
+1. Karl Benedict, Jonathan Wheeler. "The Coffee and Code Workshop Platform, an Integrated System for Analytic Tool Training Workshops and Tool Use". Poster presented at the American Geophysical Union Fall Meeting. Washington, DC. December 13, 2018. [http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_Coffee_and_Code_Poster.pdf](http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_Coffee_and_Code_Poster.pdf)
+
+1. Karl Benedict, Robert J. Sandusky, Amber E. Budden, Matthew B. Jones. "Engaging the DataONE Community in Sustainability Planning and Execution to Enable Future Evolution and Use of the DataONE Cyberinfrastructure". Poster presented at the American Geophysical Union Fall Meeting. Washington, DC. December 11, 2018. [http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_DataONE_Community_Poster.pdf](http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_DataONE_Community_Poster.pdf)
+
+1. William Michener, Karl Benedict, Nancy Maron, Robert J. Sandusky. "DataONE: From DataNet Project to Engaged Global Community in the Contemporary Data Landscape". Project briefing presented at the Coalition for Networked Information Fall Meeting. Washington, DC. December 11, 2018. [http://karlbenedict.com/presentations/2018-12_CNI/CNI_Fall_2018_Membership_Briefing_DataONE_v.6-2.pdf](http://karlbenedict.com/presentations/2018-12_CNI/CNI_Fall_2018_Membership_Briefing_DataONE_v.6-2.pdf)
+
+
+1. Nancy Hoebelheinrich, Karl Benedict, Erin Robinson. "Governance Transition for the Data Management Training Clearinghouse Expansion Project". Session/paper presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. July 18, 2018. [http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf](http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf)
+
+
+1. Karl Benedict, Ward Fleri. "Research Project Management Principles & Tools (Juggling 101)". Workshop presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. Presentation: [https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf](https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf); GitHub repository with all workshop materials: [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
+
+1. Karl Benedict. "Data Management Needs and Opportunities for Hazard Mitigation Plans". Invited presentation to the U.S. Virgin Islands Hazard Mitigation Planning Workshop. St. Thomas, U.S. Virgin Islands. June 15, 2018. [http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf](http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf)
+
+
+1. Karl Benedict, Tim Castillo, Kevin Comerford, and Mary Wise. "Virtual Reality Technologies@UNM". Presentation for UNM Tech Days. Albuquerque, NM. June 7, 2018. [http://karlbenedict.com/presentations/2018-06-TechDays/FINAL_UNM_TECH_DAYS.pdf](http://karlbenedict.com/presentations/2018-06-TechDays/FINAL_UNM_TECH_DAYS.pdf)
+
+1. Jonathan Wheeler, Karl Benedict. "Coffee & Code To Go". Presentation for UNM Tech Days. Albuquerque, NM. June 8, 2018. [https://github.com/unmrds/cc-tech-days/blob/master/Coffee_and_Code_2_Go.ipynb](https://github.com/unmrds/cc-tech-days/blob/master/Coffee_and_Code_2_Go.ipynb)
+
+1. Jonathan Wheeler, Karl Benedict. "Fostering Communities of Practice in Data Management". Paper presented at the Coalition for Networked Information Spring Meeting. San Diego, CA. April 12, 2018. [http://karlbenedict.com/presentations/2018-04-CNI/wheeler_benedict_CNI_18.pdf](http://karlbenedict.com/presentations/2018-04-CNI/wheeler_benedict_CNI_18.pdf)
+
+1. Karl Benedict. "Opportunities for research data discovery and reuse - lessons learned from 20 years of geospatial data platform evolution". Invited presentation for the University of Florida Data Symposium. Gainesville, FL. March 19, 2018. PDF version: [http://karlbenedict.com/presentations/2018-03-UF/2018-03_UF_Benedict.pdf](http://karlbenedict.com/presentations/2018-03-UF/2018-03_UF_Benedict.pdf), HTML Presentation version: [http://karlbenedict.com/presentations/2018-03-UF/2018-03_UF_Benedict.html](http://karlbenedict.com/presentations/2018-03-UF/2018-03_UF_Benedict.html)
+
+1. Karl Benedict. "Building from the Middle Out: Research Data Services at UNM". Invited presentation for the American Geophysical Union Heads and Chairs group. Webinar. February 16, 2018. [http://karlbenedict.com/presentations/2018-02-AGU_HeadsAndChairs/2018-02_AGU-HeadsAndChairs.pdf](http://karlbenedict.com/presentations/2018-02-AGU_HeadsAndChairs/2018-02_AGU-HeadsAndChairs.pdf)
 
 1. Karl Benedict, W. Christopher Lenhardt, Joshua Wellzie Young, Larissa Chamley Gordon, Steve Hughes, Suresh Kumar Santhana Vannan, Mark Parsons. "Agile Data Curation Case Studies Leading to the Identification and Development of Data Curation Design Patterns". Poster presented at the American Geophysical Union Fall Meeting. New Orleans, LA. December 13, 2017. [http://karlbenedict.com/presentations/2017-12-AGU/2017-12-AGU_AgileDesignPatterns.pdf](http://karlbenedict.com/presentations/2017-12-AGU/2017-12-AGU_AgileDesignPatterns.pdf) 
 
@@ -826,7 +866,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 Jigar Patel, Ph.D., Computer Science, University of Nevada, Reno. In process. 
 
-Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
+Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2018. Dissertation Title: "Learning Statistics Through Guided Block Play A Pre-Curriculum in Statistical Literacy" 
 
 Linda Barril, Ph.D, Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2016. Dissertation Title: "The Influence of Student Characteristics and Culture on the Preferred Ways of Learning of Online College Students"
 
@@ -851,11 +891,11 @@ American Association of Geographers (2010-present, [http://www.aag.org/](http://
 
 American Geophysical Union (2008-present, [http://sites.agu.org/](http://sites.agu.org/))
 
-New Mexico Geographic Information Council (~2001-present, [http://nmgic.com/](http://nmgic.com/))
+New Mexico Geographic Information Council (~2001-2018, [http://nmgic.com/](http://nmgic.com/))
 
-Society for American Archaeology (~1995-present, [http://saa.org/](http://saa.org/))
+Society for American Archaeology (~1995-2017, [http://saa.org/](http://saa.org/))
 
-* revised: 2017-07
+* revised: 2019-01
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
