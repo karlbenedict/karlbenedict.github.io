@@ -7,14 +7,14 @@ MSC05 3020
 1 University of New Mexico    
 Albuquerque, NM 87131-0001    
 (o) (505) 277-5256    
+(m) (505) 239-4115    
 kbene@unm.edu
 
-(Google Voice) (505) 926-1324    
 http://archaeoworld.com    
-GitHub: [http://github.com/karlbenedict](http://github.com/karlbenedict)   
-Twitter: @kbene    
+GitHub: [karlbenedict](http://github.com/karlbenedict)   
+Twitter: [\@kbene](https://twitter.com/kbene)    
 Skype: karlbenedict    
-Google+: https://plus.google.com/u/0/+KarlBenedictPlus/posts
+<!--Google+: https://plus.google.com/u/0/+KarlBenedictPlus/posts-->
 
 ## Education
 
@@ -104,11 +104,17 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 7/97-2/01, Karl Benedict Data Processing and Analysis: Consultant
 
 
-## College Service
+## Service
 
 ### UNM - College of University Libraries and Learning Sciences
 
 2016 - Present, *College Assessment Committee*
+
+2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2019)
+
+2018, *Faculty Search Committee* for the Director of the UNM University Press
+
+2017, *Faculty Search Committee (Chair)* for the Data Curation Librarian position
 
 2017 - 2018, *Past Presiding Officer*
 
@@ -131,15 +137,15 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2010, *Committee Member* (as a representative of UNM’s College of Arts and Sciences) of UNM’s Enterprise Email Steering Committee
   
 
-## University Service
+### University
 
 2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
-
-2016 - Present, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
 
 2016 - Present, *Committee Member*, UNM Faculty Senate Graduate and Professional Committee
 
 2016 - Present, *External Advisory Committee*, UNM Center for Advanced Research Computing
+
+2016 - 2017, *Committee Member*, UNM Tenure and Promotion Working Group for Community Engaged Scholarship
 
 2016 - 2017, *Committee Member*, UNM Research Strategic Planning Committee
 
@@ -176,13 +182,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 1995 - 1996, *Vice President*, Anthropology Graduate Student Union
 
 
-## Professional Service
+### Professional
 
-### Task Force/Working Group Service
+**Task Force/Working Group Service**
 
 2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management*
 
-### Advisory/Steering Committee Appointments
+**Advisory/Steering Committee Appointments**
 
 2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
@@ -193,7 +199,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
 
 
-### Elected Positions
+**Elected Positions**
 
 2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
 
@@ -259,18 +265,22 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2015, *Earth Science Informatics*
 
-2013, *Computers, Environment and Urban Systems*
+2013, 2015 *Computers, Environment and Urban Systems*
 
 2007, 2008, 2010, 2011, 2016, 2017, *International Journal of Geographical Information Science*
 
 
-### Symposia Organized
+## Symposia Organized
+
+1. 'American Geophysical Union Fall Meeting, 2018' held in Washington, DC, December 10-14, 2018. Co-convener of session *IN020: Data for Our Changing Earth: Impacts of Open Access to Quality Geospatial Data from Trusted Sources*. 
 
 1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 18, 2018. Co-convener of session *Data Management Training Working Group Business Meeting & IMLS Project Launch*.
 
 1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ. July 17, 2018. Co-convener of session *Governance Transition for the Data Management Training Clearinghouse Expansion Project*. [https://sched.co/Eypd](https://sched.co/Eypd)
 
 1. 'DataONE Users Group Meeting, 2018' held in Tucson, AZ. July 16, 2018. Co-organized the annual meeting of the DataONE Users Group. 
+
+1. 'Earth Science Information Partners Summer Meeting, 2018' held in Tucson, AZ, July 17-20. Co-convener of session *Research Project Management Principles and Tools; AKA Juggling 101, Parts 1 & 2*. [Part 1 - https://tinyurl.com/y9uu9wgl](https://tinyurl.com/y9uu9wgl) / [Part 2 - https://tinyurl.com/y92h24xh](https://tinyurl.com/y92h24xh)
 
 1. 'Federation of Earth Science Information Partners Summer Meeting, 2017' held in Bloomington, IN, July 22-25, 2017. Co-convener of session *The Institutional Research Data Lifecycle - a Researcher's Gauge of Frustration?* [https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration](https://2017esipsummermeeting.sched.com/event/As6w/the-institutional-research-data-lifecycle-a-researchers-gauge-of-frustration)
 
@@ -420,6 +430,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
+1. Faundeen, J., Percivall, G., Baros, S., Baumann, P., Becker, P., Behnke, J., Benedict, K., Colaiacomo, L., Di, L., Doescher, C., Dominguez, J., Edberg, R., Ferguson, M., Foreman, S., Giaretta, D., Hutchison, V.B., Ip, A., James, N.L., Khalsa, S.J.S., Lazorchak, B., Lewis, A., Li, F., Lymburner, L., Lynnes, C.S., Martens, M., Melrose, R., Morris, S., Mueller, N., Navale, V., Navulur, K., Newman, D.J., Oliver, S., Purss, M., Ramapriyan, H.K., Rew, R., Rosen, M., Savickas, J., Sixsmith, J., Sohre, T., Thau, D., Uhlir, P., Wang, L.-W., Young, J. (in press). 'Chapter 6: Archiving and Access Systems for Remote Sensing', in: *Manual of Remote Sensing*. 4th ed. American Society for Photogrammetry & Remote Sensing. <!--https://doi.org/10.14358/mors.1-6-->
+
 1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
 1. Huang, Qunying, Jizhe Xia, Manzhu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
@@ -446,10 +458,16 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf][11]
 
+### Popular Articles
+
+1. Benedict, Karl Kent. 2006. EDAC: Interoperability and multi-application (sic). *Invited OGC Column* for *GIM International*. January 2006, 20(1). p. 17
+
 
 ### Online Resources
 
-"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+"UNM RDS Content Platform for the Coffee & Code Workshop Series". Docker-based platform for workshop presentation and participant use for multiple workshops developed as part of the UNM Research Data Services *Coffee & Code* workshop series. [https://github.com/unmrds/cc-content-platform](https://github.com/unmrds/cc-content-platform)
+
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
@@ -751,10 +769,6 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, Karl Kent. 1989. ‘Cultural Resource Inventory Report #295, Stanislaus Helicopter Fire Salvage, Cultural Resource Inventory Report 05-16-295’. U.S. Forest Service Report. Report on file at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
 
-### Popular Articles
-
-1. Benedict, Karl Kent. 2006. EDAC: Interoperability and multi-application (sic). *Invited OGC Column* for *GIM International*. January 2006, 20(1). p. 17
-
 ## Instruction
 
 ### Invited Lectures
@@ -782,6 +796,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. *Introduction to GIS* (80 hour intensive course, taught at the University of Malta, sponsored by the World Laboratory, Lausanne Switzerland): Sept. 2003, Oct. 2004
 
 1. *Library Instruction* - single session classes\: first year Library Introduction, Biology and Chemistry research databases and strategies, research data management, Geographic Information Systems
+
+1. Coffee & Code Workshop Series (with Jonathan Wheeler)
+	a. Command Line Basics [https://github.com/unmrds/cc-command-line](https://github.com/unmrds/cc-command-line)
+	a. Basics of Programming with Python [https://github.com/unmrds/cc-python](https://github.com/unmrds/cc-python)
+	a. Distributed Version Control with Git, GitHub, and GitLab [https://github.com/unmrds/cc-version-control](https://github.com/unmrds/cc-version-control)
+	a. Write Once Use Everywhere with Markdown and Pandoc [https://github.com/unmrds/cc-pandoc](https://github.com/unmrds/cc-pandoc)
+	a. Database Basics [https://github.com/unmrds/cc-database-basics](https://github.com/unmrds/cc-database-basics)
+	a. Introduction to Jupyter Notebooks [https://github.com/unmrds/cc-jupyter](https://github.com/unmrds/cc-jupyter)
+	a. Introduction to Containerization with Docker [https://github.com/unmrds/cc-containers](https://github.com/unmrds/cc-containers)
 
 
 ## Technical Skills
@@ -864,7 +887,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
-Jigar Patel, Ph.D., Computer Science, University of Nevada, Reno. In process. 
+Sean Thomas O'Neill, MS, Geography. University of New Mexico. Committee Member. In process. 
+
+Manuel Jimenez, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
 
 Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2018. Dissertation Title: "Learning Statistics Through Guided Block Play A Pre-Curriculum in Statistical Literacy" 
 
@@ -896,6 +921,7 @@ New Mexico Geographic Information Council (~2001-2018, [http://nmgic.com/](http:
 Society for American Archaeology (~1995-2017, [http://saa.org/](http://saa.org/))
 
 * revised: 2019-01
+
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 [2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
