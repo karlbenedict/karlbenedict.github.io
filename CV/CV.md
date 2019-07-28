@@ -28,11 +28,12 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*
 
+* Director of Information Technology (5/19-Present)*
 * Director of Research Data Services (7/14-Present)
-* Faculty Librarian for the Centennial Science and Engineering Library (7/15-Present)
+* Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Geography and Environmental Studies (7/15-Present)
-* Subject Librarian for Earth & Planetary Sciences (7/15-Present)
-* Subject Librarian for Computer Science (5/17-Present)
+* Subject Librarian for Earth & Planetary Sciences (7/15-5/19)
+* Subject Librarian for Computer Science (5/17-5/19)
 * Subject Librarian for the Life Sciences (7/15-4/16)
 
 4/08-Present, University of New Mexico, Geography Department: *Affiliated Faculty*
@@ -110,6 +111,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *College Assessment Committee*
 
+2018 - 2020, *Sabbatical Committee* (Chair, 2019-2020)
+
 2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2019)
 
 2018, *Faculty Search Committee* for the Director of the UNM University Press
@@ -119,8 +122,6 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2017 - 2018, *Past Presiding Officer*
 
 2016 - 2017, *Strategic Planning Steering Committee*
-
-2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2019)
 
 2016 - 2017, *Presiding Officer*
 
@@ -140,6 +141,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
   
 
 ### University
+
+2018 - Present, *Committee Member*, UNM IT Research Technology Advisory Committee (*Research Data Management Working Group* Chair)
 
 2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
 
@@ -207,7 +210,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2017 - Present, *Co-Chair* of the DataONE Users Group. 
 
-2016 - Present, *Nomination Committee* of the Federation of Earth Science Information Partners
+2016 - 2018, *Nomination Committee* of the Federation of Earth Science Information Partners
 
 2014 - 2017, *President* of the Foundation for Earth Science Board of Directors
 
@@ -234,17 +237,17 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Proposal Review Panels
 
+2017, 2019 NASA Advanced Information Systems Technology Review Panel
+
+2014, 2016, 2018 NASA Earth Science Applications: Health and Air Quality Review Panel
+
 2018, UNM Native Environmental Health Equity Research Center Pilot Project Grants Program
 
 2017, IMLS National Leadership Grants for Libraries
 
 2017, NASA Earth Science Technology Office Review Panel
 
-2017, NASA Advanced Information Systems Technology Review Panel
-
 2017, NSF EarthCube Proposal Reviewer
-
-2014, 2016, 2018 NASA Earth Science Applications: Health and Air Quality Review Panel
 
 2014, NM EPSCoR Diversity Innovation Working Group Review Panel
 
@@ -257,11 +260,15 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
+2019, *Data*
+
+2019, *Sustainability*
+
 2017, 2018 *Computers & Geosciences*
 
 2017, *Sensors*
 
-2016, 2017, 2018 *ISPRS International Journal of Geo-Information*
+2016, 2017, 2018, 2019 *ISPRS International Journal of Geo-Information*
 
 2016, *Big Data Research*
 
@@ -273,6 +280,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ## Symposia Organized
+
+1. 'DataONE Community Meeting, 2019' held in Tacoma, WA, July 15, 2019. Co-organizer, and Co-Chair for the meeting. 
 
 1. 'American Geophysical Union Fall Meeting, 2018' held in Washington, DC, December 10-14, 2018. Co-convener of session *IN020: Data for Our Changing Earth: Impacts of Open Access to Quality Geospatial Data from Trusted Sources*. [https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60499](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60499)
 
@@ -478,6 +487,10 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
+1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. 
+
+1. Karl Benedict. "Assessing Community Impact: a Sample of ESIP's Activities". **Invited presentation/case study** at the [*There is Value in Earth Observations: Can You Measure It?*](http://earsc.org/Sebs/workshop-2019/) workshop. Frascati, Italy. July 1-3, 2019. [http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf](http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf)
+
 1. Karl Benedict, Jonathan Wheeler. "The Coffee and Code Workshop Platform, an Integrated System for Analytic Tool Training Workshops and Tool Use". Poster presented at the American Geophysical Union Fall Meeting. Washington, DC. December 13, 2018. [http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_Coffee_and_Code_Poster.pdf](http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_Coffee_and_Code_Poster.pdf)
 
 1. Karl Benedict, Robert J. Sandusky, Amber E. Budden, Matthew B. Jones. "Engaging the DataONE Community in Sustainability Planning and Execution to Enable Future Evolution and Use of the DataONE Cyberinfrastructure". Poster presented at the American Geophysical Union Fall Meeting. Washington, DC. December 11, 2018. [http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_DataONE_Community_Poster.pdf](http://karlbenedict.com/presentations/2018-12_AGU/2018-12_AGU_DataONE_Community_Poster.pdf)
@@ -486,7 +499,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Nancy Hoebelheinrich, Karl Benedict, Erin Robinson. "Governance Transition for the Data Management Training Clearinghouse Expansion Project". Session/paper presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. July 18, 2018. [http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf](http://karlbenedict.com/presentations/2018-07-ESIP/Governance_Transition_for_the_Data_Management_Training_Clearinghouse.pdf)
 
-1. Karl Benedict, Ward Fleri. "Research Project Management Principles & Tools (Juggling 101)". Workshop presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. Presentation: [https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf](https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf); GitHub repository with all workshop materials: [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
+1. Karl Benedict, Ward Fleri. "Research Project Management Principles & Tools (Juggling 101)". Workshop presented at the Earth Science Information Partners Summer Meeting. Tucson, AZ. July 17, 2018. Presentation: [https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf](https://github.com/unmrds/cc-taskjuggler/blob/master/ESIP2018-PM-Workshop_reduced.pdf); GitHub repository with all workshop materials: [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
 
 1. Karl Benedict. "Data Management Needs and Opportunities for Hazard Mitigation Plans". Invited presentation to the U.S. Virgin Islands Hazard Mitigation Planning Workshop. St. Thomas, U.S. Virgin Islands. June 15, 2018. [http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf](http://karlbenedict.com/presentations/2018-06-USVI_HMP/2018-06_USVI-HazardMitigation_Benedict_skinny.pdf)
 
@@ -807,6 +820,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. Natural Language Processing with Python [https://github.com/unmrds/cc-nlp](https://github.com/unmrds/cc-nlp)
 	a. Introduction to R and RStudio [https://github.com/unmrds/cc-R-RStudio](https://github.com/unmrds/cc-R-RStudio)
 
+1. Carpentries (Certified Instructor - 2/2019)
+	a. Software Carpentry (May 2019) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+
 
 ## Technical Skills
 
@@ -888,7 +904,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
-Sean Thomas O'Neill, MS, Geography. University of New Mexico. Committee Member. In process. 
+Sean Thomas O'Neill, MS, Geography. University of New Mexico. Committee Member. Completed 5/2019. 
 
 Manuel Jimenez, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
 
@@ -921,7 +937,7 @@ New Mexico Geographic Information Council (~2001-2018, [http://nmgic.com/](http:
 
 Society for American Archaeology (~1995-2017, [http://saa.org/](http://saa.org/))
 
-* revised: 2019-01
+* revised: 2019-07
 
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
