@@ -1,3 +1,8 @@
+---
+title:  Curriculum Vitae - Karl Kent Benedict'
+...
+
+
 # Curriculum Vitae - Karl Kent Benedict
 
 ## Contact Information
