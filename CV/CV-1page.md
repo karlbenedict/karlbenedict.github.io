@@ -15,10 +15,7 @@ Albuquerque, NM 87131-0001
 
 ## Selected Employment/Professional Experience
 
-7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*
-
-* Director of Information Technology (5/19-Present)
-* Director of Research Data Services (7/14-Present)
+7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*: Director of Information Technology (5/19-Present), Director of Research Data Services (7/14-Present)
 
 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director* / Department of Geography: *Research Assistant Professor*
 
@@ -26,43 +23,23 @@ Albuquerque, NM 87131-0001
 
 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
-9/98-2/01, National Park Service, Pecos National Historical Park: *Data Analyst*
-
-5/95-2/01, Applied Earthworks, Inc.: *Data Analyst*
-
-/94-3/95, Ebert and Associates, Inc.: *Data Analyst*
-
-6/93-1/94, Applied Earthworks, Inc.: *Data Manager (part-time)*
-
-7/90-6/93, INFOTEC Research Inc./Applied Earthworks, Inc (name change for company): *Data Manager, Archaeological Field Director, Assistant Field Director, Lead Field Technician, Crew Chief, Field Technician*
-
 
 ### Selected Synergistic Experience
 
-**Task Force/Working Group Service**
-
-2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
-
-2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
-
-2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
-
-2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
-
-2012-14, 2019-2020, *President*, Earth Science Information Partners (ESIP). 
+| 2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
+| 2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
+| 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
+| 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
+| 2012-14, 2019-2020, *President*, Earth Science Information Partners (ESIP). 
 
 
 ## Selected Publications & Products
-
-1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: [https://doi.org/10.1108/OIR-02-2018-0056](https://doi.org/10.1108/OIR-02-2018-0056)
 
 1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
 
 1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
 
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
-
-1. "UNM RDS Content Platform for the Coffee & Code Workshop Series". Docker-based platform for workshop presentation and participant use for multiple workshops developed as part of the UNM Research Data Services *Coffee & Code* workshop series. [https://github.com/unmrds/cc-content-platform](https://github.com/unmrds/cc-content-platform)
 
 1. "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
 
