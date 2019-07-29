@@ -6,8 +6,10 @@
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{booktabs}
 \usepackage{setspace}
+\usepackage{titling}
 
 \onehalfspacing % reduces spacing following Headings
+\posttitle{\par\end{center}}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}

@@ -3,8 +3,7 @@ title:  Curriculum Vitae - Karl Kent Benedict
 ...
 
 Centennial Science and Engineering Library    
-MSC05 3020, 1 University of New Mexico    
-Albuquerque, NM 87131-0001    
+MSC05 3020, 1 University of New Mexico, Albuquerque, NM 87131-0001    
 (o) (505) 277-5256 | kbene@unm.edu | ORCID: [0000-0002-9109-2072](https://orcid.org/0000-0002-9109-2072)    
 
 ## Education
@@ -24,15 +23,6 @@ Albuquerque, NM 87131-0001
 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
 
-### Selected Synergistic Experience
-
-| 2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
-| 2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
-| 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
-| 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
-| 2012-14, 2019-2020, *President*, Earth Science Information Partners (ESIP). 
-
-
 ## Selected Publications & Products
 
 1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
@@ -42,6 +32,13 @@ Albuquerque, NM 87131-0001
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
 1. "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
+
+### Selected Synergistic Experience
+
+| 2012-14, 2019-2020, *President*, Earth Science Information Partners (ESIP). 
+| 2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
+| 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
+| 2010 - 2012, *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA)
 
 
 
