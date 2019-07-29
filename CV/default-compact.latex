@@ -10,6 +10,7 @@
 
 \onehalfspacing % reduces spacing following Headings
 \posttitle{\par\end{center}}
+\setlength{\droptitle}{-60pt}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
