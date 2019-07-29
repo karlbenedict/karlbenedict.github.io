@@ -10,6 +10,7 @@ Albuquerque, NM 87131-0001
 kbene@unm.edu
 
 <!-- http://archaeoworld.com -->    
+ORCID: [0000-0002-9109-2072](https://orcid.org/0000-0002-9109-2072)
 GitHub: [karlbenedict](http://github.com/karlbenedict)   
 Twitter: [\@kbene](https://twitter.com/kbene)    
 Skype: karlbenedict    
