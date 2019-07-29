@@ -9,7 +9,7 @@
 \usepackage{titling}
 
 \onehalfspacing % reduces spacing following Headings
-\posttitle{\par\end{center}}
+\posttitle{\par\end{center}\vskip 0.5em}
 \setlength{\droptitle}{-60pt}
 
 \providecommand{\tightlist}{%
@@ -152,7 +152,7 @@ $header-includes$
 $endfor$
 
 $if(title)$
-\title{$title$\vspace{-2ex}}
+\title{$title$}
 $endif$
 $if(subtitle)$
 \subtitle{$subtitle$}
