@@ -14,10 +14,13 @@ MSC05 3020, 1 University of New Mexico, Albuquerque, NM 87131-0001
 
 ### Selected Employment/Professional Experience
 
-| 7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences (CUL&LS): *Associate Professor*: Director of Information Technology (5/19-Present), Director of Research Data Services (7/14-Present)
-| 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director* / Department of Geography: *Research Assistant Professor*
-| 9/11-3/14, University of New Mexico, CUL&LS: *Research Assistant Professor*
-| 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
+7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences (CUL&LS): *Associate Professor*: Director of Information Technology (5/19-Present), Director of Research Data Services (7/14-Present)
+
+7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director* / Department of Geography: *Research Assistant Professor*
+
+9/11-3/14, University of New Mexico, CUL&LS: *Research Assistant Professor*
+
+2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
 ### Selected Publications & Products
 
