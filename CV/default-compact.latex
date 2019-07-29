@@ -166,7 +166,7 @@ $endif$
 
 \begin{document}
 $if(title)$
-\maketitle
+\thetitle %\maketitle
 $endif$
 
 $for(include-before)$
