@@ -14,24 +14,20 @@ MSC05 3020, 1 University of New Mexico, Albuquerque, NM 87131-0001
 
 ## Selected Employment/Professional Experience
 
-7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*: Director of Information Technology (5/19-Present), Director of Research Data Services (7/14-Present)
-
-7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director* / Department of Geography: *Research Assistant Professor*
-
-9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
-
-2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
-
+| 7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*: Director of Information Technology (5/19-Present), Director of Research Data Services (7/14-Present)
+| 7/08-6/14, University of New Mexico, Earth Data Analysis Center: *Director* / Department of Geography: *Research Assistant Professor*
+| 9/11-3/14, University of New Mexico, College of University Libraries and Learning Sciences: *Research Assistant Professor*
+| 2/01-6/08, University of New Mexico, Earth Data Analysis Center: *Senior Research Scientist, Research Scientist, IT Manager*
 
 ## Selected Publications & Products
 
-1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
+Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
 
-1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
+Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
 
-1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
+Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
-1. "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
 
 ### Selected Synergistic Experience
 
