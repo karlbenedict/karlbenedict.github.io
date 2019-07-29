@@ -1,9 +1,6 @@
 ---
-title:  Curriculum Vitae - Karl Kent Benedict'
+title:  Curriculum Vitae - Karl Kent Benedict
 ...
-
-
-# Curriculum Vitae - Karl Kent Benedict
 
 ## Contact Information
 
@@ -33,7 +30,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 7/14-Present, University of New Mexico, College of University Libraries and Learning Sciences: *Associate Professor*
 
-* Director of Information Technology (5/19-Present)*
+* Director of Information Technology (5/19-Present)
 * Director of Research Data Services (7/14-Present)
 * Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Geography and Environmental Studies (7/15-Present)
@@ -147,6 +144,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### University
 
+2019 - Present, *Committee Member*, UNM IT Academic Technology Advisory Committee (*Research Data Management Working Group* Chair)
+
 2018 - Present, *Committee Member*, UNM IT Research Technology Advisory Committee (*Research Data Management Working Group* Chair)
 
 2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
@@ -200,9 +199,9 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Advisory/Steering Committee Appointments**
 
-2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
-
 2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
+
+2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
 2011 - 2014, *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC)
 
@@ -269,11 +268,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2019, *Sustainability*
 
+2016, 2017, 2018, 2019 *ISPRS International Journal of Geo-Information*
+
 2017, 2018 *Computers & Geosciences*
 
-2017, *Sensors*
+2007, 2008, 2010, 2011, 2016, 2017, *International Journal of Geographical Information Science*
 
-2016, 2017, 2018, 2019 *ISPRS International Journal of Geo-Information*
+2017, *Sensors*
 
 2016, *Big Data Research*
 
@@ -281,10 +282,10 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2013, 2015 *Computers, Environment and Urban Systems*
 
-2007, 2008, 2010, 2011, 2016, 2017, *International Journal of Geographical Information Science*
-
 
 ## Symposia Organized
+
+1. "Earth Science Information Partners Summer Meeting 2019" held in Tacoma, WA, July 16-19, 2019. Session co-organizer for 'Assessment Frameworks and Dimensions for Educational & Training Resources' session . [https://sched.co/PtPh](https://sched.co/PtPh) 
 
 1. 'DataONE Community Meeting, 2019' held in Tacoma, WA, July 15, 2019. Co-organizer, and Co-Chair for the meeting. 
 
@@ -367,7 +368,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Currently Active
 
-1. *New Mexico SMART Grid Center*. Funding Agency: National Science Foundation (Award no. NSF OIA-1757207). Award amoung: $20,000,000. Performance period 9/1/2018-8/31/2023 (estimated). Senior personnel.
+1. *New Mexico SMART Grid Center*. Funding Agency: National Science Foundation (Award no. NSF OIA-1757207). Award amount: $20,000,000 ($477,085 component budget). Performance period 9/1/2018-8/31/2023. Senior personnel, William Michener (UNM) PI.
 
 1. *Development of an Enhanced and Expanded Data Management Training Clearinghouse*. Funding Agency: Institute of Museum and Library Services (Award no. LG-70-18-0092-18). Performance Period: :July 01, 2018 - June 30, 2021. Award Amount: $ 249,630.00. Project PI. 
 
@@ -460,7 +461,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Huckell, Bruce, Lisa Huckell, and Karl Kent Benedict. 2002. 'Maize Agriculture and the Rise of Mixed Farming-Foraging Economies in Southeastern Arizona During the Second Millennium B.C.'  In *Traditions, Transitions, and Technologies:  Themes in Southwestern Archaeology*, Sarah Schlanger, Editor. University Press of Colorado. pp 136-159.
 
-1. Powell, Melissa, and Karl Kent Benedict. 2002. 'Ceramic Chronology'. In, *From Folsom to Fogelson :the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. pp 59-98.
+1. Powell, Melissa, and Karl Kent Benedict. 2002. 'Ceramic Chronology'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. pp 59-98.
 
 ### Papers in Proceedings
 
@@ -492,7 +493,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
-1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. 
+1. Karl Benedict. "Session Introduction" and "Kirkpatrick's Four Levels". Presentations for the Earth Science Information Partners Summer Meeting, 2019. Tacoma, WA, July 16-19 2019. 
+
+1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. [http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx](http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx)
 
 1. Karl Benedict. "Assessing Community Impact: a Sample of ESIP's Activities". **Invited presentation/case study** at the [*There is Value in Earth Observations: Can You Measure It?*](http://earsc.org/Sebs/workshop-2019/) workshop. Frascati, Italy. July 1-3, 2019. [http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf](http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf)
 
@@ -825,7 +828,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. Natural Language Processing with Python [https://github.com/unmrds/cc-nlp](https://github.com/unmrds/cc-nlp)
 	a. Introduction to R and RStudio [https://github.com/unmrds/cc-R-RStudio](https://github.com/unmrds/cc-R-RStudio)
 
-1. Carpentries (Certified Instructor - 2/2019)
+1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019)
 	a. Software Carpentry (May 2019) - "The Unix Shell", "Version Control with Git", "Programming with Python"
 
 
@@ -899,13 +902,10 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Advisors
 
-*Bruce Huckell*, University of New Mexico, Department of Anthropology
-
-*James Boone*, University of New Mexico, Department of Anthropology
-
-*Wirt Wills*, University of New Mexico, Department of Anthropology
-
-*Louis Scuderi*, University of New Mexico, Department of Earth and Planetary Sciences
+| *Bruce Huckell*, University of New Mexico, Department of Anthropology
+| *James Boone*, University of New Mexico, Department of Anthropology
+| *Wirt Wills*, University of New Mexico, Department of Anthropology
+| *Louis Scuderi*, University of New Mexico, Department of Earth and Planetary Sciences
 
 ## Committee Membership
 
