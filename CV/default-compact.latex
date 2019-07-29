@@ -152,7 +152,7 @@ $header-includes$
 $endfor$
 
 $if(title)$
-\title{$title$}
+\title{$title$\vspace{-4ex}}
 $endif$
 $if(subtitle)$
 \subtitle{$subtitle$}
