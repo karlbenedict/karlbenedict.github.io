@@ -2,17 +2,14 @@
 title:  Curriculum Vitae - Karl Kent Benedict
 ...
 
-## Contact Information
-
 Centennial Science and Engineering Library    
-MSC05 3020    
-1 University of New Mexico    
+MSC05 3020, 1 University of New Mexico    
 Albuquerque, NM 87131-0001    
 (o) (505) 277-5256    
 (m) (505) 239-4115    
 kbene@unm.edu
 
-http://archaeoworld.com    
+<!-- http://archaeoworld.com -->    
 GitHub: [karlbenedict](http://github.com/karlbenedict)   
 Twitter: [\@kbene](https://twitter.com/kbene)    
 Skype: karlbenedict    
@@ -144,7 +141,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### University
 
-2019 - Present, *Committee Member*, UNM IT Academic Technology Advisory Committee (*Research Data Management Working Group* Chair)
+2019 - Present, *Committee Member*, UNM IT Academic Technology Advisory Committee
 
 2018 - Present, *Committee Member*, UNM IT Research Technology Advisory Committee (*Research Data Management Working Group* Chair)
 
@@ -493,9 +490,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Presented Papers
 
-1. Karl Benedict. "Session Introduction" and "Kirkpatrick's Four Levels". Presentations for the Earth Science Information Partners Summer Meeting, 2019. Tacoma, WA, July 16-19 2019. 
+1. Karl Benedict. "Session Introduction" and "Kirkpatrick's Four Levels". Presentations for the Earth Science Information Partners Summer Meeting, 2019. Tacoma, WA, July 16-19 2019. [http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx](http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx)
 
-1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. [http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx](http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx)
+1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. 
 
 1. Karl Benedict. "Assessing Community Impact: a Sample of ESIP's Activities". **Invited presentation/case study** at the [*There is Value in Earth Observations: Can You Measure It?*](http://earsc.org/Sebs/workshop-2019/) workshop. Frascati, Italy. July 1-3, 2019. [http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf](http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf)
 
