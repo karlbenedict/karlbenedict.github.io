@@ -5,6 +5,7 @@ pandoc -s --reference-doc=template.docx -o cv-1page.docx cv-1page.md
 
 git add cv-1page*
 git add generate-1page.sh
+git add default-compact.latex
 
 if [ -z "$1" ]; then
     git commit -a -m "no message"
