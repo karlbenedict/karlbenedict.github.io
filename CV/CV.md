@@ -359,7 +359,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Completed
 
-1. *Energize New Mexico*. Funding Agency: National Science Foundation. Performance Period 6/1/2013-11/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
+1. *Energize New Mexico*. Funding Agency: National Science Foundation (Award no. NSF OIA-1301346). Performance Period 6/1/2013-11/31/2018. Award Amount: $1,658,575 (EDAC’s portion of the total project budget of $20,000,000).  Co-I, William Michener (UNM) PI. 
 
 1. *Collaborative Research: The Western Consortium for Watershed Analysis, Visualization, and Exploration (WC-WAVE)*. Funding Agency: National Science Foundation. Performance Period 8/1/2013-7/31/2016 (no cost extension until 7/31/2017). Award Amount: $833,985 (EDAC’s portion of the total project budget of $6,000,000).  Co-I, William Michener (UNM) PI. 
 
