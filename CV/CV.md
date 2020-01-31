@@ -887,6 +887,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. R Data Cleaning [https://github.com/unmrds/R-data-cleaning](https://github.com/unmrds/R-data-cleaning)
 	a. Reproducibility and Communication using R and Jupyter Notebooks and Markdown [https://github.com/unmrds/cc-reproducibility-communication](https://github.com/unmrds/cc-reproducibility-communication)
 	a. Project Management with Task Juggler [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
+	a. Introduction to Digital Literacy and Design with Spark
 
 1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019)
 	a. Software Carpentry (May 2019 - instructor) - "The Unix Shell", "Version Control with Git", "Programming with Python"
