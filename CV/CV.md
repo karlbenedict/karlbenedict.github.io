@@ -541,7 +541,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Karl Benedict. "Pangeo as a Platform for Workshops". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/Pangeo-C&C.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/Pangeo-C&C.pdf)
 
-1. Karl Benedict, Jonathan Wheeler. "If You Build It Will They Come? Lessons From the Development and Use of a Containerized Teaching and Learning Platform". Poster presented at the American Geophysical Union Fall Meeting.San Francisco, CA. December 13, 2019. [http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf](http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf)
+1. Erin Robinson, Karl Benedict, Michael Daniels. "Making Data Matter: Increasing the Use and Value of Earth science Data & Information (Invited)". Paper presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 13, 2019.
+
+1. Karl Benedict, Jonathan Wheeler. "If You Build It Will They Come? Lessons From the Development and Use of a Containerized Teaching and Learning Platform". Poster presented at the American Geophysical Union Fall Meeting. San Francisco, CA. December 13, 2019. [http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf](http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf)
 
 1. Karl Benedict, Nancy Hoebelheinrich. "Research Data Management for Today, Tomorrow, and Beyond: an Introduction to Core Principles, Practices, and Required Skills". Workshop presented at the PECORA 21 / ISRSE 38 Conference. Baltimore, MD. October 6, 2019. [http://karlbenedict.com/presentations/2019-10_ISRSE/DataManagementPrimer.pdf](http://karlbenedict.com/presentations/2019-10_ISRSE/DataManagementPrimer.pdf)
 
