@@ -115,6 +115,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2019)
 
+2019, *Staff Search Committee* for Operations Manager for the Centennial Science and Engineering Library
+
 2018, *Faculty Search Committee* for the Director of the UNM University Press
 
 2017, *Faculty Search Committee (Chair)* for the Data Curation Librarian position
@@ -141,6 +143,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
   
 
 ### University
+
+2020 - Present, *Committee Member*, UNM Faculty Senate Research Policy Committee
 
 2019 - Present, *Committee Member*, UNM IT Academic Technology Advisory Committee
 
@@ -193,7 +197,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Task Force/Working Group Service**
 
-2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management*
+2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management* - limited Task Force activity since 2019.
+
+2019 - Present, Earth Science Information Partners Program Committee representative to the Group on Earth Observations (GEO).
+
+2019 - Present, Earth Science Information Partners representative to the GEO *Data Sharing and Data Management Principles Working Group*.
+
+2019 - Present, Earth Science Information Partners representative to the GEO *GEOSS Infrastructure Development Task Team*.  
 
 **Advisory/Steering Committee Appointments**
 
@@ -208,9 +218,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Elected Positions**
 
+2020 - 2021, *Nomination Committee* of the Federation of Earth Science Information Partners. (Chair 2020-2021)
+
 2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
 
-2017 - Present, *Co-Chair* of the DataONE Users Group. 
+2019 - 2021, *Board Member*, Earth Science Information Partners (ESIP). (Chair 2019-2020)
+
+2017 - Present, *Co-Chair* of the DataONE Users Group, DataONE Community Board. 
 
 2016 - 2018, *Nomination Committee* of the Federation of Earth Science Information Partners
 
@@ -280,8 +294,36 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2013, 2015 *Computers, Environment and Urban Systems*
 
+### External Reviewer
 
-## Symposia Organized
+2019, *Promotion and Tenure Review*, CUNY-CSI
+
+### Data Help Desk
+
+2019 *AGU Data Help Desk*. Staffed a data help desk in conjunction with the American Geophysical Union Fall Meeting. San Francisco, CA. December 9-13, 2019. San Francisco, CA. 
+
+2019 *ESA Data Help Desk*. Helped organize and staff a data help desk in conjunction with the Annual Meeting of the Ecological Society of America. Louisville, KY. August 11-16, 2019. 
+
+2018 *ESA Data Help Desk*. Helped organize and staff a data help desk in conjunction with the Annual Meeting of the Ecological Society of America. New Orleans, LA. August 5-9, 2018. 
+
+
+## Symposia/Meeting Sessions Organized
+
+1. "Developing, Using and Testing Tools to Assess Learning Resources from two Perspectives: the Teacher and the Learner". Co-organizer of a breakout session at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 8, 2020. [https://sched.co/Xrhf](https://sched.co/Xrhf)
+
+1. "Data Skills & Competencies Requirements for Data Stewards: Views from the ESIP Community and Beyond". Co-organizer of a breakout session at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [https://sched.co/VaXo](https://sched.co/VaXo)
+
+1. "Public-Private Partnerships for Earth Observations". Co-organizer of a breakout session at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [https://sched.co/XrhE](https://sched.co/XrhE)
+
+1. "Public-Private Partnerships Panel". Co-organizer of a plenary panel at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [https://sched.co/VaXN](https://sched.co/VaXN)
+
+1. "Downscaling GEO: Delivering impact at national and local levels". Key Side Event panel session co-organizer for the GEO Week 2019 Ministerial Summit. Canberra, Australia. November 4-9, 2019. [https://www.earthobservations.org/geoweek19.php?t=programme](https://www.earthobservations.org/geoweek19.php?t=programme)
+
+1. "Research Data Management for Today, Tomorrow, and Beyond: an Introduction to Core Principles, Practices, and Required Skills". Workshop co-organizer at the PECORA 21 / ISRSE 38 Conference. Baltimore, MD. October 6, 2019. [https://www.asprs.org/Pecora21-Isrse38.html](https://www.asprs.org/Pecora21-Isrse38.html)
+
+1. "Curricula Models and Resources Along the Data Continuum: Lessons Learned in the Development and Delivery of Research Data Management and Data Science Education". Juried Panel co-organizer at the ALISE Annual Conference. Knoxville, TN. September 24-26. [https://ali.memberclicks.net/assets/documents/conf_2019/ALISE%202019%20Program%20Book.pdf](https://ali.memberclicks.net/assets/documents/conf_2019/ALISE%202019%20Program%20Book.pdf)
+
+1. "Data Management Training Clearinghouse". Workshop co-organizer at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. [https://rdapassociation.org/wp-content/uploads/2019/05/2019RDAPSummitFullProgram-2.pdf](https://rdapassociation.org/wp-content/uploads/2019/05/2019RDAPSummitFullProgram-2.pdf)
 
 1. "Earth Science Information Partners Summer Meeting 2019" held in Tacoma, WA, July 16-19, 2019. Session co-organizer for 'Assessment Frameworks and Dimensions for Educational & Training Resources' session . [https://sched.co/PtPh](https://sched.co/PtPh) 
 
@@ -482,6 +524,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 "UNM RDS Content Platform for the Coffee & Code Workshop Series". Docker-based platform for workshop presentation and participant use for multiple workshops developed as part of the UNM Research Data Services *Coffee & Code* workshop series. [https://github.com/unmrds/cc-content-platform](https://github.com/unmrds/cc-content-platform)
 
+"Virtual Watershed Platform (VWP) GSToRE System". 2017. Geospatial and model data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center and other project collaborators as part of the NSF EPSCoR sponsored WC-WAVE project for which Karl Benedict served as co-lead for cyberinfrastructure development. 
+
 "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
@@ -489,11 +533,25 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 "Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
 
 
-### Presented Papers
+### Presented Papers / Workshops
+
+1. Nancy Hoebelheinrich, Karl Benedict. "Developing, Using & Testing Tools to Assess Learning. Perspectives from Two Perspectives: the Teacher & the Learner". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 8, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf)
+
+1. Nancy Hoebelheinrich, Karl Benedict. "Data Skills & Competencies Requirements for Data Specialists - Views from the ESIP Community and Beyond". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020_DatakSkills.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020_DatakSkills.pdf)
+
+1. Karl Benedict. "Pangeo as a Platform for Workshops". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 7, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/Pangeo-C&C.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/Pangeo-C&C.pdf)
+
+1. Karl Benedict, Jonathan Wheeler. "If You Build It Will They Come? Lessons From the Development and Use of a Containerized Teaching and Learning Platform". Poster presented at the American Geophysical Union Fall Meeting.San Francisco, CA. December 13, 2019. [http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf](http://karlbenedict.com/presentations/2019-12_AGU/2019-12_AGU_3x5Poster_reduced.pdf)
+
+1. Karl Benedict, Nancy Hoebelheinrich. "Research Data Management for Today, Tomorrow, and Beyond: an Introduction to Core Principles, Practices, and Required Skills". Workshop presented at the PECORA 21 / ISRSE 38 Conference. Baltimore, MD. October 6, 2019. [http://karlbenedict.com/presentations/2019-10_ISRSE/DataManagementPrimer.pdf](http://karlbenedict.com/presentations/2019-10_ISRSE/DataManagementPrimer.pdf)
+
+1. Karl Benedict, Nancy Hoebelheinrich. "Data Management Training Clearinghouse". Paper presented as part of a Juried Panel at the ALISE Annual Conference. Knoxville, TN. September 24-26.
+
+1. Karl Benedict, Nancy Hoebelheinrich. "Data Management Training Clearinghouse". Presentation in conjunction with the ESA Data Help Desk at the Annual Meeting of the Ecological Society of America. Louisville, KY. August 11-16, 2019. [http://karlbenedict.com/presentations/2019-08_ESA/ESA_DMTC_Introduction.pdf](http://karlbenedict.com/presentations/2019-10_ISRSE/DataManagementPrimer.pdf)
 
 1. Karl Benedict. "Session Introduction" and "Kirkpatrick's Four Levels". Presentations for the Earth Science Information Partners Summer Meeting, 2019. Tacoma, WA, July 16-19 2019. [http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx](http://karlbenedict.com/presentations/2019-07_ESIP/DMTC-Assessment.pptx)
 
-1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019. 
+1. Karl Benedict, Nancy Hoebelheinrich, Sophie Hou. "Data Management Training Clearinghouse". Workshop presented at the Research Data Access & Preservation Association 2019 Summit. Miami, FL. May 17, 2019.
 
 1. Karl Benedict. "Assessing Community Impact: a Sample of ESIP's Activities". **Invited presentation/case study** at the [*There is Value in Earth Observations: Can You Measure It?*](http://earsc.org/Sebs/workshop-2019/) workshop. Frascati, Italy. July 1-3, 2019. [http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf](http://earsc.org/Sebs/wp-content/uploads/2019/07/EOValue-WS_Karl-Benedict_ESIP.pdf)
 
@@ -791,11 +849,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Invited Lectures
 
-1. *Social Responsibility & Research Data: a Framework and some Concepts*. Invited lecture for OILS 500. October 13, 2015. University of New Mexico. URL: [http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html](http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html)
+1. *Social Responsibility & Research Data: a Framework and some Concepts*. Invited lecture for OILS 500, BIOL 402/502. 2015, 2019, 2020. University of New Mexico. URL: [http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html](http://karlbenedict.com/presentations/2015-10_OILS500_Benedict/2015-10_OILS500_Benedict.html)
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017. 
+1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017, Fall 2019.
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
@@ -825,9 +883,15 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. Introduction to Containerization with Docker [https://github.com/unmrds/cc-containers](https://github.com/unmrds/cc-containers)
 	a. Natural Language Processing with Python [https://github.com/unmrds/cc-nlp](https://github.com/unmrds/cc-nlp)
 	a. Introduction to R and RStudio [https://github.com/unmrds/cc-R-RStudio](https://github.com/unmrds/cc-R-RStudio)
+	a. Cartography with Illustrator [https://github.com/unmrds/cc-cartography_w_illustrator](https://github.com/unmrds/cc-cartography_w_illustrator)
+	a. R Data Cleaning [https://github.com/unmrds/R-data-cleaning](https://github.com/unmrds/R-data-cleaning)
+	a. Reproducibility and Communication using R and Jupyter Notebooks and Markdown [https://github.com/unmrds/cc-reproducibility-communication](https://github.com/unmrds/cc-reproducibility-communication)
+	a. Project Management with Task Juggler [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
 
 1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019)
-	a. Software Carpentry (May 2019) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+	a. Software Carpentry (May 2019 - instructor) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+	b. Software Carpentry (May 2019 - helper) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+	c. Data Carpentry (November 2019 - instructor) - "Data Organization and Cleaning in Microsoft Excel and OpenRefine", "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
 
 
 ## Technical Skills
@@ -907,9 +971,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ## Committee Membership
 
-Sean Thomas O'Neill, MS, Geography. University of New Mexico. Committee Member. Completed 5/2019. 
-
 Manuel Jimenez, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. In process. 
+
+Sean Thomas O'Neill, MS, Geography. University of New Mexico. Committee Member. Completed 5/2019. 
 
 Robert Paul Giebitz, Ph.D.,  Organization, Information & Learning Sciences, University of New Mexico. Committee Member. Completed 12/2018. Dissertation Title: "Learning Statistics Through Guided Block Play A Pre-Curriculum in Statistical Literacy" 
 
@@ -940,7 +1004,7 @@ New Mexico Geographic Information Council (~2001-2018, [http://nmgic.com/](http:
 
 Society for American Archaeology (~1995-2017, [http://saa.org/](http://saa.org/))
 
-* revised: 2019-07
+* revised: 2020-01
 
 
 [1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
