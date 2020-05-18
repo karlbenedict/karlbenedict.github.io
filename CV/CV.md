@@ -110,11 +110,15 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2016 - Present, *College Assessment Committee*
 
+2018, *Faculty Search Committee* for the Director of the University of New Mexico Press
+
+2018 - 2020, *Sabbatical Committee*
+
+2014 - 2020, *Promotion & Tenure Committee* (Chair, 2015-2018)
+
 2017 - 2018, *Past Presiding Officer*
 
 2016 - 2017, *Strategic Planning Steering Committee*
-
-2014 - 2018, *Promotion & Tenure Committee* (Chair, 2015-2017)
 
 2016 - 2017, *Presiding Officer*
 
@@ -455,7 +459,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. O'Brien, Patrick, Kenning Arlitsch, Jeff Mixter, Susan Borda, Karl Benedict, Jonathan Wheeler, Sue Baughman, Gary Roebuck, Leila Sterman, Scott Young (2016). "Improving the Reported Use and Impact of Your Institutional Repository (IR)". Presentation to the Digital Library Federation Forum.  Milwaukee, Wisconsin. November 8, 2016.
 
-1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in SharedValues and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
+1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in Shared Values and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
