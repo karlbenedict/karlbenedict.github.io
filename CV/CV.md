@@ -30,8 +30,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Information Technology (5/19-Present)
 * Director of Research Data Services (7/14-Present)
-* Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Geography and Environmental Studies (7/15-Present)
+* Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Earth & Planetary Sciences (7/15-5/19)
 * Subject Librarian for Computer Science (5/17-5/19)
 * Subject Librarian for the Life Sciences (7/15-4/16)
@@ -108,6 +108,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 ## Service
 
 ### UNM - College of University Libraries and Learning Sciences
+
+2020 - 2022, *Curriculum Committee*
 
 2016 - Present, *College Assessment Committee*
 
@@ -207,7 +209,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Advisory/Steering Committee Appointments**
 
-2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
+2014 - 2020, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
 
 2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
@@ -220,11 +222,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2020 - 2021, *Nomination Committee* of the Federation of Earth Science Information Partners. (Chair 2020-2021)
 
-2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
-
 2019 - 2021, *Board Member*, Earth Science Information Partners (ESIP). (Chair 2019-2020)
 
 2017 - Present, *Co-Chair* of the DataONE Users Group, DataONE Community Board. 
+
+2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
 
 2016 - 2018, *Nomination Committee* of the Federation of Earth Science Information Partners
 
@@ -276,11 +278,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
+2016, 2017, 2018, 2019, 2020 *ISPRS International Journal of Geo-Information*
+
 2019, *Data*
 
 2019, *Sustainability*
-
-2016, 2017, 2018, 2019 *ISPRS International Journal of Geo-Information*
 
 2017, 2018 *Computers & Geosciences*
 
@@ -299,6 +301,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 2019, *Promotion and Tenure Review*, CUNY-CSI
 
 ### Data Help Desk
+
+2020 *EGU Data Help Desk*. Staffed the virtual data help desk in conjunction with the European Geophysical Union Meeting. May 11-15, 2020. Online.
 
 2019 *AGU Data Help Desk*. Staffed a data help desk in conjunction with the American Geophysical Union Fall Meeting. San Francisco, CA. December 9-13, 2019. San Francisco, CA. 
 
@@ -534,6 +538,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 
 ### Presented Papers / Workshops
+
+1. Karl Benedict, Nancy Hoebelheinrich. "Moving the ESIP Data Management Training Clearinghouse to a Training & Education Gateway for Research Data Skills Instructors and Learners", Workshop presented at the RDAP Summit 2020. Santa Fe, NM. March 13, 2020. 
 
 1. Nancy Hoebelheinrich, Karl Benedict. "Developing, Using & Testing Tools to Assess Learning. Perspectives from Two Perspectives: the Teacher & the Learner". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 8, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf)
 
@@ -855,7 +861,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017, Fall 2019.
+1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017, Fall 2019, Fall 2020.
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
@@ -891,10 +897,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. Project Management with Task Juggler [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
 	a. Introduction to Digital Literacy and Design with Spark
 
-1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019)
-	a. Software Carpentry (May 2019 - instructor) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019, highlighted topics were led as an instructor)
+	a. Software Carpentry (May 2019 - instructor) - **"The Unix Shell"**, **"Version Control with Git"**, **"Programming with Python"**
 	b. Software Carpentry (May 2019 - helper) - "The Unix Shell", "Version Control with Git", "Programming with Python"
-	c. Data Carpentry (November 2019 - instructor) - "Data Organization and Cleaning in Microsoft Excel and OpenRefine", "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
+	c. Data Carpentry (November 2019 - instructor) - **"Data Organization and Cleaning in Microsoft Excel and OpenRefine"**, "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
+	d. Data Carpentry (March 2020 - instructor - "Data Organization in Spreadsheets for Ecologists", "Data Management with SQL for Ecologists", **"Data Analysis and Visualization in R for Ecologists"**)
 
 
 ## Technical Skills
