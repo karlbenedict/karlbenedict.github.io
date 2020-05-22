@@ -19,9 +19,9 @@ University of California Berkeley, CA        Anthropology   1986 - B.A.
 ## Relevant Appointments
 ------------------------ ------------------------------------------------------- ------------
 University of New Mexico UNM College of University Libraries & Learning Sciences 2014-Present
-                         Assoc. Professor, Director of Research Data Svc.     
-                         Subject Librarian: Geography & Environmental Studies, 
-                         Earth & Planetary Sciences, Computer Science,
+                         Assoc. Professor, Director of Research Data Svc., IT     
+                         *Subject Librarian*: Geography & Environmental Studies 
+                         Earth & Planetary Sciences, Computer Science (2015-19)
                          Life Sciences (2015-16)
 
 University of New Mexico UNM College of University Libraries & Learning Sciences 2014
@@ -60,21 +60,20 @@ University of New Mexico UNM Computer Information Resources & Technology        
 
 ### Five Most Related Publications and Other Products
 
+Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, H., Benedict, K., Cadol, D., Dascalu, S. M., Delparte, D., Fenstermaker, L., Godsey, S., Harris, F. C. J., McNamara, J. P., Tyler, S. W., Savickas, J., Sheneman, L., Stone, M., & Turner, M. A. (2020). 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*, 2. https://doi.org/10.3389/frwa.2020.00002
+
 Benedict, K. 2017. 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
 Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: [10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474).
 
 "Coffee and Code". 2017-2018. Workshop series and presentation platform developed by Karl Benedict and Jonathan Wheeler, with contributions by Mark Servilla and Elizabeth Cooper. Workshop series accessable from the UNM Research Data Services GitHub repository - [http://github.com/unmrds](http://github.com/unmrds)
 
-Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
-
-"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
 ### Five Other Significant Publications and Other Products
 
-Huang, Qunying, Jizhe Xia, Manzu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. DOI:[10.1201/b16106-14](http://dx.doi.org/10.1201/b16106-14)
+Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
 
-Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2013. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:[10.1080/13658816.2012.715650](http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650).
+"New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
 Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291.
 
@@ -85,9 +84,9 @@ Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 200
 
 ## Synergistic Activities
 
-* President of the *Federation of Earth Science Information Partners* - 2012-2014
-* Member of the Board of Directors for the *Foundation for Earth Science* - 2010-2017 (Chair/President 2012-Present)
-* *Technical Advisory Committee* (Chair), Digital Preservation Network - 2015-Present
+* President of the *Federation of Earth Science Information Partners* - 2012-2014, 2019-2020
+* Member of the Board of Directors for the *Foundation for Earth Science* - 2010-2017, 2019-2020 (Chair/President 2012-2017, 2019-2020)
+* *Technical Advisory Committee* (Chair), Digital Preservation Network - 2015-2018
 * *External Advisory Board Member*, US Virgin Islands NSF EPSCoR Track 1 Project - 2014-Present
 * *Member of the Data Management and Communications (DMAC) Steering Committee* of the Interagency Ocean Observation Committee (IOOC) - 2011-2014
 * *Member of the National Advisory Council for Environmental Policy and Technology* for the US Environmental Protection Agency (EPA) - 2010-2012
