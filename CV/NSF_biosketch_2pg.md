@@ -60,7 +60,7 @@ University of New Mexico UNM Computer Information Resources & Technology        
 
 ### Five Most Related Publications and Other Products
 
-Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, H., Benedict, K., Cadol, D., Dascalu, S. M., Delparte, D., Fenstermaker, L., Godsey, S., Harris, F. C. J., McNamara, J. P., Tyler, S. W., Savickas, J., Sheneman, L., Stone, M., & Turner, M. A. (2020). 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*, 2. https://doi.org/10.3389/frwa.2020.00002
+Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, H., Benedict, K., Cadol, D., Dascalu, S. M., Delparte, D., Fenstermaker, L., Godsey, S., Harris, F. C. J., McNamara, J. P., Tyler, S. W., Savickas, J., Sheneman, L., Stone, M., & Turner, M. A. (2020). 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*, 2. [https://doi.org/10.3389/frwa.2020.00002](https://doi.org/10.3389/frwa.2020.00002)
 
 Benedict, K. 2017. 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
