@@ -71,15 +71,13 @@ Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification f
 "Coffee and Code". 2017-2018. Workshop series and presentation platform developed by Karl Benedict and Jonathan Wheeler, with contributions by Mark Servilla and Elizabeth Cooper. Workshop series accessable from the UNM Research Data Services GitHub repository - [http://github.com/unmrds](http://github.com/unmrds)
 
 
-### Five Other Significant Publications and Other Products
+### Other Significant Publications and Products
 
 "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
 Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291.
-
-Eric Fritzinger, Sergiu M. Dascalu, Daniel P. Ames, Karl Benedict, Ivan Gibbs, Michael J. McMahon, Jr., Frederick C. Harris, Jr. 2012. 'The Demeter Framework for Model and Data Interoperability'. *Proceedings of the 2012 International Congress on Environmental Modelling and Software: Managing Resources of a Limited Planet: Pathways and Visions under Uncertainty*, R Seppelt, A.A. Voinov, S. Lange, D. Bankamp (Eds.). International Environmental Modelling and Software Society (iEMSs) Sixth Biennial Meeting, Leipzig, Germany.
 
 Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909
 
