@@ -1,5 +1,5 @@
 #!/bin/bash
-pandoc -s --pdf-engine=xelatex --template=./default.latex -o NSF_biosketch_2pg.pdf NSF_biosketch_2pg.md
+pandoc -s --latex-engine=xelatex --template=./default.latex -o NSF_biosketch_2pg.pdf NSF_biosketch_2pg.md
 pandoc -s --reference-doc=template.docx -o NSF_biosketch_2pg.docx NSF_biosketch_2pg.md
 
 git add .
