@@ -71,7 +71,7 @@ Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification f
 
 ### Five Other Significant Publications and Other Products
 
-Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
