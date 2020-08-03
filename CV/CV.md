@@ -12,8 +12,7 @@ kbene@unm.edu
 <!-- http://archaeoworld.com -->    
 ORCID: [0000-0002-9109-2072](https://orcid.org/0000-0002-9109-2072)    
 GitHub: [karlbenedict](http://github.com/karlbenedict)   
-Twitter: [\@kbene](https://twitter.com/kbene)    
-Skype: karlbenedict    
+NCBI Biblioghraphy: [https://www.ncbi.nlm.nih.gov/myncbi/karl.benedict.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/karl.benedict.1/bibliography/public/) 
 <!--Google+: https://plus.google.com/u/0/+KarlBenedictPlus/posts-->
 
 ## Education
@@ -467,6 +466,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Articles
 
+1. Angela Gregory, Chao Chen, Rui Wu, Sarah Miller, Sajjad Ahmad, John W. Anderson, Hays Barrett, Karl Benedict, Dan Cadol, Sergiu M. Dascalu, Donna Delparte, Lynn Fenstermaker, Sarah Godsey, Frederick C. Harris Jr., James P. McNamara, Scott W. Tyler, John Savickas, Luke Sheneman, Mark Stone and Matthew A. Turner. 2020. 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*. Vol. 2. [https://doi.org/10.3389/frwa.2020.00002](https://doi.org/10.3389/frwa.2020.00002)
+
 1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: [https://doi.org/10.1108/OIR-02-2018-0056](https://doi.org/10.1108/OIR-02-2018-0056)
 
 1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
@@ -487,19 +488,19 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
 
-1. Faundeen, J., Percivall, G., Baros, S., Baumann, P., Becker, P., Behnke, J., Benedict, K., Colaiacomo, L., Di, L., Doescher, C., Dominguez, J., Edberg, R., Ferguson, M., Foreman, S., Giaretta, D., Hutchison, V.B., Ip, A., James, N.L., Khalsa, S.J.S., Lazorchak, B., Lewis, A., Li, F., Lymburner, L., Lynnes, C.S., Martens, M., Melrose, R., Morris, S., Mueller, N., Navale, V., Navulur, K., Newman, D.J., Oliver, S., Purss, M., Ramapriyan, H.K., Rew, R., Rosen, M., Savickas, J., Sixsmith, J., Sohre, T., Thau, D., Uhlir, P., Wang, L.-W., Young, J. (in press). 'Chapter 6: Archiving and Access Systems for Remote Sensing', in: *Manual of Remote Sensing*. 4th ed. American Society for Photogrammetry & Remote Sensing. <!--https://doi.org/10.14358/mors.1-6-->
+1. Faundeen J, Percivall G, Baros S, Baumann P, Becker P, Behnke J, Benedict K, Colaiacomo L, Di L, Doescher C, Dominguez J, Edberg R, Gerguson M, Foreman S, Giaretta D, Hutchinson VB, Ip A, James NL, Khalsa SS, Lazorchak B, Lewis A, Li F, Lymburner L, Lynnes CS, Martens M, Melrose R, Morris S, Mueller N, Navale V, Navulur K, Newman DJ, Oliver S, Purss M, Ramapriyan HK, Rew R, Rosen M, Savickas J, Sixsmith J, Sohre T, Thau D, Uhlir P, Wang L, Young J. Archiving and Access Systems for Remote Sensing . In: *Manual of Remote Sensing. 4th ed*. Morain SA, Renslow MS, Budge AM, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2020. Chapter 6; p.451-630. <!--https://doi.org/10.14358/mors.1-6-->
 
-1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
+1. Watson RP, Benedict KK, Watson TR. Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS . In: *Evolving Approaches to Understanding Natural Hazards*. Tobin G, Montz B, editors. Lady Stephenson Library, Newcastle upon Tyne: Cambridge Scholars Publishing; 2015. Chapter 18; p.266-275. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
 
-1. Huang, Qunying, Jizhe Xia, Manzhu Yu, Karl Benedict, and Myra Bambacus. 2013. 'Cloud-enabled Dust Storm Forecasting', in *Spatial Cloud Computing, a Practical Approach*. Chaowei Yang and Qunying Huang, eds. CRC Press. [http://dx.doi.org/10.1201/b16106-14][12]
+1. Yang C, Huang Q, Huang Q, Xia J, Yu M, Benedict K, Bambacus M. Cloud-enabling dust storm forecasting . In: *Spatial Cloud Computing: A Practical Approach*. 1 ed. Yang C, Huang Q, editors. Boca Raton, FL: CRC Press; 2014. Chapter 10; p.161-176. 357p. [http://dx.doi.org/10.1201/b16106-14][12]
 
-1. Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
+1. Kempler S, Leptoukh GG, Kiang RK, Soebiyanto RP, Tong DQ, Ceccato P, Maxwell S, Rommel RG, Jacquez GM, Benedict KK, Morain SA, Yang P, Huang Q, Golden ML, Chen RS, Pinzon JE, Zaitchik B, Irwin D, Estes S, Luvall J, Wimberly M, Xiao X, Charland KM, Stumpf RP, Deng Z, Tilburg CE, Liu Y, McClure L, Huff A. Data Discovery, Access and Retrieval . In: *Environmental Tracking for Public Health Surveillance**. Morain SA, Budge AM, editors. Boca Raton, FL: CRC Press; 2013. Chapter 6; p.229-291. 480p. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
 
-1. Watson, Richard, Manfred Ehlers, Thomas K. Budge, and Karl Kent Benedict. 2006. 'New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements'. Chapter 12 in *Remote Sensing of Human Settlements*. Manual of Remote Sensing, 3rd ed., Volume 5. Merrill Ridd and James D. Hipple eds. American Society for Photogrammetry and Remote Sensing, Bethesda, Maryland. pp. 713-738. [http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf][7]
-
-1. Benedict, Karl Kent, and Janet D. Orcutt. 2002. 'Settlement'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds., pp 165-219. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. [https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm)
+1. Watson RP, Ehlers M, Budge TK, Benedict KK. New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements . In: *Remote Sensing of Human Settlements**. Ridd MK, Hipple JD, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2006. Chapter 12; p.713-738. [http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf][7]
 
 1. Huckell, Bruce, Lisa Huckell, and Karl Kent Benedict. 2002. 'Maize Agriculture and the Rise of Mixed Farming-Foraging Economies in Southeastern Arizona During the Second Millennium B.C.'  In *Traditions, Transitions, and Technologies:  Themes in Southwestern Archaeology*, Sarah Schlanger, Editor. University Press of Colorado. pp 136-159.
+
+1. Benedict, Karl Kent, and Janet D. Orcutt. 2002. 'Settlement'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds., pp 165-219. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. [https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm)
 
 1. Powell, Melissa, and Karl Kent Benedict. 2002. 'Ceramic Chronology'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. pp 59-98. [https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm)
 
@@ -510,8 +511,6 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Watson, Richard, Karl Kent Benedict, Theresa R. Watson, Kurt Menke, and Robert R. Parmenter. 2006. 'Satellite Imagery and Internet Mapping Services in Support of Science-Based Adaptive management of Grasslands in the Valles Caldera National Preserve'. *Papers of the Applied Geography Conference - 2006*. 29:206-213. [http://karlbenedict.com/pubs/2006%20Applied%20Geography%20Conference%20Proceedings.pdf][9]
 
 1. Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909 [http://karlbenedict.com/pubs/2004%20Watson%20et%20al.pdf][10]
-
-1. Watson, Richard, Louis A.  Scuderi, Theresa R. Kuntz, and Karl Kent Benedict. 2004. 'Assessing Vegetation Response to Local Rainfall Events Using NEXRAD Weather Radar and MODIS Imagery'. *Proceedings of the ASPRS 2004 Annual Conference*, Denver, CO, May 2004
 
 1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf][11]
 
@@ -524,9 +523,9 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 "UNM RDS Content Platform for the Coffee & Code Workshop Series". Docker-based platform for workshop presentation and participant use for multiple workshops developed as part of the UNM Research Data Services *Coffee & Code* workshop series. [https://github.com/unmrds/cc-content-platform](https://github.com/unmrds/cc-content-platform)
 
-"Virtual Watershed Platform (VWP) GSToRE System". 2017. Geospatial and model data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center and other project collaborators as part of the NSF EPSCoR sponsored WC-WAVE project for which Karl Benedict served as co-lead for cyberinfrastructure development. 
+"Geographic Storage, Transformation and retrieval Engine Version 3". 2018. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
 
-"Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center at the University of New Mexico under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu), [https://github.com/edac-epscor/gstore-ansible](https://github.com/edac-epscor/gstore-ansible). 
+"Virtual Watershed Platform (VWP) GSToRE System". 2017. Geospatial and model data management, discovery and access platform and associated Application Programming Interface. Developed by the development team at the Earth Data Analysis Center and other project collaborators as part of the NSF EPSCoR sponsored WC-WAVE project for which Karl Benedict served as co-lead for cyberinfrastructure development. 
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
@@ -792,6 +791,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 1. Benedict, Karl Kent. 2005. 'The Open Geospatial Consortium Web Map, Web Feature and Web Coverage Service Standards - an Overview'. Workshop presented at the Federation of Earth Science Information Partners Summer Meeting. San Diego, CA., June 2005.  
 
 1. Hudspeth, W., S. Nickovic, D.Yin, B. Chandy, B. Barbaris, A. Budge, T. Budge,  S. Baros, K. Benedict, C. Bales, C. Catrall, S. Morain, G. Sanchez, W. Sprigg, and K. Thome. 2005. ‘PHAiRS – A Public Health Decision Support System: Initial Results’. 31st International Symposium for Remote Sensing of the Environment. St. Petersburg, Russian Federation. May 20-24, 2005.
+
+1. Watson, Richard, Louis A.  Scuderi, Theresa R. Kuntz, and Karl Kent Benedict. 2004. 'Assessing Vegetation Response to Local Rainfall Events Using NEXRAD Weather Radar and MODIS Imagery'. *Proceedings of the ASPRS 2004 Annual Conference*, Denver, CO, May 2004
 
 1. Benedict, Karl Kent, and Jeff Cavner. 2003. ‘WMS Implementation with Minnesota MapServer’. Workshop presented at the Winter 2003 meeting of the Federation of Earth Information Partners. Pasadena, CA. Jan. 6-9, 2003.
 
