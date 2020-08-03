@@ -911,10 +911,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 	a. Introduction to Digital Literacy and Design with Spark
 
 1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019, highlighted topics were led as an instructor)
-	a. Data Carpentry (March 2020 - instructor - "Data Organization in Spreadsheets for Ecologists", "Data Management with SQL for Ecologists", **"Data Analysis and Visualization in R for Ecologists"**)
-	a. Data Carpentry (November 2019 - instructor) - **"Data Organization and Cleaning in Microsoft Excel and OpenRefine"**, "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
+	a. Data Carpentry (July 2020 - helper - virtual) - "Data Organization in Spreadsheets", "Version Control with Git", "Introduction to Python"
+	a. Software Carpentry (June 2020 - instructor - virtual) - *"Programming in Python"*, "Version Control with Git"
+	a. Data Carpentry (March 2020 - instructor) - "Data Organization in Spreadsheets for Ecologists", "Data Management with SQL for Ecologists", **"Data Analysis and Visualization in R for Ecologists"**)
+	a. Data Carpentry (November 2019 - organizer, instructor) - **"Data Organization and Cleaning in Microsoft Excel and OpenRefine"**, "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
 	a. Software Carpentry (May 2019 - helper) - "The Unix Shell", "Version Control with Git", "Programming with Python"
 	a. Software Carpentry (May 2019 - instructor) - **"The Unix Shell"**, **"Version Control with Git"**, **"Programming with Python"**
+	a. Software Carpentry (May 2015 - organizer) - "The Unix Shell", "Version Control with Git", "Programming with Python"
 
 
 ## Technical Skills
