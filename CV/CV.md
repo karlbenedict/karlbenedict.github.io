@@ -29,8 +29,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 * Director of Information Technology (5/19-Present)
 * Director of Research Data Services (7/14-Present)
-* Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Geography and Environmental Studies (7/15-Present)
+* Faculty Librarian for the Centennial Science and Engineering Library (7/15-5/19)
 * Subject Librarian for Earth & Planetary Sciences (7/15-5/19)
 * Subject Librarian for Computer Science (5/17-5/19)
 * Subject Librarian for the Life Sciences (7/15-4/16)
@@ -108,6 +108,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### UNM - College of University Libraries and Learning Sciences
 
+2020 - 2022, *Curriculum Committee*
+
 2016 - Present, *College Assessment Committee*
 
 2018 - 2020, *Sabbatical Committee* (Chair, 2019-2020)
@@ -143,11 +145,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### University
 
-2020 - Present, *Committee Member*, UNM Faculty Senate Research Policy Committee
+2020 - Present, *Committee Member*, UNM Faculty Senate Research Policy Committee (Vice-Chair, 2020-2021)
 
 2019 - Present, *Committee Member*, UNM IT Academic Technology Advisory Committee
 
-2018 - Present, *Committee Member*, UNM IT Research Technology Advisory Committee (*Research Data Management Working Group* Chair)
+2018 - Present, *Committee Member*, UNM IT Research Technology Advisory Committee (Co-Chair, 2020-2021; *Research Data Management Working Group* Chair)
 
 2017 - Present, *Committee Member*, UNM Faculty Senate University Press Committee
 
@@ -206,7 +208,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Advisory/Steering Committee Appointments**
 
-2014 - Present, *External Advisory Board Member* (Chair), US Virgin Islands NSF EPSCoR Track 1 Project
+2014 - Present, *External Advisory Board Member* (Chair, 2014-2019), US Virgin Islands NSF EPSCoR Track 1 Project
 
 2015 - 2018, *Technical Advisory Committee* (Chair), Digital Preservation Network
 
@@ -219,11 +221,11 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 2020 - 2021, *Nomination Committee* of the Federation of Earth Science Information Partners. (Chair 2020-2021)
 
-2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
-
 2019 - 2021, *Board Member*, Earth Science Information Partners (ESIP). (Chair 2019-2020)
 
 2017 - Present, *Co-Chair* of the DataONE Users Group, DataONE Community Board. 
+
+2019 - 2020, *President*, Earth Science Information Partners (ESIP). 
 
 2016 - 2018, *Nomination Committee* of the Federation of Earth Science Information Partners
 
@@ -275,11 +277,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Peer Review
 
+2020 *Religions*
+
+2016, 2017, 2018, 2019, 2020 *ISPRS International Journal of Geo-Information*
+
 2019, *Data*
 
 2019, *Sustainability*
-
-2016, 2017, 2018, 2019 *ISPRS International Journal of Geo-Information*
 
 2017, 2018 *Computers & Geosciences*
 
@@ -295,9 +299,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### External Reviewer
 
+2020, *Promotion and Tenure Review*, Texas A&M University
+
 2019, *Promotion and Tenure Review*, CUNY-CSI
 
 ### Data Help Desk
+
+2020 *EGU Data Help Desk*. Staffed the virtual data help desk in conjunction with the European Geophysical Union Meeting. May 11-15, 2020. Online.
 
 2019 *AGU Data Help Desk*. Staffed a data help desk in conjunction with the American Geophysical Union Fall Meeting. San Francisco, CA. December 9-13, 2019. San Francisco, CA. 
 
@@ -307,6 +315,13 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 
 ## Symposia/Meeting Sessions Organized
+
+<!-- DataONE Community Meeting - Aug 2020 -->
+
+1. "Project Planning and Management Workshop". Co-organizer of a three-part workshop at the Earth Science Information Partners Virtual Summer Meeting. July 15, 21, 22, 2020.  [https://sched.co/cIvX](https://sched.co/cIvX)
+
+
+1. "ESIP Public-Private Partnership Cluster". Co-organizer of a breakout session at the Earth Science Information Partners Virtual Summer Meeting. July 14, 2020. [https://sched.co/cIvX](https://sched.co/cIvX)
 
 1. "Developing, Using and Testing Tools to Assess Learning Resources from two Perspectives: the Teacher and the Learner". Co-organizer of a breakout session at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 8, 2020. [https://sched.co/Xrhf](https://sched.co/Xrhf)
 
@@ -464,55 +479,53 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ## Publications
 
-### Journal Articles
+### Journal Articles - Peer Reviewed
 
-1. Angela Gregory, Chao Chen, Rui Wu, Sarah Miller, Sajjad Ahmad, John W. Anderson, Hays Barrett, Karl Benedict, Dan Cadol, Sergiu M. Dascalu, Donna Delparte, Lynn Fenstermaker, Sarah Godsey, Frederick C. Harris Jr., James P. McNamara, Scott W. Tyler, John Savickas, Luke Sheneman, Mark Stone and Matthew A. Turner. 2020. 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*. Vol. 2. [https://doi.org/10.3389/frwa.2020.00002](https://doi.org/10.3389/frwa.2020.00002)
+1. Angela Gregory, Chao Chen, Rui Wu, Sarah Miller, Sajjad Ahmad, John W. Anderson, Hays Barrett, Karl Benedict, Dan Cadol, Sergiu M. Dascalu, Donna Delparte, Lynn Fenstermaker, Sarah Godsey, Frederick C. Harris Jr., James P. McNamara, Scott W. Tyler, John Savickas, Luke Sheneman, Mark Stone and Matthew A. Turner. 2020. 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*. Vol. 2. DOI: 10.3389/frwa.2020.00002. [URL](https://doi.org/10.3389/frwa.2020.00002): https://doi.org/10.3389/frwa.2020.00002
 
-1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: [https://doi.org/10.1108/OIR-02-2018-0056](https://doi.org/10.1108/OIR-02-2018-0056)
+1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: 10.1108/OIR-02-2018-0056. [URL](https://doi.org/10.1108/OIR-02-2018-0056): https://doi.org/10.1108/OIR-02-2018-0056
 
-1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
+1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. [URL](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474): http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474
 
-1. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: http://dx.doi.org/10.1894/0038-4909-58.2.150. URL: [http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150][1]
+1. Brand, L. Arriana, Mark D. Dixon, Trevor Fetz, Juliet C. Stromberg, Steven Stewart, Gail Garber, David C. Goodrich, David S. Brookshire, Craig D. Broadbent and Karl Benedict. 2013. 'Projecting Avian Responses to Landscape Management Along the Middle Rio Grande, New Mexico'. *The Southwestern Naturalist*. 58(2):150-162. DOI: 10.1894/0038-4909-58.2.150. [URL](http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150): http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
 
-1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI:10.1080/13658816.2012.715650. URL: [http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650][2]
+1. Qunying Huang, Chaowei Yang, Karl Benedict, Abdelmounaam Rezgui, Jibo Xie, Jizhe Xia  Songqing Chen. 2012. 'Using adaptively-coupled models and high performance computing for enabling the computability of dust storm forecasting'. *International Journal of Geographical Information Science*. 27(4):765-784. DOI: 10.1080/13658816.2012.715650. [URL](http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650): http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
 
-1. Qunying Huang , Chaowei Yang , Karl Benedict , Songqing Chen, Abdelmounaam Rezgui & Jibo Xie. 2012. 'Utilize cloud computing to support dust storm forecasting', *International Journal of Digital Earth*. 6(4):338-355. DOI:10.1080/17538947.2012.749949. URL: [http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949][3]
+1. Qunying Huang , Chaowei Yang , Karl Benedict , Songqing Chen, Abdelmounaam Rezgui & Jibo Xie. 2012. 'Utilize cloud computing to support dust storm forecasting', *International Journal of Digital Earth*. 6(4):338-355. DOI:10.1080/17538947.2012.749949. [URL](http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949): http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949
 
-1. Quinn, Todd, Karl Benedict, Jeff Dickey. 2012. 'Ligia Grischa, A Successful Swiss Colony of the Dakota Territory Frontier'. *Great Plains Quarterly*. Vol. 32 (Fall 2012):247-60.   
-[http://digitaleditions.sheridan.com/publication/index.php?i=133104&m=&l=&p=5&pre=&ver=  
-flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4] 
+1. Quinn, Todd, Karl Benedict, Jeff Dickey. 2012. 'Ligia Grischa, A Successful Swiss Colony of the Dakota Territory Frontier'. *Great Plains Quarterly*. Vol. 32 (Fall 2012):247-60. [URL](https://digitalcommons.unl.edu/greatplainsquarterly/2824/): https://digitalcommons.unl.edu/greatplainsquarterly/2824/
 
-1. Brookshire, David G., David Goodrich, Mark D. Dixon, L. Arriana Brand, Karl Benedict, Kevin Lansey, Jennifer Thacher, Craig Broadbent, Steve Stewart, Molly McIntosh, and Doosun Kang. 2010. 'Ecosystem Services and Reallocation Choices: A Framework for Preserving Semi-Arid Regions of the Southwest'. *Journal of Contemporary Water Research & Education*. Issue 144: 60-74. [http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2010.00075.x/abstract][5]
+1. Brookshire, David G., David Goodrich, Mark D. Dixon, L. Arriana Brand, Karl Benedict, Kevin Lansey, Jennifer Thacher, Craig Broadbent, Steve Stewart, Molly McIntosh, and Doosun Kang. 2010. 'Ecosystem Services and Reallocation Choices: A Framework for Preserving Semi-Arid Regions of the Southwest'. *Journal of Contemporary Water Research & Education*. Issue 144: 60-74. DOI: 10.1111/j.1936-704X.2010.00075.x. [URL](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1936-704X.2010.00075.x): https://onlinelibrary.wiley.com/doi/full/10.1111/j.1936-704X.2010.00075.x
 
 ### Book Chapters
 
-1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. Retrieved from <http://bit.ly/CRDataV2>
+1. Faundeen J, Percivall G, Baros S, Baumann P, Becker P, Behnke J, Benedict K, Colaiacomo L, Di L, Doescher C, Dominguez J, Edberg R, Gerguson M, Foreman S, Giaretta D, Hutchinson VB, Ip A, James NL, Khalsa SS, Lazorchak B, Lewis A, Li F, Lymburner L, Lynnes CS, Martens M, Melrose R, Morris S, Mueller N, Navale V, Navulur K, Newman DJ, Oliver S, Purss M, Ramapriyan HK, Rew R, Rosen M, Savickas J, Sixsmith J, Sohre T, Thau D, Uhlir P, Wang L, Young J. Archiving and Access Systems for Remote Sensing . In: *Manual of Remote Sensing. 4th ed*. Morain SA, Renslow MS, Budge AM, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2020. Chapter 6; p.451-630. [URL](https://www.ingentaconnect.com/content/10.14358/MRS/Chapter6):https://www.ingentaconnect.com/content/10.14358/MRS/Chapter6
 
-1. Faundeen J, Percivall G, Baros S, Baumann P, Becker P, Behnke J, Benedict K, Colaiacomo L, Di L, Doescher C, Dominguez J, Edberg R, Gerguson M, Foreman S, Giaretta D, Hutchinson VB, Ip A, James NL, Khalsa SS, Lazorchak B, Lewis A, Li F, Lymburner L, Lynnes CS, Martens M, Melrose R, Morris S, Mueller N, Navale V, Navulur K, Newman DJ, Oliver S, Purss M, Ramapriyan HK, Rew R, Rosen M, Savickas J, Sixsmith J, Sohre T, Thau D, Uhlir P, Wang L, Young J. Archiving and Access Systems for Remote Sensing . In: *Manual of Remote Sensing. 4th ed*. Morain SA, Renslow MS, Budge AM, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2020. Chapter 6; p.451-630. <!--https://doi.org/10.14358/mors.1-6-->
+1. Benedict, K. (2017). 'The Geographic Storage, Transformation and Retrieval Engine (GSToRE): A Platform for Active Data Access and Publication as a Complement to Dedicated Long-Term Preservation System'. In *Curating research data. Volume two, A handbook of current practice* (Vol. 2, pp. 207–209), Lisa R. Johnston, ed. Chicago, IL: Association of College and Research Libraries. [URL](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838988633_crd_v2_OA.pdf): http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838988633_crd_v2_OA.pdf
 
-1. Watson RP, Benedict KK, Watson TR. Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS . In: *Evolving Approaches to Understanding Natural Hazards*. Tobin G, Montz B, editors. Lady Stephenson Library, Newcastle upon Tyne: Cambridge Scholars Publishing; 2015. Chapter 18; p.266-275. <http://karlbenedict.com/pubs/2015_Watson_et_al.pdf> 
+1. Watson, Richard P., Karl K Benedict, Theresa R. (Kuntz) Watson. 2015. 'Monitoring Weather Hazards on Rural Roads Using Remote Sensing and GIS'. In *Evolving Approaches to Understanding Natural Hazards*. G.A. Tobin and B.E. Montz (eds.) Cambridge Scholars Publishing: Newcastle-Upon-Tyne. pp. 217-229. [URL](http://karlbenedict.com/pubs/2015_Watson_et_al.pdf): http://karlbenedict.com/pubs/2015_Watson_et_al.pdf 
 
-1. Yang C, Huang Q, Huang Q, Xia J, Yu M, Benedict K, Bambacus M. Cloud-enabling dust storm forecasting . In: *Spatial Cloud Computing: A Practical Approach*. 1 ed. Yang C, Huang Q, editors. Boca Raton, FL: CRC Press; 2014. Chapter 10; p.161-176. 357p. [http://dx.doi.org/10.1201/b16106-14][12]
+1. Yang C, Huang Q, Huang Q, Xia J, Yu M, Benedict K, Bambacus M. Cloud-enabling dust storm forecasting . In: *Spatial Cloud Computing: A Practical Approach*. 1 ed. Yang C, Huang Q, editors. Boca Raton, FL: CRC Press; 2014. Chapter 10; p.161-176. 357p. DOI: 0.1201/b16106-14. [URL](http://dx.doi.org/10.1201/b16106-14): http://dx.doi.org/10.1201/b16106-14
 
-1. Kempler S, Leptoukh GG, Kiang RK, Soebiyanto RP, Tong DQ, Ceccato P, Maxwell S, Rommel RG, Jacquez GM, Benedict KK, Morain SA, Yang P, Huang Q, Golden ML, Chen RS, Pinzon JE, Zaitchik B, Irwin D, Estes S, Luvall J, Wimberly M, Xiao X, Charland KM, Stumpf RP, Deng Z, Tilburg CE, Liu Y, McClure L, Huff A. Data Discovery, Access and Retrieval . In: *Environmental Tracking for Public Health Surveillance**. Morain SA, Budge AM, editors. Boca Raton, FL: CRC Press; 2013. Chapter 6; p.229-291. 480p. [http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf][6]
+1. Kempler S, Leptoukh GG, Kiang RK, Soebiyanto RP, Tong DQ, Ceccato P, Maxwell S, Rommel RG, Jacquez GM, Benedict KK, Morain SA, Yang P, Huang Q, Golden ML, Chen RS, Pinzon JE, Zaitchik B, Irwin D, Estes S, Luvall J, Wimberly M, Xiao X, Charland KM, Stumpf RP, Deng Z, Tilburg CE, Liu Y, McClure L, Huff A. Data Discovery, Access and Retrieval . In: *Environmental Tracking for Public Health Surveillance*. Morain SA, Budge AM, editors. Boca Raton, FL: CRC Press; 2013. Chapter 6; p.229-291. 480p. [URL](http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf): http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf
 
-1. Watson RP, Ehlers M, Budge TK, Benedict KK. New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements . In: *Remote Sensing of Human Settlements**. Ridd MK, Hipple JD, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2006. Chapter 12; p.713-738. [http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf][7]
+1. Watson RP, Ehlers M, Budge TK, Benedict KK. New and Emerging Instruments and Some Emerging Trends for Remote Sensing of Human Settlements . In: *Remote Sensing of Human Settlements*. Ridd MK, Hipple JD, editors. Bethesda, MD: American Society for Photogrammetry and Remote Sensing; 2006. Chapter 12; p.713-738. [URL](http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf): http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf
 
-1. Huckell, Bruce, Lisa Huckell, and Karl Kent Benedict. 2002. 'Maize Agriculture and the Rise of Mixed Farming-Foraging Economies in Southeastern Arizona During the Second Millennium B.C.'  In *Traditions, Transitions, and Technologies:  Themes in Southwestern Archaeology*, Sarah Schlanger, Editor. University Press of Colorado. pp 136-159.
+1. Huckell, Bruce, Lisa Huckell, and Karl Kent Benedict. 2002. 'Maize Agriculture and the Rise of Mixed Farming-Foraging Economies in Southeastern Arizona During the Second Millennium B.C.'  In *Traditions, Transitions, and Technologies:  Themes in Southwestern Archaeology*, Sarah Schlanger, Editor. University Press of Colorado. pp 136-159. [URL](http://karlbenedict.com/pubs/2002_MaizeAgriculture_reduced.pdf): http://karlbenedict.com/pubs/2002_MaizeAgriculture_reduced.pdf
 
-1. Benedict, Karl Kent, and Janet D. Orcutt. 2002. 'Settlement'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds., pp 165-219. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. [https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm)
+1. Benedict, Karl Kent, and Janet D. Orcutt. 2002. 'Settlement'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds., pp 165-219. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. [URL](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm): https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm
 
-1. Powell, Melissa, and Karl Kent Benedict. 2002. 'Ceramic Chronology'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. pp 59-98. [https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm)
+1. Powell, Melissa, and Karl Kent Benedict. 2002. 'Ceramic Chronology'. In, *From Folsom to Fogelson: the Cultural Resources Inventory Survey of Pecos National Historical Park*, Genevieve N. Head, Janet D. Orcutt, Eds. Anthropology Projects, Cultural Resources Management, Intermountain Region, National Park Service, Dept. of the Interior. Santa Fe, NM. pp 59-98. [URL](https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm): https://permanent.access.gpo.gov/gpo65570/www.nps.gov/parkhistory/online_books/pecos/cris/index.htm
 
-### Papers in Proceedings
+### Peer Reviewed Proceedings Papers
 
-1. Eric Fritzinger, Sergiu M. Dascalu, Daniel P. Ames, Karl Benedict, Ivan Gibbs, Michael J. McMahon, Jr., Frederick C. Harris, Jr. 2012. 'The Demeter Framework for Model and Data Interoperability'. *Proceedings of the 2012 International Congress on Environmental Modelling and Software: Managing Resources of a Limited Planet: Pathways and Visions under Uncertainty*, R Seppelt, A.A. Voinov, S. Lange, D. Bankamp (Eds.). International Environmental Modelling and Software Society (iEMSs) Sixth Biennial Meeting, Leipzig, Germany. [http://karlbenedict.com/pubs/2012%20D6_1236_Dascalu_et_al.pdf][8]
+1. Eric Fritzinger, Sergiu M. Dascalu, Daniel P. Ames, Karl Benedict, Ivan Gibbs, Michael J. McMahon, Jr., Frederick C. Harris, Jr. 2012. 'The Demeter Framework for Model and Data Interoperability'. *Proceedings of the 2012 International Congress on Environmental Modelling and Software: Managing Resources of a Limited Planet: Pathways and Visions under Uncertainty*, R Seppelt, A.A. Voinov, S. Lange, D. Bankamp (Eds.). International Environmental Modelling and Software Society (iEMSs) Sixth Biennial Meeting, Leipzig, Germany. [URL](http://karlbenedict.com/pubs/2012%20D6_1236_Dascalu_et_al.pdf): http://karlbenedict.com/pubs/2012%20D6_1236_Dascalu_et_al.pdf
 
-1. Watson, Richard, Karl Kent Benedict, Theresa R. Watson, Kurt Menke, and Robert R. Parmenter. 2006. 'Satellite Imagery and Internet Mapping Services in Support of Science-Based Adaptive management of Grasslands in the Valles Caldera National Preserve'. *Papers of the Applied Geography Conference - 2006*. 29:206-213. [http://karlbenedict.com/pubs/2006%20Applied%20Geography%20Conference%20Proceedings.pdf][9]
+1. Watson, Richard, Karl Kent Benedict, Theresa R. Watson, Kurt Menke, and Robert R. Parmenter. 2006. 'Satellite Imagery and Internet Mapping Services in Support of Science-Based Adaptive management of Grasslands in the Valles Caldera National Preserve'. *Papers of the Applied Geography Conference - 2006*. 29:206-213. [URL](http://karlbenedict.com/pubs/2006%20Applied%20Geography%20Conference%20Proceedings.pdf): http://karlbenedict.com/pubs/2006%20Applied%20Geography%20Conference%20Proceedings.pdf
 
-1. Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909 [http://karlbenedict.com/pubs/2004%20Watson%20et%20al.pdf][10]
+1. Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909 [URL](http://karlbenedict.com/pubs/2004%20Watson%20et%20al.pdf): http://karlbenedict.com/pubs/2004%20Watson%20et%20al.pdf
 
-1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf][11]
+1. Watson, Richard, Karl Kent Benedict and Theresa R. Kuntz. 2003. 'Monitoring Weather Hazards on Rural Roads using Remote Sensing and GIS'. *Papers of the Applied Geography Conferences*. 26: 266-275, Colorado Springs, CO. November 2003 [URL](http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf): http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf
 
 ### Popular Articles
 
@@ -531,8 +544,42 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 "Human Nature" Journal Website. 2002. Web site developed by Karl Benedict for the Journal Human Nature to provide access to information about and content for the Journal *Human Nature*. [https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm](https://web.archive.org/web/20021218195723/http://www.archaeoworld.com/journals/humannature/index.cfm)
 
+### Technical Reports/Manuscripts/White Papers
+
+1. Benedict, Karl Kent, Deana D. Pennington. 2014. 'Final Report: Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing climate on ecosystems and human/environmental health systems'. Manuscript submitted to NASA under Grant/Cooperative Agreement ACCESS-110018 NNX12AF52A. 
+
+1. Del Rio, Nicholas, Natalia Villanueva-Rosales, Deana Pennington, Karl Benedict, Aimee Stewart, C. J. Grady. 2013. 'ELSEWeb Meets SADI: Supporting Data-to-Model Integration for Biodiversity Forecasting'. Paper presented at the Association for the Advancement of Artificial Intelligence Fall Symposium. Arlington, VA. November 15-17, 2013. [http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488](http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488)
+
+1. Benedict, Karl Kent, Yang, P., Huang, Q. 2010. ‘Project Final Report & Feasibility Report’.  Manuscript submitted to NASA under Grant/Cooperative Agreement Number: NNX09AN53G on 11/30/2010. Project title: Feasibility of Development and Deployment into Public Health Decision Support systems of a Multi-resolution Nested Dust Forecast System Enabled by Open Standards Based Model and Data Interoperability.
+
+1. Yang, Phil (Chaowei), Karl Kent Benedict, William A. Sprigg. 2008. 'Leverage Model Interoperability and High Performance Computing to Improve Public Health Application (Final Report.)’. Report submitted to NASA 10/15/2008 in partial fulfillment of NASA Grant: NNX07AD99G. 
+
+1. Benedict, Karl Kent. 2005. 'The Open Geospatial Consortium Web Map, Web Feature and Web Coverage Service Standards - an Overview'. Service overview document produced in support of a workshop presented at the Summer 2005 Federation of Earth Science Information Partners meeting in San Diego, CA. [http://karlbenedict.com/documents/ogcworkshop.pdf][12]
+
+1. Office of Evaluation, University of New Mexico Department of Family and Community Medicine. 2000. ‘Child Occupant Protection Program Evaluation.  Knowledge, Attitudes, and Practices Study’.  Data collection, analysis, and report funded by: New Mexico Department of Health, Bureau of Injury Prevention, Emergency Medical Services, and New Mexico Traffic Safety Bureau.  Manuscript on file at the Office of Evaluation, Department of Family and Community Medicine, University of New Mexico, Albuquerque, NM.
+
+1. Ebert, James I., Eileen Camilli, Eric Ingbar, Roger Warner, Karl Kent Benedict. 1994. ‘National Science Foundation Phase I Final Report’.  Project Title: A Study of the Feasibility of Developing Generally Applicable Methods and Techniques for the Conversion of Existing State Cultural Resources Databases to Geographic Information Systems.  Manuscript submitted to the National Science Foundation, reporting the results of analysis conducted under award number III-9360278.  James I. Ebert, Principle Investigator.  On file at Ebert and Associates, Inc., 3700 Rio Grande Blvd. NW, Suite 3, Albuquerque, NM.
+
+1. Robinson, Mark, Melinda Romano, Richard Cerrito, Adella Schroth, John Torres, Jill Onken, David Weatherby, Karl Kent Benedict, Scott Williams, Dennis McDougal, Susan Goldberg. 1993. ‘Metropolitan Water District, Domenigoni Valley Reservoir Project, Prehistoric Testing and Evaluation Report’. Edited by: Lynne Ertle, Susan Goldberg, Kerry Lehto, Melinda Romano. Numbers: 1,3,4,6. Submitted to Metropolitan Water District of Southern California, P.O. Box 54153, Los Angeles, CA, by INFOTEC Research Inc.
+
+1. Benedict, Karl Kent and Barbara Balen. 1991. ‘Cultural Resource Inventory Report 05-16-296, Camp 17 Helicopter Fire Salvage Sale’. U.S. Forest Service Report. Report on file at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
+
+1. Benedict, Karl Kent and John Maher. 1991. ‘Archaeological Reconnaissance Report Addendum 05-03-331-53, 1990 Salvage Addendum to the South Fork of the American River Watershed Archaeological Reconnaissance Report 05-03-331’. U.S. Forest Service Report. Report on file at the Eldorado National Forest, Supervisors Office, 100 Forni Road, Placerville, CA.
+
+1. Lebow, Clayton G., Melinda C. Romano, Christian Miss, Karl Kent Benedict, Lou Ann Speulda, Scott A. Williams, Susan K. Goldberg, Gordon A. Lothson, Richard M. Pettigrew, Randall F. Schalk, Jon M. Silvermoon, and Judith A. Willig. 1991. ‘Archaeological Testing and Evaluation report, 1990-1991 Field Season and Historic Properties Treatment Plan, PGT-PG&E Pipeline Expansion Project, Idaho, Washington, Oregon, and California’, Volume II.C: Descriptive Reports and Data Compendia, Prehistoric Sites, Oregon Appendices. Edited by: Susan K. Goldberg, Randall F. Schalk, Richard M. Pettigrew, and Michael J. Moratto. Submitted to: Pacific Gas Transmission Company, San Francisco, CA.
+
+1. Benedict, Karl Kent and John Maher. 1990. ‘1989 Salvage, Iron, Meyers, Sleek Insect Salvage Sales, Archaeological Reconnaissance Report Addendum 05-03-336-33. Addendum to Archaeological Reconnaissance Report 05-03-336, North Fork of the Cosumnes Watershed Archaeological Reconnaissance Report’. U.S. Forest Service Report. Report on file at the Eldorado National Forest, Supervisors Office, 100 Forni Road, Placerville, CA.
+
+1. Benedict, Karl Kent. 1989. ‘Addendum Form, Cultural Resource Inventory Report, CRIR 05-16-267: Matsen Fire Salvage Sale’. U.S. Forest Service Report. Report on file  at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
+
+1. Benedict, Karl Kent. 1989. ‘Cultural Resource Inventory Report #295, Stanislaus Helicopter Fire Salvage, Cultural Resource Inventory Report 05-16-295’. U.S. Forest Service Report. Report on file at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
+
 
 ### Presented Papers / Workshops
+
+1. Ward Fleri and Karl Benedict. "Project Planning and Management Workshop". Three-part workshop at the Earth Science Information Partners Virtual Summer Meeting. July 15, 21, 22, 2020.  [https://sched.co/cIvX](https://sched.co/cIvX) 
+
+1. Karl Benedict, Nancy Hoebelheinrich. "Moving the ESIP Data Management Training Clearinghouse to a Training & Education Gateway for Research Data Skills Instructors and Learners", Workshop presented at the RDAP Summit 2020. Santa Fe, NM. March 13, 2020. 
 
 1. Nancy Hoebelheinrich, Karl Benedict. "Developing, Using & Testing Tools to Assess Learning. Perspectives from Two Perspectives: the Teacher & the Learner". Paper presented at the Earth Science Information Partners Winter Meeting. North Bethesda, MD. January 8, 2020. [http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf](http://karlbenedict.com/presentations/2020-10_ESIP/ESIPWtr2020AssessmentFramework_WorkingSession.pdf)
 
@@ -590,7 +637,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. O'Brien, Patrick, Kenning Arlitsch, Jeff Mixter, Susan Borda, Karl Benedict, Jonathan Wheeler, Sue Baughman, Gary Roebuck, Leila Sterman, Scott Young (2016). "Improving the Reported Use and Impact of Your Institutional Repository (IR)". Presentation to the Digital Library Federation Forum.  Milwaukee, Wisconsin. November 8, 2016.
 
-1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in SharedValues and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
+1. Benedict, Karl, Joshua Young, Chris Lenhardt. 2016. "Agile Data Curation as a Diversity of Practices Grounded in Shared Values and Principles". Paper presented at SciDataCon. Denver, CO, September 13, 2016. [http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2016-09-SciDataCon/ConceptualOverview.pdf)
 
 1. Benedict, Karl, Chris Lenhardt, Joshua Young. 2016. "Agile Data Curation - Conceptual Foundation". Paper presented at the Federation of Earth Science Information Partners Summer Meeting. Durham, NC. July 22, 2016. [http://karlbenedict.com/presentations/2016-07_ESIP/ConceptualOverview.pdf](http://karlbenedict.com/presentations/2015-11-BBER/2015-11_Benedict.pdf)
 
@@ -818,35 +865,6 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 1. Scuderi, Louis, Richard Watson, and Karl Kent Benedict. 1996. ‘The Development and Application of a GIS-Based Prehistoric Resource Distribution Model in Archaeological Research’.  Workshop presented at the Third International Conference/Workshop on Integrating GIS and Environmental Modeling. Santa Fe, New Mexico.  January 21-25 1996.
 
-### Technical Reports/Manuscripts/White Papers
-
-1. Benedict, Karl Kent, Deana D. Pennington. 2014. 'Final Report: Earth, Life and Semantic Web (ELSeWeb): An Earth observation-driven, Semantic Web system for computational modeling of the impact of changing climate on ecosystems and human/environmental health systems'. Manuscript submitted to NASA under Grant/Cooperative Agreement ACCESS-110018 NNX12AF52A. 
-
-1. Del Rio, Nicholas, Natalia Villanueva-Rosales, Deana Pennington, Karl Benedict, Aimee Stewart, C. J. Grady. 2013. 'ELSEWeb Meets SADI: Supporting Data-to-Model Integration for Biodiversity Forecasting'. Paper presented at the Association for the Advancement of Artificial Intelligence Fall Symposium. Arlington, VA. November 15-17, 2013. [http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488](http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7631/7488)
-
-1. Benedict, Karl Kent, Yang, P., Huang, Q. 2010. ‘Project Final Report & Feasibility Report’.  Manuscript submitted to NASA under Grant/Cooperative Agreement Number: NNX09AN53G on 11/30/2010. Project title: Feasibility of Development and Deployment into Public Health Decision Support systems of a Multi-resolution Nested Dust Forecast System Enabled by Open Standards Based Model and Data Interoperability.
-
-1. Yang, Phil (Chaowei), Karl Kent Benedict, William A. Sprigg. 2008. 'Leverage Model Interoperability and High Performance Computing to Improve Public Health Application (Final Report.)’. Report submitted to NASA 10/15/2008 in partial fulfillment of NASA Grant: NNX07AD99G. 
-
-1. Benedict, Karl Kent. 2005. 'The Open Geospatial Consortium Web Map, Web Feature and Web Coverage Service Standards - an Overview'. Service overview document produced in support of a workshop presented at the Summer 2005 Federation of Earth Science Information Partners meeting in San Diego, CA. [http://karlbenedict.com/documents/ogcworkshop.pdf][12]
-
-1. Office of Evaluation, University of New Mexico Department of Family and Community Medicine. 2000. ‘Child Occupant Protection Program Evaluation.  Knowledge, Attitudes, and Practices Study’.  Data collection, analysis, and report funded by: New Mexico Department of Health, Bureau of Injury Prevention, Emergency Medical Services, and New Mexico Traffic Safety Bureau.  Manuscript on file at the Office of Evaluation, Department of Family and Community Medicine, University of New Mexico, Albuquerque, NM.
-
-1. Ebert, James I., Eileen Camilli, Eric Ingbar, Roger Warner, Karl Kent Benedict. 1994. ‘National Science Foundation Phase I Final Report’.  Project Title: A Study of the Feasibility of Developing Generally Applicable Methods and Techniques for the Conversion of Existing State Cultural Resources Databases to Geographic Information Systems.  Manuscript submitted to the National Science Foundation, reporting the results of analysis conducted under award number III-9360278.  James I. Ebert, Principle Investigator.  On file at Ebert and Associates, Inc., 3700 Rio Grande Blvd. NW, Suite 3, Albuquerque, NM.
-
-1. Robinson, Mark, Melinda Romano, Richard Cerrito, Adella Schroth, John Torres, Jill Onken, David Weatherby, Karl Kent Benedict, Scott Williams, Dennis McDougal, Susan Goldberg. 1993. ‘Metropolitan Water District, Domenigoni Valley Reservoir Project, Prehistoric Testing and Evaluation Report’. Edited by: Lynne Ertle, Susan Goldberg, Kerry Lehto, Melinda Romano. Numbers: 1,3,4,6. Submitted to Metropolitan Water District of Southern California, P.O. Box 54153, Los Angeles, CA, by INFOTEC Research Inc.
-
-1. Benedict, Karl Kent and Barbara Balen. 1991. ‘Cultural Resource Inventory Report 05-16-296, Camp 17 Helicopter Fire Salvage Sale’. U.S. Forest Service Report. Report on file at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
-
-1. Benedict, Karl Kent and John Maher. 1991. ‘Archaeological Reconnaissance Report Addendum 05-03-331-53, 1990 Salvage Addendum to the South Fork of the American River Watershed Archaeological Reconnaissance Report 05-03-331’. U.S. Forest Service Report. Report on file at the Eldorado National Forest, Supervisors Office, 100 Forni Road, Placerville, CA.
-
-1. Lebow, Clayton G., Melinda C. Romano, Christian Miss, Karl Kent Benedict, Lou Ann Speulda, Scott A. Williams, Susan K. Goldberg, Gordon A. Lothson, Richard M. Pettigrew, Randall F. Schalk, Jon M. Silvermoon, and Judith A. Willig. 1991. ‘Archaeological Testing and Evaluation report, 1990-1991 Field Season and Historic Properties Treatment Plan, PGT-PG&E Pipeline Expansion Project, Idaho, Washington, Oregon, and California’, Volume II.C: Descriptive Reports and Data Compendia, Prehistoric Sites, Oregon Appendices. Edited by: Susan K. Goldberg, Randall F. Schalk, Richard M. Pettigrew, and Michael J. Moratto. Submitted to: Pacific Gas Transmission Company, San Francisco, CA.
-
-1. Benedict, Karl Kent and John Maher. 1990. ‘1989 Salvage, Iron, Meyers, Sleek Insect Salvage Sales, Archaeological Reconnaissance Report Addendum 05-03-336-33. Addendum to Archaeological Reconnaissance Report 05-03-336, North Fork of the Cosumnes Watershed Archaeological Reconnaissance Report’. U.S. Forest Service Report. Report on file at the Eldorado National Forest, Supervisors Office, 100 Forni Road, Placerville, CA.
-
-1. Benedict, Karl Kent. 1989. ‘Addendum Form, Cultural Resource Inventory Report, CRIR 05-16-267: Matsen Fire Salvage Sale’. U.S. Forest Service Report. Report on file  at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
-
-1. Benedict, Karl Kent. 1989. ‘Cultural Resource Inventory Report #295, Stanislaus Helicopter Fire Salvage, Cultural Resource Inventory Report 05-16-295’. U.S. Forest Service Report. Report on file at the Stanislaus National Forest, Supervisors Office, 19777 Greenley Road, Sonora, CA.
 
 ## Instruction
 
@@ -856,7 +874,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Credit Courses
 
-1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017, Fall 2019.
+1. *Introduction to Spatial Data Management* (OILS 515 [Also offered as GEOG 522 starting in Fall 2017], University of New Mexico; Organization, Information and Learning Sciences): Spring 2014, Spring 2015 (provided as independent study for three students), Fall 2016, Fall 2017, Fall 2019, Fall 2020.
 
 1. *Spatial Data Management in Environmental Sciences* (INFO 533 \[1-week intensive course co-taught with Will Shuart], University of New Mexico, University Library): June 2011, 2012, 2013, 2014
 
@@ -892,10 +910,11 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 	a. Project Management with Task Juggler [https://github.com/unmrds/cc-taskjuggler](https://github.com/unmrds/cc-taskjuggler)
 	a. Introduction to Digital Literacy and Design with Spark
 
-1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019)
-	a. Software Carpentry (May 2019 - instructor) - "The Unix Shell", "Version Control with Git", "Programming with Python"
-	b. Software Carpentry (May 2019 - helper) - "The Unix Shell", "Version Control with Git", "Programming with Python"
-	c. Data Carpentry (November 2019 - instructor) - "Data Organization and Cleaning in Microsoft Excel and OpenRefine", "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
+1. [Carpentries](https://carpentries.org) (Certified Instructor - 2/2019, highlighted topics were led as an instructor)
+	a. Data Carpentry (March 2020 - instructor - "Data Organization in Spreadsheets for Ecologists", "Data Management with SQL for Ecologists", **"Data Analysis and Visualization in R for Ecologists"**)
+	a. Data Carpentry (November 2019 - instructor) - **"Data Organization and Cleaning in Microsoft Excel and OpenRefine"**, "Data Analysis and Visualization using R", "Data Management in Databases with Structured Query Language (SQL)"
+	a. Software Carpentry (May 2019 - helper) - "The Unix Shell", "Version Control with Git", "Programming with Python"
+	a. Software Carpentry (May 2019 - instructor) - **"The Unix Shell"**, **"Version Control with Git"**, **"Programming with Python"**
 
 
 ## Technical Skills
@@ -906,6 +925,8 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Perl
 * BASH shell
 * Jupyter/IPython notebooks
+* R/Rstudio
+* Markdown for document development and processing
 
 ### Web Development
 
@@ -920,7 +941,6 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 
 ### Statistical & Mathematical Analysis/Modeling
 
-* R
 * SPSS
 * SAS
 * Mathematica
@@ -943,6 +963,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Quantum GIS/QGIS
 * MapServer
 * GeoServer
+* GRASS GIS
 * ArcIMS
 * GPS
 * Mapping: Transit, Compass & Tape/pacing
@@ -955,6 +976,7 @@ flex#%7B%22page%22:4,%22issue\_id%22:133104%7D][4]
 * Services-oriented architectures
 * Cloud computing
 * Docker Container Development and Hosting
+* Version Control with Git and hosted repositories in GitHub and GitLab
 * Basic principles of computer network design
 * Windows, Linux and Mac OS X 
 * Core productivity applications: MS Office, Apple iWork applications, Google Drive
@@ -1008,18 +1030,4 @@ New Mexico Geographic Information Council (~2001-2018, [http://nmgic.com/](http:
 
 Society for American Archaeology (~1995-2017, [http://saa.org/](http://saa.org/))
 
-* revised: 2020-01
-
-
-[1]:	http://www.bioone.org/doi/full/10.1894/0038-4909-58.2.150
-[2]:	http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.715650
-[3]:	http://www.tandfonline.com/doi/abs/10.1080/17538947.2012.749949
-[4]:	http://digitaleditions.sheridan.com/publication/index.php?i=133104&m=&l=&p=5&pre=&ver=flex#%7B%22page%22:4,%22issue%5C_id%22:133104%7D
-[5]:	http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2010.00075.x/abstract
-[6]:	http://karlbenedict.com/pubs/2012%20Environmental%20Tracking%20Chapter.pdf
-[7]:	http://karlbenedict.com/pubs/2006%20Manual%20of%20Remote%20Sensing%20Chapter.pdf
-[8]:	http://karlbenedict.com/pubs/2012%20D6_1236_Dascalu_et_al.pdf
-[9]:	http://karlbenedict.com/pubs/2006%20Applied%20Geography%20Conference%20Proceedings.pdf
-[10]:	http://karlbenedict.com/pubs/2004%20Watson%20et%20al.pdf
-[11]:	http://karlbenedict.com/pubs/2003%20Applied%20Geography%20Conference%20Proceedings.pdf
-[12]:	http://karlbenedict.com/documents/ogcworkshop.pdf
+* revised: 2020-08

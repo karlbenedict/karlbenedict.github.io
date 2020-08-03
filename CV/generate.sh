@@ -1,5 +1,5 @@
 #!/bin/bash
-pandoc -s --pdf-engine=xelatex --template=./default.latex -o cv.pdf CV.md
+pandoc -s --latex-engine=xelatex --template=./default.latex -o cv.pdf CV.md
 # pandoc -s  -o cv.pdf CV.md
 pandoc -s --self-contained --css=cv.css -o index.html CV.md
 pandoc -s --self-contained --css=cv.css -o cv.html CV.md
