@@ -471,6 +471,8 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 ### Journal Articles
 
+1. Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, H., Benedict, K., Cadol, D., Dascalu, S. M., Delparte, D., Fenstermaker, L., Godsey, S., Harris, F. C. J., McNamara, J. P., Tyler, S. W., Savickas, J., Sheneman, L., Stone, M., & Turner, M. A. (2020). 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*, 2. https://doi.org/10.3389/frwa.2020.00002
+
 1. Patrick O’Brien, Scott W.H. Young, Kenning Arlitsch, Karl Benedict. 2018. 'Protecting privacy on the web: A study of HTTPS and Google Analytics implementation in academic library websites', *Online Information Review*, Vol. 42 Issue: 6, pp.734-751, DOI: [https://doi.org/10.1108/OIR-02-2018-0056](https://doi.org/10.1108/OIR-02-2018-0056)
 
 1. Wheeler, Jonathan, Karl Benedict. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: 10.1080/15420353.2015.1035474. URL: [http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474)
