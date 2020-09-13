@@ -198,13 +198,14 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 
 **Task Force/Working Group Service**
 
-2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management* - limited Task Force activity since 2019.
-
 2019 - Present, Earth Science Information Partners Program Committee representative to the Group on Earth Observations (GEO).
 
 2019 - Present, Earth Science Information Partners representative to the GEO *Data Sharing and Data Management Principles Working Group*.
 
 2019 - Present, Earth Science Information Partners representative to the GEO *GEOSS Infrastructure Development Task Team*.  
+
+2016 - Present, member of the *Greater Western Library Alliance Task Force on Research Data Management* - limited Task Force activity since 2019.
+
 
 **Advisory/Steering Committee Appointments**
 
@@ -971,7 +972,7 @@ May, 1986, B.A., Anthropology, University of California, Berkeley.
 * GPS
 * Mapping: Transit, Compass & Tape/pacing
 * Interoperability Standards: OGC WMS, WFS, WCS & CSW
-* Metadata Standards: FGDC CSDGM, ISO 19115 (and related standards)
+* Metadata Standards: FGDC CSDGM, ISO 19115 (and related standards), Dublin Core, DataCite
 
 ### Information Technology
 
