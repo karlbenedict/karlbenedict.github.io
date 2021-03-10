@@ -17,46 +17,44 @@ University of California Berkeley, CA        Anthropology   1986 - B.A.
 
 
 ## Relevant Appointments
------------------------- ------------------------------------------------------- ------------
-University of New Mexico UNM College of University Libraries & Learning Sciences 2014-Present
-                         Assoc. Professor, Director of Research Data Svc., IT     
-                         *Subject Librarian*: Geography & Environmental Studies, 
-                         (2015-2020), Earth & Planetary Sciences, Computer 
-                         Science (2015-19), Life Sciences (2015-16)
+------------------------ ------------ -------------------------------------------------------
+University of New Mexico 2014-Present College of University Libraries & Learning Sciences
+                                      Assoc. Professor, Director of Research Data Svc., IT   
+                                      *Subject Librarian*: Geography & Environmental Studies,
+                                      (2015-2020), Earth & Planetary Sciences, Computer 
+                                      Science (2015-19), Life Sciences (2015-16)
 
-                         UNM College of University Libraries & Learning Sciences 2014
-                         Assistant Professor, Geospatial and Env. Data Scientist
+                         2014         College of University Libraries & Learning Sciences
+                                      Assistant Professor, Geospatial and Env. Data Scientist
 
-                         UNM Department of Geography & Environmental Studies     2008-Present
-                         Affiliated Faculty
+                         2008-Present Department of Geography & Environmental Studies    
+                                      Affiliated Faculty
 
-                         UNM Earth Data Analysis Center                          2008-2014
-                         Director
+                         2008-2014    Earth Data Analysis Center Director
 
-                         UNM Department of Anthropology. Adjunct Professor       2004-2018
+                         2004-2018    UNM Department of Anthropology. Adjunct Professor      
 
-                         UNM Earth Data Analysis Center                          2001-2008
-                         Senior Research Scientist, Research Scientist,
-                         IT Manager
+                         2001-2008    UNM Earth Data Analysis Center                         
+                                      Senior Research Scientist, Research Scientist,
+                                      IT Manager
 
-                         UNM Office of Evaluation                                2000
-                         Project Assistant - Data Analyst
+                         2000         UNM Office of Evaluation                               
+                                      Project Assistant - Data Analyst
 
-                         UNM Earth Data Analysis Center                          1999-2001
-                         Project Assistant - Web Application Developer
+                         1999-2001    UNM Earth Data Analysis Center                         
+                                      Project Assistant - Web Application Developer
 
-                         UNM Department of Anthropology                          1994-1997
-                         Graduate Assistant - Computer Lab Manager
+                         1994-1997    UNM Department of Anthropology                         
+                                      Graduate Assistant - Computer Lab Manager
 
-                         UNM Computer Information Resources & Technology         1993-1996
-                         Help Desk Liaison
+                         1993-1996    UNM Computer Information Resources & Technology        
+                                      Help Desk Liaison
 
-National Park Service    Pecos National Historic Park                            1999-2001
-                         Data Analyst
+National Park Service    1999-2001    Pecos National Historic Park                           
+                                      Data Analyst
 
-Ebert & Associates       Data Analyst                                            1994-1995
-
------------------------- ------------------------------------------------------- ------------
+Ebert & Associates       1994-1995    Data Analyst                                           
+------------------------ ------------ -------------------------------------------------------
 
 ## Selected Publications and Other Products
 
