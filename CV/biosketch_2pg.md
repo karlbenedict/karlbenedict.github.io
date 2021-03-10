@@ -6,7 +6,8 @@ MSC05 3020, 1 University of New Mexico, Albuquerque, NM 87131. \
 kbene@unm.edu, (505) 277-5256 \
 [github.com/karlbenedict](http://github.com/karlbenedict) / ORCID: [0000-0002-9109-2072](https://orcid.org/0000-0002-9109-2072)
 
-## Professional Preparation
+**Professional Preparation**
+
 ------------------------ ------------------- -------------- ------------------------------
 University of New Mexico Albuquerque, NM     Anthropology   2004 - Ph.D. with distinction
 
@@ -16,7 +17,8 @@ University of California Berkeley, CA        Anthropology   1986 - B.A.
 ------------------------ ------------------- -------------- ------------------------------
 
 
-## Relevant Appointments
+**Relevant Appointments**
+
 ------------------------ ------------ -------------------------------------------------------
 University of New Mexico 2014-Present College of University Libraries & Learning Sciences
                                       Assoc. Professor, Director of Research Data Svc., IT   
@@ -32,22 +34,22 @@ University of New Mexico 2014-Present College of University Libraries & Learning
 
                          2008-2014    Earth Data Analysis Center Director
 
-                         2004-2018    UNM Department of Anthropology. Adjunct Professor      
+                         2004-2018    Department of Anthropology. Adjunct Professor      
 
-                         2001-2008    UNM Earth Data Analysis Center                         
+                         2001-2008    Earth Data Analysis Center                         
                                       Senior Research Scientist, Research Scientist,
                                       IT Manager
 
-                         2000         UNM Office of Evaluation                               
+                         2000         Office of Evaluation                               
                                       Project Assistant - Data Analyst
 
-                         1999-2001    UNM Earth Data Analysis Center                         
+                         1999-2001    Earth Data Analysis Center                         
                                       Project Assistant - Web Application Developer
 
-                         1994-1997    UNM Department of Anthropology                         
+                         1994-1997    Department of Anthropology                         
                                       Graduate Assistant - Computer Lab Manager
 
-                         1993-1996    UNM Computer Information Resources & Technology        
+                         1993-1996    Computer Information Resources & Technology        
                                       Help Desk Liaison
 
 National Park Service    1999-2001    Pecos National Historic Park                           
@@ -78,7 +80,7 @@ Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 200
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
 
-## Synergistic Activities
+**Synergistic Activities**
 
 * President of the *Federation of Earth Science Information Partners* - 2012-2014, 2019-2020
 * Member of the Board of Directors for the *Foundation for Earth Science* - 2010-2017, 2019-2020 (Chair/President 2012-2017, 2019-2020)
