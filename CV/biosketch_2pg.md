@@ -58,7 +58,7 @@ National Park Service    1999-2001    Pecos National Historic Park
 Ebert & Associates       1994-1995    Data Analyst                                           
 ------------------------ ------------ -------------------------------------------------------
 
-## Selected Publications and Other Products
+**Selected Publications and Other Products**
 
 John Faundeen, George Percivall, Shirley Baros, Peter Baumann, Peter Becker, J. Behnke, **Karl Benedict**, Lucio Colaiacomo, Liping Di, Chris Doescher, ... (2020). 'Chapter 6: Archiving and Access Systems for Remote Sensing', in: *Manual of Remote Sensing*. 4th ed.  Stanley A. Morain, Michael S. Renslow, and Amelia M. Budge (eds). American Society for Photogrammetry & Remote Sensing. Bethesda, MD.  
 
