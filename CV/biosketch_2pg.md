@@ -56,11 +56,9 @@ University of New Mexico UNM Computer Information Resources & Technology        
                          Help Desk Liaison
 ------------------------ ------------------------------------------------------- ------------
 
-## Products
+## Selected Publications and Other Products
 
-### Five Most Related Publications and Other Products
-
-John Faundeen, George Percivall, Shirley Baros, Peter Baumann, Peter Becker, J. Behnke, **Karl Benedict**, Lucio Colaiacomo, Liping Di, Chris Doescher, J. Dominguez, Roger Edberg, Mark Ferguson, Stephen Foreman, David Giaretta, Vivian B. Hutchison, Alex Ip, N.L. James, Siri Jodha S. Khalsa, B. Lazorchak, Adam Lewis, Fuqin Li, Leo Lymburner, C.S. Lynnes, Matt Martens, Rachel Melrose, Steve Morris, Norman Mueller, Vivek Navale, Kumar Navulur, D.J. Newman, Simon Oliver, Matthew Purss, H.K. Ramapriyan, Russ Rew, Michael Rosen, John Savickas, Joshua Sixsmith, Tom Sohre, David Thau, Paul Uhlir, Lan-Wei Wang and Jeff Young. (2020). 'Chapter 6: Archiving and Access Systems for Remote Sensing', in: *Manual of Remote Sensing*. 4th ed.  Stanley A. Morain, Michael S. Renslow, and Amelia M. Budge (eds). American Society for Photogrammetry & Remote Sensing. Bethesda, MD.  
+John Faundeen, George Percivall, Shirley Baros, Peter Baumann, Peter Becker, J. Behnke, **Karl Benedict**, Lucio Colaiacomo, Liping Di, Chris Doescher, ... (2020). 'Chapter 6: Archiving and Access Systems for Remote Sensing', in: *Manual of Remote Sensing*. 4th ed.  Stanley A. Morain, Michael S. Renslow, and Amelia M. Budge (eds). American Society for Photogrammetry & Remote Sensing. Bethesda, MD.  
 
 Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, H., **Benedict, K.**, Cadol, D., Dascalu, S. M., Delparte, D., Fenstermaker, L., Godsey, S., Harris, F. C. J., McNamara, J. P., Tyler, S. W., Savickas, J., Sheneman, L., Stone, M., & Turner, M. A. (2020). 'Efficient Model-Data Integration for Flexible Modeling, Parameter Analysis and Visualization, and Data Management'. *Frontiers in Water*, 2. [https://doi.org/10.3389/frwa.2020.00002](https://doi.org/10.3389/frwa.2020.00002)
 
@@ -68,19 +66,17 @@ Gregory, A., Chen, C., Wu, R., Miller, S., Ahmad, S., Anderson, J. W., Barrett, 
 
 Wheeler, Jonathan, **Karl Benedict**. 2015. 'Functional Requirements Specification for Archival Asset Management: Identification and Integration of Essential Properties of Services Oriented Architecture Products'. *Journal of Map and Geography Libraries* 11(2). pp. 155-179. DOI: [10.1080/15420353.2015.1035474](http://www.tandfonline.com/doi/full/10.1080/15420353.2015.1035474).
 
+Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, **K Benedict**, S Morain, P Yang, Q Huang, ... 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291.
+
+Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909
+
+"Data Management Training Clearinghouse (DMTC)". 2020 - in progress. Curated clearinghouse for distributed research data management training materials accessible over the web. Since 2018 I have been the PI for an Institute of Museum and Library Services grant to enhance the DMTC through developing an expanded documentation model for content in the Clearinghouse, assessment tools for the content registered in the Clearinghouse, diversification and expansion of the collection of materials in the Clearinghouse, and increasing Clearinghouse usage through outreach to the Data Librarian community. **Role: Project lead, information architect, developer**. In-progress.[https://dmtclearinghouse.esipfed.org/](https://dmtclearinghouse.esipfed.org/)
+
 "Coffee and Code". 2017-2018. Workshop series and presentation platform developed by Karl Benedict and Jonathan Wheeler, with contributions by Mark Servilla and Elizabeth Cooper. Workshop series accessable from the UNM Research Data Services GitHub repository - [http://github.com/unmrds](http://github.com/unmrds)
-
-
-### Other Significant Publications and Products
 
 "Geographic Storage, Transformation and retrieval Engine Version 3". 2013. Geospatial data management, discovery and access platform and associated Application Programming Interface. Developed at the Earth Data Analysis Center at UNM under the direction of Karl Benedict. [https://web.archive.org/web/20130704202601/http://gstore.unm.edu](https://web.archive.org/web/20130704202601/http://gstore.unm.edu)
 
 "New Mexico Resource Geographic Information System". 2002. Web application developed by Karl Benedict to provide browsing, discovery and download of geospatial data published as part of the New Mexico Resource Geographic Information System Program at the Earth Data Analysis Center at the University of New Mexico. [https://web.archive.org/web/20020913053314/http://rgis.unm.edu/](https://web.archive.org/web/20020913053314/http://rgis.unm.edu/)
-
-Leptoukh, G, R Kiang, R Soebiyanto, D Tong, P Ceccato, S Maxwell, R Rommel, G Jacquez, K Benedict, S Morain, P Yang, Q Huang, M Golden, R Chen, J Pinzon, B Zaitchik, D Irwin, S Estes, J Luvall, M Wimberly, X Xiao, K Charland, R Stumpf, Z Deng, C Tilburg, Y Liu, L McClure, and A Huff. 2012. 'Data Discovery, Access and Retrieval', in *Environmental Tracking for Public Health Surveillance*. Morain and Budge, eds. CRC Press, pp. 229–291.
-
-Watson, Richard, Louis A. Scuderi, Karl Kent Benedict, and Theresa R. Kuntz. 2004. 'Data Fusion for Environmental Assessment: Integrating MODIS Imagery and NEXRAD Weather Radar'. International Society for Photogrammetry and Remote Sensing,  20th International Congress, Istanbul, June. *Archives* B-4:906-909
-
 
 ## Synergistic Activities
 
