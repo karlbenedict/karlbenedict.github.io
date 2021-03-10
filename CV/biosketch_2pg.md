@@ -24,36 +24,38 @@ University of New Mexico UNM College of University Libraries & Learning Sciences
                          (2015-2020), Earth & Planetary Sciences, Computer 
                          Science (2015-19), Life Sciences (2015-16)
 
-University of New Mexico UNM College of University Libraries & Learning Sciences 2014
+                         UNM College of University Libraries & Learning Sciences 2014
                          Assistant Professor, Geospatial and Env. Data Scientist
 
-University of New Mexico UNM Department of Geography & Environmental Studies     2008-Present
+                         UNM Department of Geography & Environmental Studies     2008-Present
                          Affiliated Faculty
 
-University of New Mexico UNM Earth Data Analysis Center                          2008-2014
+                         UNM Earth Data Analysis Center                          2008-2014
                          Director
 
-University of New Mexico UNM Department of Anthropology. Adjunct Professor       2004-Present
-University of New Mexico UNM Earth Data Analysis Center                          2001-2008
+                         UNM Department of Anthropology. Adjunct Professor       2004-2018
+
+                         UNM Earth Data Analysis Center                          2001-2008
                          Senior Research Scientist, Research Scientist,
                          IT Manager
 
-University of New Mexico UNM Office of Evaluation                                2000
+                         UNM Office of Evaluation                                2000
                          Project Assistant - Data Analyst
 
-University of New Mexico UNM Earth Data Analysis Center                          1999-2001
+                         UNM Earth Data Analysis Center                          1999-2001
                          Project Assistant - Web Application Developer
+
+                         UNM Department of Anthropology                          1994-1997
+                         Graduate Assistant - Computer Lab Manager
+
+                         UNM Computer Information Resources & Technology         1993-1996
+                         Help Desk Liaison
 
 National Park Service    Pecos National Historic Park                            1999-2001
                          Data Analyst
 
-University of New Mexico UNM Department of Anthropology                          1994-1997
-                         Graduate Assistant - Computer Lab Manager
-
 Ebert & Associates       Data Analyst                                            1994-1995
 
-University of New Mexico UNM Computer Information Resources & Technology         1993-1996
-                         Help Desk Liaison
 ------------------------ ------------------------------------------------------- ------------
 
 ## Selected Publications and Other Products
