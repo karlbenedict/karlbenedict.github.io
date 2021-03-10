@@ -20,9 +20,9 @@ University of California Berkeley, CA        Anthropology   1986 - B.A.
 ------------------------ ------------------------------------------------------- ------------
 University of New Mexico UNM College of University Libraries & Learning Sciences 2014-Present
                          Assoc. Professor, Director of Research Data Svc., IT     
-                         *Subject Librarian*: Geography & Environmental Studies (2015-2020), 
-                         Earth & Planetary Sciences, Computer Science (2015-19)
-                         Life Sciences (2015-16)
+                         *Subject Librarian*: Geography & Environmental Studies, 
+                         (2015-2020), Earth & Planetary Sciences, Computer 
+                         Science (2015-19), Life Sciences (2015-16)
 
 University of New Mexico UNM College of University Libraries & Learning Sciences 2014
                          Assistant Professor, Geospatial and Env. Data Scientist
