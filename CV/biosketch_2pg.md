@@ -3,8 +3,8 @@
 
 College of University Libraries and Learning Sciences, University of New Mexico.\
 MSC05 3020, 1 University of New Mexico, Albuquerque, NM 87131. \
-kbene@unm.edu, [github.com/karlbenedict](http://github.com/karlbenedict) (505) 277-5256
-
+kbene@unm.edu, (505) 277-5256 \
+[github.com/karlbenedict](http://github.com/karlbenedict) / ORCID: [0000-0002-9109-2072](https://orcid.org/0000-0002-9109-2072)
 
 ## Professional Preparation
 ------------------------ ------------------- -------------- ------------------------------
