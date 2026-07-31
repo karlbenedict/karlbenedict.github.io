@@ -1,0 +1,109 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Authorization complete</title>
+<!--
+  Redirect target for the labs-summary Epic app. Deploy so that it answers at
+  https://karlbenedict.com/labs-callback/ - the path must match the Endpoint URI
+  registered with Epic exactly, so this file has to be index.html inside a
+  labs-callback/ directory. A file named labs-callback.html answers at a
+  different URL and will not match.
+
+  This page never sees the access token. The authorization code arrives in the
+  query string and is useless on its own: the app holds a PKCE code verifier
+  that never leaves the local machine, and the code cannot be exchanged without
+  it. Everything here is client-side; nothing is transmitted anywhere.
+-->
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    max-width: 34rem; margin: 0 auto; padding: 2.5rem 1.25rem;
+  }
+  h1 { font-size: 1.35rem; margin: 0 0 .25rem; }
+  .sub { color: #666; margin: 0 0 1.75rem; }
+  code, #code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  #code {
+    display: block; word-break: break-all; font-size: .82rem;
+    padding: .8rem; border: 1px solid #ccc; border-radius: 6px;
+    background: #f6f6f6; margin: 0 0 .6rem;
+  }
+  button {
+    font: inherit; padding: .5rem 1rem; border-radius: 6px;
+    border: 1px solid #888; background: #eee; cursor: pointer;
+  }
+  .ok  { color: #1a7f37; font-weight: 600; }
+  .err { color: #b3261e; font-weight: 600; }
+  ol { padding-left: 1.2rem; } li { margin: .4rem 0; }
+  footer { margin-top: 2.5rem; font-size: .82rem; color: #777; }
+  @media (prefers-color-scheme: dark) {
+    #code { background: #1e1e1e; border-color: #444; }
+    button { background: #2a2a2a; border-color: #666; color: inherit; }
+    .sub, footer { color: #9a9a9a; }
+  }
+</style>
+
+<h1 id="head">Authorization complete</h1>
+<p class="sub" id="sub">You can close this tab once you have copied the address below.</p>
+
+<div id="ok-block">
+  <p>Copy this and paste it back into the terminal when it asks for the
+     authorization code or URL:</p>
+  <div id="code">Loading&hellip;</div>
+  <button id="copy" type="button">Copy</button>
+  <span id="copied" hidden class="ok">Copied</span>
+
+  <p style="margin-top:1.75rem">If the box above is empty, copy the entire
+     address from your browser's address bar instead — it contains the same
+     information.</p>
+</div>
+
+<div id="err-block" hidden>
+  <p class="err" id="err-msg"></p>
+  <p>Nothing was shared. You can close this tab and start again.</p>
+</div>
+
+<footer>
+  This page is part of a personal tool for collecting lab results. It runs
+  entirely in your browser, sends nothing anywhere, and has no access to your
+  health record.
+</footer>
+
+<script>
+  (function () {
+    var q = new URLSearchParams(window.location.search);
+
+    if (q.get("error")) {
+      document.getElementById("ok-block").hidden = true;
+      document.getElementById("err-block").hidden = false;
+      document.getElementById("head").textContent = "Authorization was not completed";
+      document.getElementById("sub").textContent = "";
+      document.getElementById("err-msg").textContent =
+        q.get("error_description") || q.get("error");
+      return;
+    }
+
+    // Hand back the whole URL: httr2 accepts it directly and checks the state
+    // parameter, which guards against a response we did not initiate.
+    var value = window.location.href;
+    if (!q.get("code")) {
+      value = "";
+      document.getElementById("code").textContent =
+        "No authorization code found in this address.";
+    } else {
+      document.getElementById("code").textContent = value;
+    }
+
+    document.getElementById("copy").addEventListener("click", function () {
+      if (!value) return;
+      navigator.clipboard.writeText(value).then(function () {
+        var c = document.getElementById("copied");
+        c.hidden = false;
+        setTimeout(function () { c.hidden = true; }, 2000);
+      });
+    });
+  })();
+</script>
